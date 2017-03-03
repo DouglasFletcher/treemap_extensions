@@ -203,47 +203,7 @@
 				var jsonin = JSON.parse(rawdata);
 
 
-				/// ============
-				/// create graph
-				/// ============
-				// populate graph with default values
-				var filteredData = getdata(recordtype, grouplevel, jsonin);
-				// append node elements to graph
-				buildGraph(filteredData);
 
-				/// ============
-				/// update graph
-				/// ============
-
-				// record type update
-				d3.selectAll("#RecordType").on("change", function change() {
-					// get record level
-					recordtype = this.value;
-					// get new data
-					var filteredData = getdata(recordtype, grouplevel, jsonin);
-					// create new diagram
-					buildGraph(filteredData);
-				});
-
-				// group level update
-				d3.selectAll("#grouplevel").on("change", function change() {
-					// get group level
-					grouplevel = this.value;
-					// get new data
-					filteredData = getdata(recordtype, grouplevel, jsonin);
-					// update diagram
-					buildGraph(filteredData);
-				});
-
-				d3.selectAll("#attribmethod").on("change", function change() {
-					// get attribute type
-					attribmethod = this.value;
-					// get new data
-					filteredData = getdata(recordtype, grouplevel, jsonin);
-					// update diagram
-					//smoothTransition(filteredData);
-					buildGraph(filteredData);
-				});
 
 
 
@@ -568,6 +528,53 @@
 							//.style("opacity", 0);
 							//.text(setnames)
 							//.style("color", "white");
+
+
+
+				/// ============
+				/// create graph
+				/// ============
+				// populate graph with default values
+				var filteredData = getdata(recordtype, grouplevel, jsonin);
+				// append node elements to graph
+				buildGraph(filteredData);
+
+				/// ============
+				/// update graph
+				/// ============
+
+				// record type update
+				d3.selectAll("#RecordType").on("change", function change() {
+					// get record level
+					recordtype = this.value;
+					// get new data
+					var filteredData = getdata(recordtype, grouplevel, jsonin);
+					// create new diagram
+					buildGraph(filteredData);
+				});
+
+				// group level update
+				d3.selectAll("#grouplevel").on("change", function change() {
+					// get group level
+					grouplevel = this.value;
+					// get new data
+					filteredData = getdata(recordtype, grouplevel, jsonin);
+					// update diagram
+					buildGraph(filteredData);
+				});
+
+				d3.selectAll("#attribmethod").on("change", function change() {
+					// get attribute type
+					attribmethod = this.value;
+					// get new data
+					filteredData = getdata(recordtype, grouplevel, jsonin);
+					// update diagram
+					//smoothTransition(filteredData);
+					buildGraph(filteredData);
+				});
+
+
+
 
 
 			</script>
