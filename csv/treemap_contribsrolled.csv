@@ -1,0 +1,1450 @@
+success type,attribution_method,SearchMatchType,SearchCategory,RecordType,CampaignMap,ActivitySubType,CampaignMapSearch,Site,CampaignType,Channel,contribution
+build0, attributed, Broad, Commerce, Search Click,  , , Fleet Lease, DART Search : Google,  , Previous Site Activity, 1139.35230912
+testd00, last_event,  ,  , Impression, Smax, ,  , Mobile.de, Brand, Previous Site Activity, 23.0
+testd00, attributed,  ,  , Impression, Fleet February, ,  , aumago.com, Retail, Previous Site Activity, 3.67946536193
+testd00, last_event,  ,  , Impression, Gewerbewochen Marz, ,  , mirando.de, Retail, Previous Site Activity, 4.0
+build0, last_event,  ,  , Display Click, Retail January, ,  , motor-talk.de, Retail, Previous Site Activity, 76.0
+build0, attributed,  ,  , Display Click, Gewerbewochen Marz, ,  , Business Advertising GmbH, Retail, Previous Site Activity, 5.85294402267
+build0, attributed,  ,  , Impression, UNKNOWN, ,  , Bauer Media, UNKNOWN, Previous Site Activity, 114.713178242
+testd00, attributed,  ,  , Display Click, Smax, ,  , undertone.co.uk, Brand, Previous Site Activity, 1.11233733546
+build0, attributed,  ,  , Display Click, Retail January, ,  , auto-service.de, Retail, Previous Site Activity, 76.5169631199
+build0, last_event,  ,  , Impression, Smax, ,  , undertone.co.uk, Brand, Previous Site Activity, 413.0
+testd00, last_event, Broad, Name Plate, Search Click,  , , Focus, DART Search : Google,  , Previous Site Activity, 48.0
+build0, last_event,  ,  , Display Click, Retail January, ,  , autoplenum.de, Retail, Previous Site Activity, 90.0
+build0, last_event, Exact, Commercial Vehicles, Search Click,  , , Transit, DART Search : Google,  , Previous Site Activity, 92.0
+build0, last_event,  ,  , Display Click, UNKNOWN, ,  , Xaxis Display, UNKNOWN, Previous Site Activity, 26.0
+build0, attributed, Broad, Name Plate, Search Click,  , , Mondeo, DART Search : Google,  , Previous Site Activity, 997.167000211
+testd00, last_event, Broad, Name Plate, Search Click,  , , Fiesta Retail, DART Search : Google,  , Previous Site Activity, 17.0
+build0, last_event,  ,  , Impression, Smax, ,  , Mobile.de, Brand, Previous Site Activity, 945.0
+build0, last_event,  ,  , Impression, Retail Dezember, ,  , SevenOne Media, Retail, Previous Site Activity, 1.0
+build004, attributed,  ,  , Impression, Retail Sales, ,  , XaxisDE, Retail, Previous Site Activity, 1.52492434499
+testd00, attributed,  ,  , Display Click, Smax, ,  , Mobile.de, Brand, Previous Site Activity, 2.44845844703
+build004, attributed,  ,  , Display Click, Retail January, ,  , Light Reaction, Retail, Previous Site Activity, 2.18764207047
+build0, attributed, Broad, Generic, Search Click,  , , 4x4, DART Search : Google,  , Previous Site Activity, 1.0
+build0, last_event,  ,  , Display Click, Retail February, ,  , Light Reaction, Retail, Previous Site Activity, 6326.0
+testd00, last_event,  ,  , Display Click, Smax, ,  , Esome, Brand, Previous Site Activity, 106.0
+build0, attributed, Exact, Generic, Search Click,  , , Crossover, DART Search : Google,  , Previous Site Activity, 1.00000650038
+build0, attributed, Exact, Generic, Search Click,  , , PKW, DART Search : Google,  , Previous Site Activity, 0.5
+build0, last_event, Broad, Generic, Search Click,  , , PKW, DART Search : Google,  , Previous Site Activity, 11.0
+build004, attributed,  ,  , Display Click, Kuga Sustain, ,  , XaxisDE, Brand, Previous Site Activity, 1.0000054572
+build004, last_event,  ,  , Impression, Retail Marz, ,  , OMS DE, Retail, Previous Site Activity, 1.0
+testd00, attributed, Exact, Name Plate, Search Click,  , , Edge, DART Search : Google,  , Previous Site Activity, 41.1671120375
+testd00, last_event,  ,  , Impression, Smax, ,  , ForwardAdGroup, Brand, Previous Site Activity, 2.0
+build004, last_event,  ,  , Impression, Retail Marz, ,  , SevenOne Media GmbH, Retail, Previous Site Activity, 7.0
+build0, last_event,  ,  , Impression, Kuga Sustain, ,  , iq digital media marketing gmbh, Brand, Previous Site Activity, 600.0
+build0, last_event,  ,  , Display Click, UNKNOWN, ,  , Media Impact DE, UNKNOWN, Previous Site Activity, 88.0
+build004, attributed,  ,  , Impression, Retail Sales, ,  , AutoScout24 Media, Retail, Previous Site Activity, 4.34430713268
+testd00, attributed,  ,  , Display Click, Kuga Sustain, ,  , iq digital media marketing gmbh, Brand, Previous Site Activity, 0.408723231222
+testd00, last_event,  ,  , Impression, Gewerbewochen Marz, ,  , Business Advertising GmbH, Retail, Previous Site Activity, 1.0
+build004, last_event,  ,  , Impression, Retail February, ,  , XaxisDE, Retail, Previous Site Activity, 2.0
+testd00, attributed, Broad, Generic, Search Click,  , , Ford Technology, DART Search : Google,  , Previous Site Activity, 1.40213249188e-05
+testd00, last_event,  ,  , Impression, Retail January, ,  , auto-service.de, Retail, Previous Site Activity, 2.0
+build0, last_event, Broad, Name Plate, Search Click,  , , Edge, DART Search : Google,  , Previous Site Activity, 2114.0
+build0, attributed, Exact, Name Plate, Search Click,  , , Edge, DART Search : Google,  , Previous Site Activity, 5007.55418254
+testd00, attributed,  ,  , Impression, Retail January, ,  , OMS DE, Retail, Previous Site Activity, 31.4072322487
+build0, attributed, Exact, Commerce, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 642.30040615
+build0, last_event, Broad, Commerce, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 840.0
+build0, attributed,  ,  , Display Click, Fleet Allrad, ,  , IQ Digital Network, Retail, Previous Site Activity, 15.3720641912
+build004, last_event,  ,  , Impression, Retail January, ,  , auto-motor-und-sport.de, Retail, Previous Site Activity, 11.0
+build0, last_event,  ,  , Impression, UNKNOWN, ,  , SevenOne Media, UNKNOWN, Previous Site Activity, 1.0
+testd00, last_event,  ,  , Display Click, Fleet Allrad, ,  , Light Reaction, Retail, Previous Site Activity, 2.0
+build0, last_event,  ,  , Display Click, Fleet February, ,  , aumago.com, Retail, Previous Site Activity, 6.0
+testd00, last_event,  ,  , Display Click, Retail Marz, ,  , Autoscout24.de, Retail, Previous Site Activity, 2.0
+build0, attributed, Broad, Brand, Search Click,  , , Aktionen, DART Search : Google,  , Previous Site Activity, 39.9657390862
+build004, attributed,  ,  , Impression, Kuga Sustain, ,  , G+J Electric Media Sales GmbH, Brand, Previous Site Activity, 0.322727272727
+testd00, last_event,  ,  , Display Click, Smax, ,  , Plista, Brand, Previous Site Activity, 6.0
+build004, attributed, Exact, Brand, Search Click,  , , Kategorien, DART Search : Google,  , Previous Site Activity, 7.50007585377
+build004, last_event,  ,  , Display Click, Smax, ,  , Axel Springer Media Impact, Brand, Previous Site Activity, 2.0
+testd00, last_event, Exact, Commerce, Search Click,  , , Fleet Lease, DART Search : Google,  , Previous Site Activity, 12.0
+testd00, attributed,  ,  , Impression, UNKNOWN, ,  , Autoscout24.de, UNKNOWN, Previous Site Activity, 2.00004930594
+testd00, last_event, Exact, Brand, Search Click,  , , Alone, DART Search : Google,  , Previous Site Activity, 511.0
+build0, attributed,  ,  , Display Click, Retail February, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 16.3488984724
+build0, attributed,  ,  , Display Click, Smax, ,  , yahoo.co.uk, Brand, Previous Site Activity, 205.395744014
+build004, attributed,  ,  , Impression, Retail January, ,  , motor-talk.de, Retail, Previous Site Activity, 27.6562581562
+build004, attributed,  ,  , Display Click, Motocraft 2016, ,  , Light Reaction, Retail, Previous Site Activity, 0.5
+testd00, attributed, Broad, Brand, Search Click,  , , Handler, DART Search : Google,  , Previous Site Activity, 16.1167676508
+build0, last_event,  ,  , Impression, Gewerbewochen Marz, ,  , EMC, Retail, Previous Site Activity, 16.0
+testd00, last_event, Exact, Name Plate, Search Click,  , , Mondeo, DART Search : Google,  , Previous Site Activity, 43.0
+build0, last_event,  ,  , Display Click, Retail Marz, ,  , XaxisDE, Retail, Previous Site Activity, 165.0
+testd00, last_event,  ,  , Impression, Fleet Allrad, ,  , IQ Digital Network, Retail, Previous Site Activity, 5.0
+euepr528, last_event, Exact, Brand, Search Click,  , , Generisch, DART Search : Google,  , Previous Site Activity, 1.0
+testd00, last_event, Exact, Name Plate, Search Click,  , , Mondeo Vignale, DART Search : Google,  , Previous Site Activity, 2.0
+build0, attributed, Exact, Brand, Search Click,  , , Mondeo Vignale, DART Search : Google,  , Previous Site Activity, 366.443945537
+build0, last_event, Broad, Brand, Search Click,  , , Mondeo Vignale, DART Search : Google,  , Previous Site Activity, 129.0
+testd00, attributed, Broad, Name Plate, Search Click,  , , C-Max Launch, DART Search : Google,  , Previous Site Activity, 21.4866656349
+build004, last_event,  ,  , Impression, Smax, ,  , united internet media, Brand, Previous Site Activity, 4.0
+build004, attributed,  ,  , Impression, UNKNOWN, ,  , Mobile.de, UNKNOWN, Previous Site Activity, 1.0
+testd00, attributed, Broad, Generic, Search Click,  , , Familien, DART Search : Google,  , Previous Site Activity, 2.5
+build0, last_event, Exact, Name Plate, Search Click,  , , Mondeo, DART Search : Google,  , Previous Site Activity, 7220.0
+build0, last_event,  ,  , Impression, Fleet Allrad, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 292.0
+build0, last_event,  ,  , Impression, Retail January, ,  , Mobile.de, Retail, Previous Site Activity, 2674.0
+build0, last_event, Broad, Generic, Search Click,  , , Klein, DART Search : Google,  , Previous Site Activity, 101.0
+build0, attributed, Exact, Generic, Search Click,  , , Klein, DART Search : Google,  , Previous Site Activity, 115.835908195
+build004, attributed,  ,  , Display Click, Retail Sales, ,  , Light Reaction, Retail, Previous Site Activity, 5.44091356314
+testd00, last_event,  ,  , Display Click, Kuga Sustain, ,  , Quisma, Brand, Previous Site Activity, 29.0
+testd00, attributed,  ,  , Display Click, Retail January, ,  , Mobile.de, Retail, Previous Site Activity, 1.31111111111
+build004, last_event,  ,  , Impression, Kuga Sustain, ,  , AutoScout24 Media, Brand, Previous Site Activity, 6.0
+build0, attributed,  ,  , Impression, Kuga Sustain, ,  , Media Impact DE, Brand, Previous Site Activity, 5120.48272624
+build0, last_event,  ,  , Impression, Gewerbewochen Marz, ,  , OMS DE, Retail, Previous Site Activity, 151.0
+build0, attributed, Exact, Commercial Vehicles, Search Click,  , , Tourneo, DART Search : Google,  , Previous Site Activity, 158.111446823
+build0, last_event, Broad, Generic, Search Click,  , , Turer, DART Search : Google,  , Previous Site Activity, 16.0
+build0, last_event, Broad, Commercial Vehicles, Search Click,  , , Tourneo, DART Search : Google,  , Previous Site Activity, 87.0
+build004, attributed, Broad, Brand, Search Click,  , , Alone, DART Search : Google,  , Previous Site Activity, 22.8751342876
+build004, attributed,  ,  , Display Click, Gewerbewochen Marz, ,  , IQ Digital Network, Retail, Previous Site Activity, 1.0
+build0, attributed, Exact, Generic, Search Click,  , , Turer, DART Search : Google,  , Previous Site Activity, 1.00001557077
+build004, attributed,  ,  , Display Click, Smax, ,  , united internet media, Brand, Previous Site Activity, 2.31178407936
+build004, last_event,  ,  , Impression, Kuga Sustain, ,  , Interactive Media, Brand, Previous Site Activity, 3.0
+testd00, last_event,  ,  , Impression, Smax, ,  , yahoo.co.uk, Brand, Previous Site Activity, 3.0
+build0, last_event,  ,  , Impression, Mondeo Vignale 2015, ,  , SevenOne Media, Brand, Previous Site Activity, 2.0
+build0, attributed,  ,  , Display Click, Fleet Allrad, ,  , Business Advertising GmbH, Retail, Previous Site Activity, 5.69891087106
+build0, last_event,  ,  , Display Click, Mondeo Vignale 2015, ,  , ForwardAdGroup, Brand, Previous Site Activity, 1.0
+testd00, attributed,  ,  , Display Click, Retail Marz, ,  , Light Reaction, Retail, Previous Site Activity, 6.29148994214
+testd00, attributed,  ,  , Impression, Kuga Sustain, ,  , united internet media, Brand, Previous Site Activity, 3.36735337215
+build004, attributed,  ,  , Impression, Fleet February, ,  , aumago.com, Retail, Previous Site Activity, 5.35480487861
+testd00, attributed,  ,  , Impression, UNKNOWN, ,  , xaxis.com/de, UNKNOWN, Previous Site Activity, 0.48741636853
+build004, attributed, Broad, Name Plate, Search Click,  , , Mondeo Vignale, DART Search : Google,  , Previous Site Activity, 0.5
+build004, last_event,  ,  , Impression, Gewerbewochen Marz, ,  , mirando.de, Retail, Previous Site Activity, 2.0
+build0, last_event, Exact, Generic, Search Click,  , , Familien, DART Search : Google,  , Previous Site Activity, 141.0
+build0, attributed,  ,  , Display Click, Gewerbewochen Marz, ,  , OMS DE, Retail, Previous Site Activity, 4.40101779589
+testd00, last_event, Exact, Brand, Search Click,  , , Aktionen, DART Search : Google,  , Previous Site Activity, 1.0
+build004, last_event, Broad, Name Plate, Search Click,  , , Focus, DART Search : Google,  , Previous Site Activity, 17.0
+euepr528, attributed, Broad, Commerce, Search Click,  , , Ford Rental, DART Search : Google,  , Previous Site Activity, 1.0
+testd00, last_event, Phrase, Brand, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 1.0
+testd00, attributed, Broad, Generic, Search Click,  , , Limousine, DART Search : Google,  , Previous Site Activity, 0.5
+build004, attributed,  ,  , Display Click, Smax, ,  , undertone.co.uk, Brand, Previous Site Activity, 0.315735136633
+testd00, last_event, Exact, Generic, Search Click,  , , Ford Technology, DART Search : Google,  , Previous Site Activity, 1.0
+build0, attributed,  ,  , Impression, UNKNOWN, ,  , xaxis.com/de, UNKNOWN, Previous Site Activity, 30.1153146415
+build004, attributed, Exact, Name Plate, Search Click,  , , Fiesta Retail, DART Search : Google,  , Previous Site Activity, 29.5002436765
+build004, last_event, Broad, Name Plate, Search Click,  , , Fiesta Retail, DART Search : Google,  , Previous Site Activity, 15.0
+build004, attributed,  ,  , Display Click, Smax, ,  , Mobile.de, Brand, Previous Site Activity, 1.83333333333
+build0, attributed,  ,  , Display Click, Smax, ,  , XaxisDE, Brand, Previous Site Activity, 677.573249849
+testd00, attributed,  ,  , Impression, Kuga Sustain, ,  , Mobile.de, Brand, Previous Site Activity, 23.9883248637
+build0, last_event, Exact, Brand, Search Click,  , , Aktionen, DART Search : Google,  , Previous Site Activity, 119.0
+build004, last_event,  ,  , Display Click, Smax, ,  , Esome, Brand, Previous Site Activity, 10.0
+build0, attributed, Broad, Generic, Search Click,  , , Limousine, DART Search : Google,  , Previous Site Activity, 3.53883475827
+build0, attributed,  ,  , Display Click, UNKNOWN, ,  , autozeitung.de, UNKNOWN, Previous Site Activity, 3.50663071431
+build004, last_event,  ,  , Display Click, Retail Sales, ,  , AutoScout24 Media, Retail, Previous Site Activity, 1.0
+build0, last_event,  ,  , Display Click, UNKNOWN, ,  , Conde Nast, UNKNOWN, Previous Site Activity, 3.0
+build004, attributed,  ,  , Impression, Retail Marz, ,  , XaxisDE, Retail, Previous Site Activity, 1.45605976098
+build004, last_event,  ,  , Impression, Smax, ,  , ForwardAdGroup, Brand, Previous Site Activity, 4.0
+build0, attributed,  ,  , Display Click, Kuga Sustain, ,  , OMS DE, Brand, Previous Site Activity, 80.4879219454
+build0, last_event,  ,  , Impression, Motocraft 2016, ,  , Mobile.de, Retail, Previous Site Activity, 586.0
+build0, last_event,  ,  , Display Click, Gewerbewochen Marz, ,  , Mobile.de, Retail, Previous Site Activity, 40.0
+testd00, attributed,  ,  , Impression, Kuga Sustain, ,  , Bauer Media, Brand, Previous Site Activity, 12.7461567489
+build0, last_event, Exact, Generic, Search Click,  , , Van, DART Search : Google,  , Previous Site Activity, 52.0
+testd00, attributed,  ,  , Impression, Fleet February, ,  , Quarter Media, Retail, Previous Site Activity, 3.36548584621
+testd00, attributed, Exact, Generic, Search Click,  , , Wagen, DART Search : Google,  , Previous Site Activity, 1.0
+testd00, attributed,  ,  , Impression, Smax, ,  , G+J Electric Media Sales GmbH, Brand, Previous Site Activity, 1.28326735456
+build004, attributed, Broad, Generic, Search Click,  , , Ford Technology, DART Search : Google,  , Previous Site Activity, 1.02216274138e-05
+build004, last_event,  ,  , Impression, Retail January, ,  , auto-service.de, Retail, Previous Site Activity, 1.0
+testd00, last_event, Broad, Generic, Search Click,  , , Wagen, DART Search : Google,  , Previous Site Activity, 1.0
+euepr528, attributed, Broad, Name Plate, Search Click,  , , Ranger, DART Search : Google,  , Previous Site Activity, 0.333333333333
+build0, attributed,  ,  , Impression, Retail Marz, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 2873.10715448
+build0, attributed,  ,  , Display Click, Kuga Sustain, ,  , SevenOne Media GmbH, Brand, Previous Site Activity, 246.225774895
+build0, last_event,  ,  , Display Click, Kuga Sustain, ,  , united internet media, Brand, Previous Site Activity, 114.0
+build0, last_event, Exact, Generic, Search Click,  , , Fleet Allrad, DART Search : Google,  , Previous Site Activity, 35.0
+testd00, attributed, Broad, Brand, Search Click,  , , Generisch, DART Search : Google,  , Previous Site Activity, 19.3335776091
+build004, attributed,  ,  , Impression, Retail January, ,  , OMS DE, Retail, Previous Site Activity, 15.8114380272
+testd00, last_event, Exact, Brand, Search Click,  , , Handler, DART Search : Google,  , Previous Site Activity, 20.0
+build004, last_event,  ,  , Display Click, Fleet Allrad, ,  , Light Reaction, Retail, Previous Site Activity, 1.0
+build0, attributed,  ,  , Impression, Kuga Sustain, ,  , Bauer Media, Brand, Previous Site Activity, 1853.17818033
+build0, attributed,  ,  , Impression, Smax, ,  , G+J Electric Media Sales GmbH, Brand, Previous Site Activity, 88.3717666443
+testd00, attributed,  ,  , Impression, UNKNOWN, ,  , AutoScout24 Media, UNKNOWN, Previous Site Activity, 1.50002191201
+testd00, attributed,  ,  , Impression, Retail February, ,  , Mobile.de, Retail, Previous Site Activity, 19.9903405148
+build0, last_event,  ,  , Impression, Retail February, ,  , OMS DE, Retail, Previous Site Activity, 154.0
+build004, last_event,  ,  , Display Click, Smax, ,  , Plista, Brand, Previous Site Activity, 3.0
+testd00, last_event, Broad, Commerce, Search Click,  , , Other Campaign, DART Search : Google,  , Previous Site Activity, 4.0
+testd00, last_event,  ,  , Impression, Fleet Allrad, ,  , EMC, Retail, Previous Site Activity, 1.0
+build0, attributed, Broad, Name Plate, Search Click,  , , Ka, DART Search : Google,  , Previous Site Activity, 1116.99878433
+build0, last_event,  ,  , Impression, Retail Sales, ,  , Mobile.de, Retail, Previous Site Activity, 3757.0
+testd00, last_event, Broad, Name Plate, Search Click,  , , Kuga Sustain, DART Search : Google,  , Previous Site Activity, 50.0
+build0, last_event,  ,  , Display Click, Fleet February, ,  , Light Reaction, Retail, Previous Site Activity, 45.0
+build004, last_event, Exact, Commerce, Search Click,  , , Fleet Lease, DART Search : Google,  , Previous Site Activity, 9.0
+testd00, attributed,  ,  , Display Click, Retail Sales, ,  , Mobile.de, Retail, Previous Site Activity, 2.31718612223
+testd00, attributed,  ,  , Impression, Formel 1 2016, ,  , IP Deutschland, Brand, Previous Site Activity, 1.91665465108
+build004, attributed,  ,  , Impression, UNKNOWN, ,  , Autoscout24.de, UNKNOWN, Previous Site Activity, 1.61111111111
+build0, last_event,  ,  , Impression, Retail January, ,  , Autoscout24.de, Retail, Previous Site Activity, 4144.0
+build0, last_event,  ,  , Impression, Fleet Allrad, ,  , EMC, Retail, Previous Site Activity, 75.0
+testd00, attributed,  ,  , Impression, Retail February, ,  , Bauer Media, Retail, Previous Site Activity, 37.7524364475
+build004, last_event, Exact, Brand, Search Click,  , , Alone, DART Search : Google,  , Previous Site Activity, 449.0
+build0, attributed, Exact, Generic, Search Click,  , , 7Sitzer, DART Search : Google,  , Previous Site Activity, 120.397111452
+build0, last_event, Broad, Generic, Search Click,  , , 7Sitzer, DART Search : Google,  , Previous Site Activity, 80.0
+build0, attributed,  ,  , Display Click, Retail February, ,  , OMS DE, Retail, Previous Site Activity, 5.49238381381
+build0, attributed, Broad, Generic, Search Click,  , , Auto, DART Search : Google,  , Previous Site Activity, 69.969913192
+testd00, last_event,  ,  , Display Click, Kuga Sustain, ,  , Media Impact DE, Brand, Previous Site Activity, 13.0
+testd00, last_event,  ,  , Impression, Kuga Sustain, ,  , OMS DE, Brand, Previous Site Activity, 4.0
+testd00, attributed,  ,  , Display Click, Fleet Allrad, ,  , EMC, Retail, Previous Site Activity, 0.0956635090957
+testd00, attributed,  ,  , Display Click, Retail January, ,  , Autoscout24.de, Retail, Previous Site Activity, 1.18333333333
+testd00, attributed,  ,  , Impression, Retail January, ,  , autozeitung.de, Retail, Previous Site Activity, 53.620733952
+testd00, attributed, Broad, Name Plate, Search Click,  , , Bmax, DART Search : Google,  , Previous Site Activity, 9.33633054441
+build0, last_event,  ,  , Impression, UNKNOWN, ,  , Autobild.de, UNKNOWN, Previous Site Activity, 70.0
+build0, last_event,  ,  , Display Click, Retail February, ,  , united internet media, Retail, Previous Site Activity, 119.0
+testd00, last_event,  ,  , Impression, Fleet February, ,  , IQ Digital Network, Retail, Previous Site Activity, 3.0
+build004, last_event, Exact, Name Plate, Search Click,  , , Mondeo Vignale, DART Search : Google,  , Previous Site Activity, 2.0
+build004, attributed, Broad, Brand, Search Click,  , , Handler, DART Search : Google,  , Previous Site Activity, 1.0
+build004, last_event,  ,  , Impression, Fleet Allrad, ,  , IQ Digital Network, Retail, Previous Site Activity, 1.0
+build0, attributed,  ,  , Impression, Smax, ,  , Xaxis Mobile TV, Brand, Previous Site Activity, 239.737175543
+build0, attributed, Broad, Commercial Vehicles, Search Click,  , , Courier, DART Search : Google,  , Previous Site Activity, 15.4520060102
+testd00, last_event, UNKNOWN, UNKNOWN, Search Click,  , , UNKNOWN, DART Search : MSN,  , Previous Site Activity, 103.0
+build0, last_event,  ,  , Display Click, Kuga Sustain, ,  , Media Impact DE, Brand, Previous Site Activity, 1468.0
+build004, attributed, Broad, Name Plate, Search Click,  , , C-Max Launch, DART Search : Google,  , Previous Site Activity, 8.50016830329
+build004, attributed, Broad, Generic, Search Click,  , , Familien, DART Search : Google,  , Previous Site Activity, 1.0
+build0, last_event,  ,  , Display Click, Fleet February, ,  , Quarter Media, Retail, Previous Site Activity, 7.0
+testd00, attributed, Exact, Brand, Search Click,  , , Drive Hacks, DART Search : Google,  , Previous Site Activity, 1.37638382148e-05
+build004, last_event,  ,  , Display Click, Kuga Sustain, ,  , Quisma, Brand, Previous Site Activity, 5.0
+testd00, last_event,  ,  , Impression, Gewerbewochen Marz, ,  , aumago.com, Retail, Previous Site Activity, 2.0
+build004, attributed,  ,  , Display Click, Fleet Allrad, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 0.5
+build004, attributed,  ,  , Display Click, Retail January, ,  , Mobile.de, Retail, Previous Site Activity, 0.200071153317
+build0, attributed,  ,  , Impression, Retail January, ,  , Autobild.de, Retail, Previous Site Activity, 4616.50502548
+build0, last_event, Broad, Name Plate, Search Click,  , , Ecosport Sustain, DART Search : Google,  , Previous Site Activity, 1406.0
+build0, attributed, Exact, Name Plate, Search Click,  , , Ecosport Sustain, DART Search : Google,  , Previous Site Activity, 5895.05507234
+build0, last_event,  ,  , Impression, Smax, ,  , Interactive Media, Brand, Previous Site Activity, 1833.0
+build004, last_event,  ,  , Impression, Retail February, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 9.0
+build0, attributed,  ,  , Display Click, Retail January, ,  , XaxisDE, Retail, Previous Site Activity, 36.7245924146
+build0, last_event,  ,  , Display Click, Retail February, ,  , Mobile.de, Retail, Previous Site Activity, 39.0
+testd00, attributed,  ,  , Display Click, Smax, ,  , Interactive Media, Brand, Previous Site Activity, 9.76099008899
+testd00, last_event,  ,  , Display Click, Retail Sales, ,  , Plista, Retail, Previous Site Activity, 10.0
+build0, last_event,  ,  , Impression, UNKNOWN, ,  , Mair Dumont, UNKNOWN, Previous Site Activity, 1.0
+build004, attributed,  ,  , Impression, Gewerbewochen Marz, ,  , Mobile.de, Retail, Previous Site Activity, 1.00000450331
+build004, last_event,  ,  , Impression, Smax, ,  , yahoo.co.uk, Brand, Previous Site Activity, 1.0
+build0, last_event,  ,  , Impression, Gewerbewochen Marz, ,  , aumago.com, Retail, Previous Site Activity, 210.0
+testd00, last_event,  ,  , Impression, Retail February, ,  , SevenOne Media, Retail, Previous Site Activity, 25.0
+build0, last_event,  ,  , Display Click, Formel 1 2016, ,  , IP Deutschland, Brand, Previous Site Activity, 20.0
+build0, attributed,  ,  , Display Click, Fleet February, ,  , Business Advertising GmbH, Retail, Previous Site Activity, 6.97255273209
+build004, attributed,  ,  , Display Click, Retail Marz, ,  , Light Reaction, Retail, Previous Site Activity, 2.25
+build0, attributed,  ,  , Display Click, Fleet February, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 5.99256163693
+build004, attributed,  ,  , Impression, Kuga Sustain, ,  , united internet media, Brand, Previous Site Activity, 1.14285714286
+build0, last_event, Exact, Brand, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 1125.0
+build0, last_event,  ,  , Display Click, Retail Sales, ,  , Plista, Retail, Previous Site Activity, 3151.0
+build0, last_event,  ,  , Display Click, Retail February, ,  , Bauer Media, Retail, Previous Site Activity, 93.0
+build004, attributed, Broad, Generic, Search Click,  , , Van, DART Search : Google,  , Previous Site Activity, 0.5
+build004, last_event, Phrase, Brand, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 2.0
+build0, attributed, Broad, FCSD, Search Click,  , , Motocraft, DART Search : Google,  , Previous Site Activity, 248.427619763
+build0, last_event,  ,  , Impression, Motocraft 2016, ,  , Autoscout24.de, Retail, Previous Site Activity, 639.0
+build0, last_event,  ,  , Impression, Retail February, ,  , SevenOne Media, Retail, Previous Site Activity, 1973.0
+build0, last_event,  ,  , Display Click, Retail January, ,  , autozeitung.de, Retail, Previous Site Activity, 100.0
+testd00, last_event,  ,  , Display Click, Retail Marz, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 3.0
+testd00, attributed,  ,  , Display Click, Retail February, ,  , SevenOne Media, Retail, Previous Site Activity, 0.625
+testd00, last_event,  ,  , Display Click, Smax, ,  , Light Reaction, Brand, Previous Site Activity, 57.0
+build0, attributed,  ,  , Display Click, Smax, ,  , IQ Digital Network, Brand, Previous Site Activity, 141.911731891
+testd00, last_event,  ,  , Impression, Retail January, ,  , XaxisDE, Retail, Previous Site Activity, 27.0
+build004, attributed,  ,  , Impression, Kuga Sustain, ,  , Mobile.de, Brand, Previous Site Activity, 5.66828312853
+testd00, last_event,  ,  , Display Click, Kuga Sustain, ,  , Bauer Media, Brand, Previous Site Activity, 8.0
+euepr528, last_event, Exact, Name Plate, Search Click,  , , Mustang, DART Search : Google,  , Previous Site Activity, 2.0
+build0, attributed,  ,  , Impression, Kuga Sustain, ,  , XaxisDE, Brand, Previous Site Activity, 3547.57481537
+build0, last_event, Exact, Name Plate, Search Click,  , , Ka, DART Search : Google,  , Previous Site Activity, 2556.0
+build0, last_event, Exact, Generic, Search Click,  , , SUV, DART Search : Google,  , Previous Site Activity, 72.0
+testd00, attributed,  ,  , Impression, Retail Marz, ,  , OMS DE, Retail, Previous Site Activity, 1.89471162776
+build004, last_event,  ,  , Display Click, Retail January, ,  , OMS DE, Retail, Previous Site Activity, 1.0
+build004, attributed,  ,  , Impression, Retail February, ,  , united internet media, Retail, Previous Site Activity, 5.69255346846
+build0, last_event,  ,  , Impression, UNKNOWN, ,  , Xaxis Mobile TV, UNKNOWN, Previous Site Activity, 4.0
+testd00, last_event,  ,  , Impression, Fleet February, ,  , Business Advertising GmbH, Retail, Previous Site Activity, 1.0
+build004, attributed,  ,  , Impression, Fleet February, ,  , Quarter Media, Retail, Previous Site Activity, 7.11870799126
+testd00, attributed,  ,  , Impression, Retail Marz, ,  , SevenOne Media GmbH, Retail, Previous Site Activity, 26.960708198
+build0, last_event, Exact, Generic, Search Click,  , , Auto, DART Search : Google,  , Previous Site Activity, 191.0
+build0, last_event,  ,  , Impression, Kooperation, ,  , fc-koeln.de, Brand, Previous Site Activity, 10.0
+build004, attributed,  ,  , Impression, Smax, ,  , G+J Electric Media Sales GmbH, Brand, Previous Site Activity, 0.585460371295
+build0, attributed,  ,  , Impression, Mondeo Vignale 2015, ,  , IQ Digital Network, Brand, Previous Site Activity, 1.0000048829
+build004, last_event, Broad, Generic, Search Click,  , , Wagen, DART Search : Google,  , Previous Site Activity, 1.0
+build0, attributed,  ,  , Impression, Retail Marz, ,  , OMS DE, Retail, Previous Site Activity, 350.229059648
+build0, attributed,  ,  , Impression, UNKNOWN, ,  , Business Advertising GmbH, UNKNOWN, Previous Site Activity, 11.5464677094
+testd00, last_event, Exact, Name Plate, Search Click,  , , Bmax, DART Search : Google,  , Previous Site Activity, 101.0
+build004, attributed, Broad, Brand, Search Click,  , , Generisch, DART Search : Google,  , Previous Site Activity, 12.0000061561
+build004, last_event, Exact, Brand, Search Click,  , , Handler, DART Search : Google,  , Previous Site Activity, 1.0
+build0, attributed,  ,  , Impression, Retail Marz, ,  , SevenOne Media GmbH, Retail, Previous Site Activity, 2100.72092676
+build004, last_event,  ,  , Impression, Smax, ,  , XaxisDE, Brand, Previous Site Activity, 85.0
+build004, attributed,  ,  , Impression, Retail February, ,  , Mobile.de, Retail, Previous Site Activity, 6.34519098991
+build0, last_event, Exact, Commercial Vehicles, Search Click,  , , Courier, DART Search : Google,  , Previous Site Activity, 41.0
+build004, last_event, Broad, Commerce, Search Click,  , , Other Campaign, DART Search : Google,  , Previous Site Activity, 2.0
+testd00, last_event,  ,  , Display Click, Smax, ,  , Xaxis Mobile TV, Brand, Previous Site Activity, 4.0
+build004, attributed, Exact, Commerce, Search Click,  , , Other Campaign, DART Search : Google,  , Previous Site Activity, 5.0
+testd00, last_event,  ,  , Impression, Smax, ,  , IQ Digital Network, Brand, Previous Site Activity, 3.0
+build004, attributed,  ,  , Impression, UNKNOWN, ,  , AutoScout24 Media, UNKNOWN, Previous Site Activity, 0.111111111111
+build0, attributed,  ,  , Impression, Retail February, ,  , XaxisDE, Retail, Previous Site Activity, 891.343078779
+build004, attributed,  ,  , Display Click, Retail Sales, ,  , Mobile.de, Retail, Previous Site Activity, 5.60476190476
+build0, last_event,  ,  , Impression, Gewerbewochen Marz, ,  , G+J Electric Media Sales GmbH, Retail, Previous Site Activity, 142.0
+build004, attributed, Exact, Name Plate, Search Click,  , , Kuga Sustain, DART Search : Google,  , Previous Site Activity, 44.0836883985
+build004, last_event, Broad, Name Plate, Search Click,  , , Kuga Sustain, DART Search : Google,  , Previous Site Activity, 13.0
+build004, attributed,  ,  , Impression, Formel 1 2016, ,  , IP Deutschland, Brand, Previous Site Activity, 0.5
+build004, last_event,  ,  , Impression, UNKNOWN, ,  , Autobild.de, UNKNOWN, Previous Site Activity, 1.0
+build0, attributed,  ,  , Impression, Retail January, ,  , auto-motor-und-sport.de, Retail, Previous Site Activity, 5035.87251333
+build0, attributed, Broad, Name Plate, Search Click,  , , Smax, DART Search : Google,  , Previous Site Activity, 1367.68725892
+build0, last_event,  ,  , Impression, Smax, ,  , Axel Springer Media Impact, Brand, Previous Site Activity, 1621.0
+build0, attributed,  ,  , Display Click, Retail Sales, ,  , XaxisDE, Retail, Previous Site Activity, 125.446493141
+build0, attributed, Broad, Name Plate, Search Click,  , , Galaxy Launch, DART Search : Google,  , Previous Site Activity, 401.753409534
+build0, last_event, Phrase, Name Plate, Search Click,  , , Fiesta Retail, DART Search : Google,  , Previous Site Activity, 322.0
+build004, attributed,  ,  , Impression, Retail February, ,  , Bauer Media, Retail, Previous Site Activity, 19.6994287785
+testd00, last_event,  ,  , Display Click, Retail January, ,  , Autobild.de, Retail, Previous Site Activity, 2.0
+build0, last_event,  ,  , Impression, Fleet February, ,  , EMC, Retail, Previous Site Activity, 24.0
+testd00, attributed,  ,  , Display Click, Smax, ,  , Axel Springer Media Impact, Brand, Previous Site Activity, 0.952380952381
+build004, attributed,  ,  , Display Click, Retail January, ,  , Autoscout24.de, Retail, Previous Site Activity, 0.5
+build004, last_event,  ,  , Impression, Kuga Sustain, ,  , OMS DE, Brand, Previous Site Activity, 1.0
+build0, attributed,  ,  , Display Click, Gewerbewochen Marz, ,  , Light Reaction, Retail, Previous Site Activity, 448.676397504
+build0, last_event,  ,  , Impression, Retail Marz, ,  , Mobile.de, Retail, Previous Site Activity, 756.0
+build0, attributed,  ,  , Display Click, Gewerbewochen Marz, ,  , G+J Electric Media Sales GmbH, Retail, Previous Site Activity, 13.560675519
+build0, attributed,  ,  , Impression, Pendolaris, ,  , pendolaris.de, Brand, Previous Site Activity, 12.1615131597
+build004, attributed,  ,  , Impression, Retail January, ,  , autozeitung.de, Retail, Previous Site Activity, 46.1993413429
+testd00, last_event, Exact, FCSD, Search Click,  , , Motocraft, DART Search : Google,  , Previous Site Activity, 5.0
+build004, last_event,  ,  , Impression, Kuga Sustain, ,  , SevenOne Media GmbH, Brand, Previous Site Activity, 5.0
+testd00, last_event, Broad, Generic, Search Click,  , , Combis, DART Search : Google,  , Previous Site Activity, 1.0
+testd00, attributed,  ,  , Display Click, Retail Marz, ,  , Mobile.de, Retail, Previous Site Activity, 0.47619047619
+build004, attributed, Broad, Name Plate, Search Click,  , , Bmax, DART Search : Google,  , Previous Site Activity, 1.0
+build004, last_event,  ,  , Impression, Fleet February, ,  , IQ Digital Network, Retail, Previous Site Activity, 2.0
+build0, attributed, Broad, Brand, Search Click,  , , Kategorien, DART Search : Google,  , Previous Site Activity, 283.978548493
+build004, last_event, UNKNOWN, UNKNOWN, Search Click,  , , UNKNOWN, DART Search : MSN,  , Previous Site Activity, 95.0
+build0, attributed, Broad, Brand, Search Click,  , , Ford Technology, DART Search : Google,  , Previous Site Activity, 130.400495936
+build0, last_event, Exact, Commerce, Search Click,  , , Ford Rental, DART Search : Google,  , Previous Site Activity, 5.0
+build004, attributed, Broad, Brand, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 1.0
+build0, last_event,  ,  , Impression, Retail Marz, ,  , Bauer Media, Retail, Previous Site Activity, 1245.0
+build0, last_event, Exact, FCSD, Search Click,  , , Motocraft, DART Search : Google,  , Previous Site Activity, 100.0
+build0, last_event,  ,  , Display Click, UNKNOWN, ,  , iq digital media marketing gmbh, UNKNOWN, Previous Site Activity, 10.0
+build0, last_event,  ,  , Display Click, Smax, ,  , Quisma, Brand, Previous Site Activity, 27.0
+build004, attributed,  ,  , Display Click, Fleet February, ,  , IQ Digital Network, Retail, Previous Site Activity, 3.84650872745e-06
+build004, last_event,  ,  , Display Click, Retail Sales, ,  , Plista, Retail, Previous Site Activity, 11.0
+build0, attributed,  ,  , Display Click, Kuga Sustain, ,  , plista.de, Brand, Previous Site Activity, 115.001353192
+testd00, last_event,  ,  , Impression, Retail Sales, ,  , XaxisDE, Retail, Previous Site Activity, 5.0
+build0, attributed,  ,  , Display Click, Retail January, ,  , IQ Digital Network, Retail, Previous Site Activity, 46.3110432273
+testd00, attributed,  ,  , Impression, Kuga Sustain, ,  , AutoScout24 Media, Brand, Previous Site Activity, 34.0224944905
+testd00, last_event, Broad, Generic, Search Click,  , , Offroader, DART Search : Google,  , Previous Site Activity, 1.0
+build0, attributed, Broad, Generic, Search Click,  , , Kompakt, DART Search : Google,  , Previous Site Activity, 11.5298062419
+testd00, attributed, Broad, Name Plate, Search Click,  , , Mustang, DART Search : Google,  , Previous Site Activity, 30.0836240172
+testd00, last_event,  ,  , Display Click, Retail January, ,  , Light Reaction, Retail, Previous Site Activity, 7.0
+build004, attributed,  ,  , Display Click, Smax, ,  , Interactive Media, Brand, Previous Site Activity, 4.85772475444
+build0, last_event, Exact, Generic, Search Click,  , , MicroVan, DART Search : Google,  , Previous Site Activity, 4.0
+build0, last_event,  ,  , Display Click, UNKNOWN, ,  , autoplenum.de, UNKNOWN, Previous Site Activity, 6.0
+testd00, last_event,  ,  , Display Click, Gewerbewochen Marz, ,  , AutoScout24 Media, Retail, Previous Site Activity, 1.0
+build0, last_event,  ,  , Display Click, UNKNOWN, ,  , mirando.de, UNKNOWN, Previous Site Activity, 3.0
+testd00, attributed, Exact, Generic, Search Click,  , , Offroader, DART Search : Google,  , Previous Site Activity, 1.08635171906e-05
+build0, attributed,  ,  , Impression, Smax, ,  , united internet media, Brand, Previous Site Activity, 2722.43960495
+build0, attributed,  ,  , Impression, Gewerbewochen Marz, ,  , IQ Digital Network, Retail, Previous Site Activity, 196.580918255
+build0, attributed,  ,  , Display Click, Retail Marz, ,  , Bauer Media, Retail, Previous Site Activity, 47.0931154667
+testd00, attributed,  ,  , Impression, Kuga Sustain, ,  , Interactive Media, Brand, Previous Site Activity, 40.4737635014
+testd00, last_event,  ,  , Display Click, Kuga Sustain, ,  , XaxisDE, Brand, Previous Site Activity, 12.0
+build0, attributed,  ,  , Display Click, Kuga Sustain, ,  , G+J Electric Media Sales GmbH, Brand, Previous Site Activity, 5.92552234425
+testd00, attributed,  ,  , Display Click, AllLine Carsharing, ,  , Light Reaction, Retail, Previous Site Activity, 0.45042275051
+build0, last_event, Exact, Name Plate, Search Click,  , , Ranger, DART Search : Google,  , Previous Site Activity, 1122.0
+build0, last_event,  ,  , Display Click, Retail January, ,  , Light Reaction, Retail, Previous Site Activity, 2644.0
+build0, last_event,  ,  , Display Click, Gewerbewochen Marz, ,  , AutoScout24 Media, Retail, Previous Site Activity, 33.0
+build0, attributed,  ,  , Display Click, Video Seeding, ,  , Unruly Media, Brand, Previous Site Activity, 0.422765123326
+build004, attributed, Broad, Generic, Search Click,  , , Neue, DART Search : Google,  , Previous Site Activity, 2.0
+build0, attributed,  ,  , Impression, Kuga Sustain, ,  , Interactive Media, Brand, Previous Site Activity, 2605.03980426
+build0, attributed,  ,  , Display Click, Retail January, ,  , autoplenum.de, Retail, Previous Site Activity, 49.5747266203
+build0, last_event,  ,  , Display Click, Kuga Sustain, ,  , XaxisDE, Brand, Previous Site Activity, 903.0
+build0, attributed,  ,  , Display Click, UNKNOWN, ,  , Xaxis Display, UNKNOWN, Previous Site Activity, 5.1066077365
+testd00, attributed, Broad, Name Plate, Search Click,  , , Focus, DART Search : Google,  , Previous Site Activity, 36.9170751732
+testd00, last_event,  ,  , Display Click, Retail Marz, ,  , OMS DE, Retail, Previous Site Activity, 3.0
+build004, attributed,  ,  , Display Click, Retail February, ,  , SevenOne Media, Retail, Previous Site Activity, 1.0
+build0, attributed,  ,  , Impression, Smax, ,  , Mobile.de, Brand, Previous Site Activity, 1557.70090656
+build0, attributed,  ,  , Impression, Gewerbewochen Marz, ,  , mirando.de, Retail, Previous Site Activity, 695.808506436
+build0, attributed,  ,  , Display Click, Gewerbewochen Marz, ,  , blogformgroup.com, Retail, Previous Site Activity, 15.6856952463
+testd00, attributed, Broad, Name Plate, Search Click,  , , Fiesta Retail, DART Search : Google,  , Previous Site Activity, 9.0835206433
+build004, last_event,  ,  , Display Click, Smax, ,  , Light Reaction, Brand, Previous Site Activity, 30.0
+build004, last_event,  ,  , Impression, Retail January, ,  , XaxisDE, Retail, Previous Site Activity, 6.0
+testd00, last_event,  ,  , Impression, Kuga Sustain, ,  , plista.de, Brand, Previous Site Activity, 5.0
+testd00, last_event,  ,  , Impression, Retail January, ,  , IQ Digital Network, Retail, Previous Site Activity, 4.0
+build0, attributed,  ,  , Display Click, Retail February, ,  , Light Reaction, Retail, Previous Site Activity, 4779.09166172
+build0, last_event,  ,  , Impression, Retail Sales, ,  , AutoScout24 Media, Retail, Previous Site Activity, 517.0
+testd00, attributed,  ,  , Display Click, Smax, ,  , Esome, Brand, Previous Site Activity, 101.844068562
+testd00, last_event,  ,  , Display Click, Retail February, ,  , XaxisDE, Retail, Previous Site Activity, 1.0
+testd00, attributed,  ,  , Display Click, Retail Sales, ,  , AutoScout24 Media, Retail, Previous Site Activity, 0.888491546498
+testd00, last_event,  ,  , Impression, Kuga Sustain, ,  , G+J Electric Media Sales GmbH, Brand, Previous Site Activity, 1.0
+build004, last_event,  ,  , Impression, Fleet February, ,  , Business Advertising GmbH, Retail, Previous Site Activity, 2.0
+build0, last_event,  ,  , Display Click, UNKNOWN, ,  , Business Advertising GmbH, UNKNOWN, Previous Site Activity, 3.0
+build0, last_event, Exact, Name Plate, Search Click,  , , Galaxy Launch, DART Search : Google,  , Previous Site Activity, 2685.0
+build0, last_event, Exact, Name Plate, Search Click,  , , Smax, DART Search : Google,  , Previous Site Activity, 5790.0
+build0, last_event,  ,  , Display Click, Kuga Sustain, ,  , AutoScout24 Media, Brand, Previous Site Activity, 406.0
+build004, attributed,  ,  , Impression, Retail Marz, ,  , SevenOne Media GmbH, Retail, Previous Site Activity, 3.42228686641
+testd00, last_event, Exact, Brand, Search Click,  , , Kategorien, DART Search : Google,  , Previous Site Activity, 24.0
+build0, attributed, Broad, Generic, Search Click,  , , Mini, DART Search : Google,  , Previous Site Activity, 2.09199884031e-05
+testd00, last_event,  ,  , Display Click, Retail January, ,  , auto-motor-und-sport.de, Retail, Previous Site Activity, 1.0
+build0, attributed,  ,  , Impression, Kuga Sustain, ,  , iq digital media marketing gmbh, Brand, Previous Site Activity, 1014.26730741
+build0, attributed,  ,  , Impression, UNKNOWN, ,  , OMS DE, UNKNOWN, Previous Site Activity, 37.7669043913
+build004, last_event, Exact, Name Plate, Search Click,  , , Bmax, DART Search : Google,  , Previous Site Activity, 21.0
+build0, attributed,  ,  , Display Click, UNKNOWN, ,  , Media Impact DE, UNKNOWN, Previous Site Activity, 30.2987277841
+testd00, last_event,  ,  , Impression, Retail January, ,  , autoplenum.de, Retail, Previous Site Activity, 22.0
+testd00, last_event,  ,  , Impression, Retail January, ,  , motor-talk.de, Retail, Previous Site Activity, 18.0
+testd00, attributed,  ,  , Impression, Retail January, ,  , auto-service.de, Retail, Previous Site Activity, 6.98564934867
+testd00, attributed,  ,  , Impression, Gewerbewochen Marz, ,  , Business Advertising GmbH, Retail, Previous Site Activity, 0.567237008285
+testd00, last_event,  ,  , Display Click, Motocraft 2016, ,  , Light Reaction, Retail, Previous Site Activity, 2.0
+build0, attributed, Broad, Name Plate, Search Click,  , , Edge, DART Search : Google,  , Previous Site Activity, 1637.67464954
+build0, attributed,  ,  , Impression, Smax, ,  , ForwardAdGroup, Brand, Previous Site Activity, 409.096205945
+build0, last_event, Exact, Brand, Search Click,  , , Kategorien, DART Search : Google,  , Previous Site Activity, 2942.0
+build0, last_event,  ,  , Impression, Retail Marz, ,  , Autoscout24.de, Retail, Previous Site Activity, 1857.0
+build0, last_event, Exact, Brand, Search Click,  , , Ford Technology, DART Search : Google,  , Previous Site Activity, 146.0
+testd00, attributed,  ,  , Display Click, Retail Marz, ,  , Autoscout24.de, Retail, Previous Site Activity, 0.507575757576
+build0, attributed,  ,  , Impression, Retail January, ,  , auto-service.de, Retail, Previous Site Activity, 1062.20857909
+build0, attributed,  ,  , Impression, Gewerbewochen Marz, ,  , Business Advertising GmbH, Retail, Previous Site Activity, 142.890210697
+build0, last_event,  ,  , Impression, Smax, ,  , Plista, Brand, Previous Site Activity, 1148.0
+build0, last_event,  ,  , Display Click, Motocraft 2016, ,  , Light Reaction, Retail, Previous Site Activity, 36.0
+testd00, attributed,  ,  , Display Click, Smax, ,  , Plista, Brand, Previous Site Activity, 4.11413506654
+testd00, last_event, Broad, Commercial Vehicles, Search Click,  , , Transit, DART Search : Google,  , Previous Site Activity, 2.0
+build0, attributed,  ,  , Display Click, Fleet Allrad, ,  , Light Reaction, Retail, Previous Site Activity, 168.974484131
+build0, last_event,  ,  , Display Click, Retail February, ,  , AutoScout24 Media, Retail, Previous Site Activity, 77.0
+build0, last_event, Exact, Generic, Search Click,  , , Kompakt, DART Search : Google,  , Previous Site Activity, 15.0
+build004, attributed,  ,  , Display Click, Smax, ,  , Axel Springer Media Impact, Brand, Previous Site Activity, 0.341758063694
+build004, last_event,  ,  , Display Click, Retail January, ,  , Autobild.de, Retail, Previous Site Activity, 1.0
+testd00, attributed, Exact, Brand, Search Click,  , , Alone, DART Search : Google,  , Previous Site Activity, 412.734837897
+build0, last_event,  ,  , Impression, UNKNOWN, ,  , Mobile.de, UNKNOWN, Previous Site Activity, 178.0
+testd00, last_event, Broad, Brand, Search Click,  , , Alone, DART Search : Google,  , Previous Site Activity, 69.0
+build0, attributed,  ,  , Display Click, Smax, ,  , Plista, Brand, Previous Site Activity, 158.968124244
+testd00, last_event,  ,  , Display Click, Smax, ,  , united internet media, Brand, Previous Site Activity, 16.0
+testd00, last_event,  ,  , Impression, UNKNOWN, ,  , Media Impact DE, UNKNOWN, Previous Site Activity, 4.0
+build004, attributed,  ,  , Display Click, Retail Marz, ,  , Mobile.de, Retail, Previous Site Activity, 0.125
+build0, last_event,  ,  , Display Click, Retail Sales, ,  , Light Reaction, Retail, Previous Site Activity, 3178.0
+build0, attributed, Exact, Commerce, Search Click,  , , Fleet Lease, DART Search : Google,  , Previous Site Activity, 1174.52452885
+build0, attributed,  ,  , Display Click, Retail Marz, ,  , XaxisDE, Retail, Previous Site Activity, 39.036969272
+build0, last_event, Broad, Commerce, Search Click,  , , Fleet Lease, DART Search : Google,  , Previous Site Activity, 1360.0
+testd00, attributed,  ,  , Impression, Fleet Allrad, ,  , IQ Digital Network, Retail, Previous Site Activity, 13.5859500933
+euepr528, attributed, Exact, Brand, Search Click,  , , Generisch, DART Search : Google,  , Previous Site Activity, 1.0
+testd00, attributed, Exact, Name Plate, Search Click,  , , Mondeo Vignale, DART Search : Google,  , Previous Site Activity, 1.00000752346
+build004, attributed, Broad, Name Plate, Search Click,  , , Ranger, DART Search : Google,  , Previous Site Activity, 0.500019151017
+testd00, last_event,  ,  , Impression, Fleet February, ,  , aumago.com, Retail, Previous Site Activity, 1.0
+build0, last_event, Broad, Brand, Search Click,  , , Alone, DART Search : Google,  , Previous Site Activity, 5499.0
+build0, attributed, Exact, Brand, Search Click,  , , Alone, DART Search : Google,  , Previous Site Activity, 82478.1556893
+testd00, last_event, Exact, Name Plate, Search Click,  , , Focus, DART Search : Google,  , Previous Site Activity, 105.0
+build0, last_event,  ,  , Impression, UNKNOWN, ,  , Bauer Media, UNKNOWN, Previous Site Activity, 184.0
+testd00, last_event,  ,  , Display Click, Kuga Sustain, ,  , Interactive Media, Brand, Previous Site Activity, 32.0
+build0, attributed,  ,  , Display Click, Fleet Allrad, ,  , Quarter Media, Retail, Previous Site Activity, 5.96409084948
+build0, attributed,  ,  , Impression, Retail January, ,  , Mobile.de, Retail, Previous Site Activity, 7722.13846676
+build0, attributed, Exact, Name Plate, Search Click,  , , Mondeo, DART Search : Google,  , Previous Site Activity, 5396.07543121
+build0, last_event, Broad, Name Plate, Search Click,  , , Mondeo Vignale, DART Search : Google,  , Previous Site Activity, 350.0
+build0, attributed, Exact, Name Plate, Search Click,  , , Mondeo Vignale, DART Search : Google,  , Previous Site Activity, 1002.42324865
+build004, attributed,  ,  , Impression, Kuga Sustain, ,  , AutoScout24 Media, Brand, Previous Site Activity, 4.8038017277
+build0, last_event,  ,  , Impression, Fleet February, ,  , aumago.com, Retail, Previous Site Activity, 215.0
+testd00, last_event, Exact, Name Plate, Search Click,  , , Fiesta Retail, DART Search : Google,  , Previous Site Activity, 43.0
+build0, last_event, Broad, Name Plate, Search Click,  , , Mondeo, DART Search : Google,  , Previous Site Activity, 1373.0
+testd00, attributed,  ,  , Display Click, Kuga Sustain, ,  , Quisma, Brand, Previous Site Activity, 20.2784782194
+testd00, attributed, Broad, Commerce, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 29.5854409898
+build004, last_event,  ,  , Display Click, Retail January, ,  , Light Reaction, Retail, Previous Site Activity, 3.0
+build004, last_event,  ,  , Impression, Retail Sales, ,  , XaxisDE, Retail, Previous Site Activity, 2.0
+testd00, last_event,  ,  , Display Click, Smax, ,  , Mobile.de, Brand, Previous Site Activity, 3.0
+build004, attributed, Broad, Name Plate, Search Click,  , , Mustang, DART Search : Google,  , Previous Site Activity, 10.7500097639
+build004, attributed, Exact, Commerce, Search Click,  , , Ford Credit, DART Search : Google,  , Previous Site Activity, 3.50000480866
+testd00, attributed,  ,  , Impression, Retail February, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 36.796102903
+build0, last_event,  ,  , Display Click, Smax, ,  , undertone.co.uk, Brand, Previous Site Activity, 320.0
+build0, attributed, Broad, Generic, Search Click,  , , Turer, DART Search : Google,  , Previous Site Activity, 16.0044759152
+testd00, attributed,  ,  , Impression, Smax, ,  , yahoo.co.uk, Brand, Previous Site Activity, 14.5942426283
+build0, attributed,  ,  , Impression, Mondeo Vignale 2015, ,  , SevenOne Media, Brand, Previous Site Activity, 2.4364004476
+build0, last_event, Exact, Generic, Search Click,  , , Crossover, DART Search : Google,  , Previous Site Activity, 2.0
+build004, attributed,  ,  , Display Click, AllLine Carsharing, ,  , Light Reaction, Retail, Previous Site Activity, 0.333333333333
+testd00, last_event,  ,  , Impression, Retail Marz, ,  , XaxisDE, Retail, Previous Site Activity, 10.0
+build0, attributed,  ,  , Display Click, Mondeo Vignale 2015, ,  , ForwardAdGroup, Brand, Previous Site Activity, 1.0
+build004, attributed, Broad, Name Plate, Search Click,  , , Focus, DART Search : Google,  , Previous Site Activity, 13.5844178419
+testd00, attributed, Phrase, Brand, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 1.5
+testd00, last_event,  ,  , Impression, Fleet Allrad, ,  , Quarter Media, Retail, Previous Site Activity, 3.0
+testd00, attributed, Exact, Generic, Search Click,  , , Ford Technology, DART Search : Google,  , Previous Site Activity, 1.0
+testd00, last_event,  ,  , Display Click, Kuga Sustain, ,  , iq digital media marketing gmbh, Brand, Previous Site Activity, 3.0
+build004, attributed,  ,  , Impression, Retail February, ,  , AutoScout24 Media, Retail, Previous Site Activity, 55.2761707891
+build0, last_event, Exact, Name Plate, Search Click,  , , Edge, DART Search : Google,  , Previous Site Activity, 6198.0
+build004, attributed, Broad, Name Plate, Search Click,  , , Fiesta Retail, DART Search : Google,  , Previous Site Activity, 11.1667171559
+build004, attributed, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, 36.0
+euepr528, attributed,  ,  , Impression, Retail February, ,  , SevenOne Media, Retail, Previous Site Activity, 0.5
+testd00, last_event,  ,  , Display Click, Smax, ,  , ForwardAdGroup, Brand, Previous Site Activity, 1.0
+build0, attributed, Exact, Generic, Search Click,  , , Ford Technology, DART Search : Google,  , Previous Site Activity, 20.508412282
+build0, last_event, Broad, Brand, Search Click,  , , Aktionen, DART Search : Google,  , Previous Site Activity, 61.0
+build0, attributed, Phrase, Brand, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 38.6202750826
+build0, attributed, Exact, Brand, Search Click,  , , Aktionen, DART Search : Google,  , Previous Site Activity, 89.0159216295
+build0, last_event,  ,  , Display Click, Kuga Sustain, ,  , iq digital media marketing gmbh, Brand, Previous Site Activity, 515.0
+build004, attributed,  ,  , Display Click, Smax, ,  , Esome, Brand, Previous Site Activity, 7.9380952381
+build0, last_event, Broad, Generic, Search Click,  , , Ford Technology, DART Search : Google,  , Previous Site Activity, 11.0
+build004, attributed,  ,  , Display Click, Retail Sales, ,  , AutoScout24 Media, Retail, Previous Site Activity, 0.5
+testd00, last_event,  ,  , Display Click, Retail January, ,  , auto-service.de, Retail, Previous Site Activity, 1.0
+build004, last_event,  ,  , Display Click, Retail February, ,  , XaxisDE, Retail, Previous Site Activity, 1.0
+testd00, attributed, Broad, Brand, Search Click,  , , Mondeo Vignale, DART Search : Google,  , Previous Site Activity, 0.333338496027
+build0, last_event,  ,  , Impression, Retail January, ,  , OMS DE, Retail, Previous Site Activity, 830.0
+testd00, attributed,  ,  , Impression, Fleet Allrad, ,  , Business Advertising GmbH, Retail, Previous Site Activity, 5.81751808095
+testd00, attributed,  ,  , Display Click, Retail January, ,  , OMS DE, Retail, Previous Site Activity, 0.833333333333
+build004, last_event, Exact, Brand, Search Click,  , , Kategorien, DART Search : Google,  , Previous Site Activity, 11.0
+testd00, attributed, Broad, Generic, Search Click,  , , Klein, DART Search : Google,  , Previous Site Activity, 0.166666666667
+build0, attributed,  ,  , Impression, Motocraft 2016, ,  , Mobile.de, Retail, Previous Site Activity, 757.693240175
+build0, last_event,  ,  , Display Click, Retail February, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 86.0
+testd00, attributed,  ,  , Impression, Gewerbewochen Marz, ,  , OMS DE, Retail, Previous Site Activity, 1.74913809187
+build0, attributed,  ,  , Display Click, Gewerbewochen Marz, ,  , Mobile.de, Retail, Previous Site Activity, 15.7709223027
+build004, last_event,  ,  , Impression, Retail January, ,  , motor-talk.de, Retail, Previous Site Activity, 10.0
+build004, last_event,  ,  , Impression, Retail January, ,  , autoplenum.de, Retail, Previous Site Activity, 5.0
+build0, last_event,  ,  , Impression, UNKNOWN, ,  , Autoscout24.de, UNKNOWN, Previous Site Activity, 220.0
+testd00, attributed, Exact, Brand, Search Click,  , , Handler, DART Search : Google,  , Previous Site Activity, 19.7501111053
+testd00, last_event, Broad, Brand, Search Click,  , , Handler, DART Search : Google,  , Previous Site Activity, 21.0
+testd00, attributed,  ,  , Impression, Smax, ,  , XaxisDE, Brand, Previous Site Activity, 258.136310216
+testd00, attributed, Exact, Name Plate, Search Click,  , , C-Max Launch, DART Search : Google,  , Previous Site Activity, 84.8226492652
+build004, attributed,  ,  , Impression, Smax, ,  , undertone.co.uk, Brand, Previous Site Activity, 5.8944503555
+build0, attributed, Broad, Generic, Search Click,  , , Wagen, DART Search : Google,  , Previous Site Activity, 20.335310689
+testd00, last_event, Broad, Name Plate, Search Click,  , , C-Max Launch, DART Search : Google,  , Previous Site Activity, 31.0
+testd00, attributed, Broad, Commerce, Search Click,  , , Other Campaign, DART Search : Google,  , Previous Site Activity, 4.00007283539
+build004, attributed, Exact, Commercial Vehicles, Search Click,  , , Transit, DART Search : Google,  , Previous Site Activity, 1.26748524774e-05
+testd00, attributed, Exact, Generic, Search Click,  , , Familien, DART Search : Google,  , Previous Site Activity, 0.333333333333
+testd00, last_event, Broad, Generic, Search Click,  , , Familien, DART Search : Google,  , Previous Site Activity, 2.0
+build0, last_event, Broad, Brand, Search Click,  , , Handler, DART Search : Google,  , Previous Site Activity, 367.0
+testd00, attributed, Broad, Name Plate, Search Click,  , , Kuga Sustain, DART Search : Google,  , Previous Site Activity, 37.7509153144
+build0, attributed,  ,  , Display Click, Fleet February, ,  , Light Reaction, Retail, Previous Site Activity, 48.0371073247
+testd00, last_event,  ,  , Display Click, Retail January, ,  , Mobile.de, Retail, Previous Site Activity, 2.0
+build0, last_event,  ,  , Display Click, Gewerbewochen Marz, ,  , EMC, Retail, Previous Site Activity, 1.0
+build0, attributed,  ,  , Impression, Retail January, ,  , Autoscout24.de, Retail, Previous Site Activity, 10415.1594305
+testd00, attributed,  ,  , Impression, Kuga Sustain, ,  , OMS DE, Brand, Previous Site Activity, 6.31482810525
+build004, attributed, Exact, Brand, Search Click,  , , Alone, DART Search : Google,  , Previous Site Activity, 334.637437014
+build0, attributed,  ,  , Impression, Fleet Allrad, ,  , EMC, Retail, Previous Site Activity, 285.213811668
+build0, attributed, Broad, Generic, Search Click,  , , 7Sitzer, DART Search : Google,  , Previous Site Activity, 57.5035311668
+build0, last_event, Exact, Commercial Vehicles, Search Click,  , , Tourneo, DART Search : Google,  , Previous Site Activity, 195.0
+testd00, last_event,  ,  , Impression, Gewerbewochen Marz, ,  , Mobile.de, Retail, Previous Site Activity, 13.0
+build004, last_event,  ,  , Display Click, Gewerbewochen Marz, ,  , IQ Digital Network, Retail, Previous Site Activity, 1.0
+build0, last_event, Exact, Generic, Search Click,  , , Turer, DART Search : Google,  , Previous Site Activity, 2.0
+build004, last_event,  ,  , Display Click, Smax, ,  , united internet media, Brand, Previous Site Activity, 3.0
+build0, last_event,  ,  , Display Click, Retail January, ,  , Mobile.de, Retail, Previous Site Activity, 161.0
+build0, attributed,  ,  , Display Click, Retail February, ,  , united internet media, Retail, Previous Site Activity, 54.2343784268
+build0, last_event,  ,  , Display Click, Fleet Allrad, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 33.0
+testd00, attributed,  ,  , Impression, Kuga Sustain, ,  , SevenOne Media GmbH, Brand, Previous Site Activity, 30.686313769
+build0, attributed,  ,  , Impression, UNKNOWN, ,  , Autobild.de, UNKNOWN, Previous Site Activity, 45.8616213872
+build004, attributed,  ,  , Impression, Fleet Allrad, ,  , IQ Digital Network, Retail, Previous Site Activity, 4.5335517669
+build0, last_event,  ,  , Display Click, Fleet Allrad, ,  , Business Advertising GmbH, Retail, Previous Site Activity, 8.0
+testd00, last_event,  ,  , Impression, Kuga Sustain, ,  , united internet media, Brand, Previous Site Activity, 3.0
+euepr528, attributed,  ,  , Impression, Retail Marz, ,  , Mobile.de, Retail, Previous Site Activity, 0.333333333333
+build0, attributed,  ,  , Display Click, Kuga Sustain, ,  , Media Impact DE, Brand, Previous Site Activity, 610.605884743
+testd00, attributed, UNKNOWN, UNKNOWN, Search Click,  , , UNKNOWN, DART Search : MSN,  , Previous Site Activity, 81.8696711469
+build004, last_event, Exact, Name Plate, Search Click,  , , Focus, DART Search : Google,  , Previous Site Activity, 83.0
+build0, last_event,  ,  , Display Click, Gewerbewochen Marz, ,  , OMS DE, Retail, Previous Site Activity, 15.0
+build004, last_event,  ,  , Display Click, Kuga Sustain, ,  , Interactive Media, Brand, Previous Site Activity, 7.0
+build0, attributed,  ,  , Impression, Fleet February, ,  , IQ Digital Network, Retail, Previous Site Activity, 764.440963682
+build0, last_event,  ,  , Impression, Kuga Sustain, ,  , united internet media, Brand, Previous Site Activity, 291.0
+build0, last_event,  ,  , Display Click, Retail Marz, ,  , Light Reaction, Retail, Previous Site Activity, 3591.0
+build0, last_event,  ,  , Impression, UNKNOWN, ,  , xaxis.com/de, UNKNOWN, Previous Site Activity, 62.0
+build004, last_event, Exact, Name Plate, Search Click,  , , Fiesta Retail, DART Search : Google,  , Previous Site Activity, 44.0
+build004, attributed, Broad, Commerce, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 6.5000129993
+build004, last_event,  ,  , Display Click, Smax, ,  , Mobile.de, Brand, Previous Site Activity, 2.0
+build004, attributed,  ,  , Display Click, Kuga Sustain, ,  , Quisma, Brand, Previous Site Activity, 2.92579907193
+testd00, attributed,  ,  , Display Click, Kuga Sustain, ,  , united internet media, Brand, Previous Site Activity, 0.625
+build0, attributed, UNKNOWN, UNKNOWN, Search Click,  , , UNKNOWN, DART Search : MSN,  , Previous Site Activity, 9673.08549136
+build0, last_event,  ,  , Display Click, Smax, ,  , XaxisDE, Brand, Previous Site Activity, 1890.0
+build0, attributed,  ,  , Display Click, Retail February, ,  , Mobile.de, Retail, Previous Site Activity, 16.3809738012
+build004, attributed,  ,  , Impression, Smax, ,  , yahoo.co.uk, Brand, Previous Site Activity, 12.6415948781
+build004, attributed,  ,  , Impression, Retail February, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 18.6256252326
+testd00, attributed,  ,  , Impression, Retail February, ,  , OMS DE, Retail, Previous Site Activity, 4.16196645272
+build0, attributed, Exact, Generic, Search Click,  , , Limousine, DART Search : Google,  , Previous Site Activity, 2.50002129224
+build0, last_event, Broad, Generic, Search Click,  , , Limousine, DART Search : Google,  , Previous Site Activity, 4.0
+build0, attributed,  ,  , Impression, Gewerbewochen Marz, ,  , aumago.com, Retail, Previous Site Activity, 296.698346153
+build004, last_event,  ,  , Impression, Retail Marz, ,  , XaxisDE, Retail, Previous Site Activity, 3.0
+build0, last_event,  ,  , Impression, Kuga Sustain, ,  , Mobile.de, Brand, Previous Site Activity, 1822.0
+testd00, attributed,  ,  , Display Click, Kuga Sustain, ,  , Mobile.de, Brand, Previous Site Activity, 7.52521830813
+build0, attributed,  ,  , Display Click, Retail Sales, ,  , Plista, Retail, Previous Site Activity, 3048.72220116
+testd00, last_event,  ,  , Impression, Fleet February, ,  , Quarter Media, Retail, Previous Site Activity, 2.0
+testd00, last_event,  ,  , Impression, Kuga Sustain, ,  , Media Impact DE, Brand, Previous Site Activity, 28.0
+testd00, last_event, Exact, Generic, Search Click,  , , Wagen, DART Search : Google,  , Previous Site Activity, 1.0
+build0, attributed,  ,  , Impression, Retail February, ,  , SevenOne Media, Retail, Previous Site Activity, 3706.42293818
+build0, attributed,  ,  , Impression, Motocraft 2016, ,  , Autoscout24.de, Retail, Previous Site Activity, 908.16852223
+build0, last_event,  ,  , Impression, Retail Marz, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 1462.0
+testd00, attributed, Exact, Brand, Search Click,  , , Generisch, DART Search : Google,  , Previous Site Activity, 70.1043487354
+build0, last_event,  ,  , Display Click, Kuga Sustain, ,  , SevenOne Media GmbH, Brand, Previous Site Activity, 453.0
+testd00, last_event, Broad, Brand, Search Click,  , , Generisch, DART Search : Google,  , Previous Site Activity, 27.0
+testd00, attributed,  ,  , Display Click, Retail Marz, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 1.34144356418
+build0, attributed,  ,  , Display Click, Kuga Sustain, ,  , undertone.co.uk, Brand, Previous Site Activity, 1.0
+build0, last_event,  ,  , Impression, Kuga Sustain, ,  , Bauer Media, Brand, Previous Site Activity, 1013.0
+testd00, attributed,  ,  , Impression, Retail January, ,  , XaxisDE, Retail, Previous Site Activity, 52.7531209718
+build0, last_event, Exact, Generic, Search Click,  , , Wagen, DART Search : Google,  , Previous Site Activity, 36.0
+testd00, last_event, Exact, Commerce, Search Click,  , , Other Campaign, DART Search : Google,  , Previous Site Activity, 1.0
+testd00, attributed,  ,  , Display Click, Kuga Sustain, ,  , Bauer Media, Brand, Previous Site Activity, 3.97009122084
+testd00, last_event,  ,  , Impression, Retail February, ,  , Mobile.de, Retail, Previous Site Activity, 10.0
+build0, last_event,  ,  , Impression, Smax, ,  , G+J Electric Media Sales GmbH, Brand, Previous Site Activity, 41.0
+build0, last_event,  ,  , Display Click, Motocraft 2016, ,  , Mobile.de, Retail, Previous Site Activity, 3.0
+build004, last_event,  ,  , Display Click, Retail January, ,  , auto-service.de, Retail, Previous Site Activity, 1.0
+build004, attributed, Broad, Brand, Search Click,  , , Mondeo Vignale, DART Search : Google,  , Previous Site Activity, 1.0
+euepr528, attributed, Exact, Name Plate, Search Click,  , , Mustang, DART Search : Google,  , Previous Site Activity, 1.5
+build0, attributed, Exact, Name Plate, Search Click,  , , Ka, DART Search : Google,  , Previous Site Activity, 1988.2912551
+build0, attributed,  ,  , Display Click, Retail Marz, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 56.9972593212
+testd00, attributed,  ,  , Impression, Fleet February, ,  , Business Advertising GmbH, Retail, Previous Site Activity, 3.60099753628
+testd00, last_event,  ,  , Impression, Formel 1 2016, ,  , IP Deutschland, Brand, Previous Site Activity, 2.0
+testd00, last_event, Exact, Name Plate, Search Click,  , , Kuga Sustain, DART Search : Google,  , Previous Site Activity, 119.0
+build004, attributed,  ,  , Impression, Fleet Allrad, ,  , Business Advertising GmbH, Retail, Previous Site Activity, 3.20001323698
+build0, attributed,  ,  , Impression, UNKNOWN, ,  , Xaxis Mobile TV, UNKNOWN, Previous Site Activity, 1.36705228469
+build004, attributed,  ,  , Impression, Fleet Allrad, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 7.99270097488
+testd00, attributed,  ,  , Impression, Fleet February, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 3.62017006225
+build004, attributed,  ,  , Display Click, Retail January, ,  , OMS DE, Retail, Previous Site Activity, 0.333333333333
+build0, attributed, Exact, Commercial Vehicles, Search Click,  , , Transporter, DART Search : Google,  , Previous Site Activity, 9.78177248048e-06
+build0, attributed,  ,  , Display Click, Smax, ,  , Light Reaction, Brand, Previous Site Activity, 2612.60191375
+build0, last_event, Exact, Generic, Search Click,  , , 7Sitzer, DART Search : Google,  , Previous Site Activity, 152.0
+build0, last_event,  ,  , Impression, UNKNOWN, ,  , AutoScout24 Media, UNKNOWN, Previous Site Activity, 64.0
+build0, last_event,  ,  , Display Click, Retail February, ,  , OMS DE, Retail, Previous Site Activity, 11.0
+testd00, last_event,  ,  , Display Click, Retail January, ,  , Autoscout24.de, Retail, Previous Site Activity, 1.0
+testd00, last_event,  ,  , Impression, Retail February, ,  , Bauer Media, Retail, Previous Site Activity, 22.0
+build0, attributed,  ,  , Impression, Fleet February, ,  , Business Advertising GmbH, Retail, Previous Site Activity, 503.925694427
+build0, last_event,  ,  , Display Click, Retail Sales, ,  , Mobile.de, Retail, Previous Site Activity, 1611.0
+testd00, attributed, Exact, Name Plate, Search Click,  , , Bmax, DART Search : Google,  , Previous Site Activity, 56.6273442417
+build004, attributed, Exact, Brand, Search Click,  , , Handler, DART Search : Google,  , Previous Site Activity, 1.00000388211
+build004, attributed, Exact, Name Plate, Search Click,  , , C-Max Launch, DART Search : Google,  , Previous Site Activity, 19.8335264093
+build004, attributed,  ,  , Impression, Smax, ,  , XaxisDE, Brand, Previous Site Activity, 177.668257112
+build0, last_event,  ,  , Display Click, Retail January, ,  , Autoscout24.de, Retail, Previous Site Activity, 127.0
+testd00, attributed,  ,  , Impression, Smax, ,  , IQ Digital Network, Brand, Previous Site Activity, 8.97639984825
+build004, last_event, Broad, Name Plate, Search Click,  , , C-Max Launch, DART Search : Google,  , Previous Site Activity, 14.0
+testd00, attributed, Exact, Brand, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 2.33346958695
+testd00, last_event, Broad, Brand, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 1.0
+build004, attributed, Broad, Commerce, Search Click,  , , Other Campaign, DART Search : Google,  , Previous Site Activity, 2.5
+build004, last_event, Broad, Generic, Search Click,  , , Familien, DART Search : Google,  , Previous Site Activity, 1.0
+build0, last_event, Broad, Name Plate, Search Click,  , , Bmax, DART Search : Google,  , Previous Site Activity, 972.0
+build0, attributed, Exact, Name Plate, Search Click,  , , Bmax, DART Search : Google,  , Previous Site Activity, 3312.81811386
+build0, last_event,  ,  , Impression, Retail January, ,  , autozeitung.de, Retail, Previous Site Activity, 2470.0
+build004, attributed, Broad, Name Plate, Search Click,  , , Kuga Sustain, DART Search : Google,  , Previous Site Activity, 10.7500251519
+testd00, last_event,  ,  , Display Click, Fleet February, ,  , IQ Digital Network, Retail, Previous Site Activity, 1.0
+testd00, attributed,  ,  , Display Click, Retail January, ,  , autozeitung.de, Retail, Previous Site Activity, 0.93030052484
+build0, attributed, Phrase, Name Plate, Search Click,  , , Fiesta Retail, DART Search : Google,  , Previous Site Activity, 269.37708553
+build0, last_event, Exact, Name Plate, Search Click,  , , Ecosport Sustain, DART Search : Google,  , Previous Site Activity, 7797.0
+build0, last_event,  ,  , Impression, Retail January, ,  , Autobild.de, Retail, Previous Site Activity, 1561.0
+build0, attributed,  ,  , Display Click, Smax, ,  , Xaxis Mobile TV, Brand, Previous Site Activity, 200.319702253
+testd00, attributed,  ,  , Display Click, Retail January, ,  , Autobild.de, Retail, Previous Site Activity, 1.33333333333
+build004, last_event,  ,  , Impression, Gewerbewochen Marz, ,  , Mobile.de, Retail, Previous Site Activity, 1.0
+build004, attributed,  ,  , Impression, Kuga Sustain, ,  , OMS DE, Brand, Previous Site Activity, 3.0227355067
+build0, last_event,  ,  , Display Click, Fleet February, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 13.0
+euepr528, attributed,  ,  , Impression, UNKNOWN, ,  , Mobile.de, UNKNOWN, Previous Site Activity, 0.333333333333
+build004, attributed,  ,  , Impression, Kuga Sustain, ,  , SevenOne Media GmbH, Brand, Previous Site Activity, 6.52710670801
+testd00, attributed, Exact, Generic, Search Click,  , , SUV, DART Search : Google,  , Previous Site Activity, 1.00000494985
+testd00, last_event,  ,  , Display Click, Ecosport Social, ,  , Quisma, Brand, Previous Site Activity, 1.0
+testd00, attributed, Broad, Generic, Search Click,  , , Combis, DART Search : Google,  , Previous Site Activity, 1.0
+testd00, last_event, Broad, Generic, Search Click,  , , SUV, DART Search : Google,  , Previous Site Activity, 1.0
+build0, attributed,  ,  , Display Click, Retail January, ,  , Autobild.de, Retail, Previous Site Activity, 46.5683243502
+build0, last_event,  ,  , Display Click, Smax, ,  , Interactive Media, Brand, Previous Site Activity, 2892.0
+build0, attributed, Exact, FCSD, Search Click,  , , Motocraft, DART Search : Google,  , Previous Site Activity, 87.2637450498
+build0, last_event, Broad, FCSD, Search Click,  , , Motocraft, DART Search : Google,  , Previous Site Activity, 288.0
+build0, attributed, Broad, Generic, Search Click,  , , Combis, DART Search : Google,  , Previous Site Activity, 5.83336241329
+build0, attributed,  ,  , Display Click, Smax, ,  , Quisma, Brand, Previous Site Activity, 27.9999874912
+build0, attributed,  ,  , Display Click, UNKNOWN, ,  , iq digital media marketing gmbh, UNKNOWN, Previous Site Activity, 6.00001379032
+testd00, last_event,  ,  , Display Click, Retail February, ,  , SevenOne Media, Retail, Previous Site Activity, 1.0
+testd00, attributed,  ,  , Impression, Retail Sales, ,  , XaxisDE, Retail, Previous Site Activity, 6.73593155339
+testd00, last_event, Broad, Commercial Vehicles, Search Click,  , , Courier, DART Search : Google,  , Previous Site Activity, 2.0
+build004, attributed,  ,  , Impression, Retail February, ,  , OMS DE, Retail, Previous Site Activity, 1.25000451423
+build0, attributed,  ,  , Impression, UNKNOWN, ,  , ebay.de, UNKNOWN, Previous Site Activity, 1.01682146323
+build0, attributed,  ,  , Display Click, UNKNOWN, ,  , autoplenum.de, UNKNOWN, Previous Site Activity, 1.80952380952
+build0, attributed,  ,  , Display Click, UNKNOWN, ,  , mirando.de, UNKNOWN, Previous Site Activity, 0.698412698413
+build0, attributed,  ,  , Impression, Mondeo Vignale 2016, ,  , Interactive Media, Brand, Previous Site Activity, 0.331375748393
+build004, attributed,  ,  , Impression, Retail Sales, ,  , Mobile.de, Retail, Previous Site Activity, 37.3353633687
+build0, last_event,  ,  , Display Click, Motocraft 2016, ,  , Autoscout24.de, Retail, Previous Site Activity, 6.0
+build0, attributed,  ,  , Display Click, Gewerbewochen Marz, ,  , Adshare, Retail, Previous Site Activity, 25.6969286015
+testd00, attributed,  ,  , Impression, Gewerbewochen Marz, ,  , G+J Electric Media Sales GmbH, Retail, Previous Site Activity, 1.44325811851
+build004, last_event, Exact, Generic, Search Click,  , , Klein, DART Search : Google,  , Previous Site Activity, 1.0
+build0, attributed,  ,  , Display Click, Retail January, ,  , Light Reaction, Retail, Previous Site Activity, 2225.72222176
+build0, attributed,  ,  , Impression, Retail Sales, ,  , XaxisDE, Retail, Previous Site Activity, 1415.975021
+build0, attributed,  ,  , Display Click, Gewerbewochen Marz, ,  , AutoScout24 Media, Retail, Previous Site Activity, 20.8985847447
+build004, last_event,  ,  , Impression, Kuga Sustain, ,  , Media Impact DE, Brand, Previous Site Activity, 15.0
+build004, last_event,  ,  , Impression, Fleet February, ,  , Quarter Media, Retail, Previous Site Activity, 4.0
+build004, attributed,  ,  , Display Click, Kuga Sustain, ,  , Mobile.de, Brand, Previous Site Activity, 0.75
+build0, attributed, Broad, Generic, Search Click,  , , Offroader, DART Search : Google,  , Previous Site Activity, 1.0
+build0, attributed,  ,  , Display Click, Kuga Sustain, ,  , XaxisDE, Brand, Previous Site Activity, 522.403054255
+build0, last_event,  ,  , Impression, Retail Marz, ,  , OMS DE, Retail, Previous Site Activity, 280.0
+build004, attributed, Exact, Brand, Search Click,  , , Generisch, DART Search : Google,  , Previous Site Activity, 77.3616301114
+build004, last_event, Broad, Brand, Search Click,  , , Generisch, DART Search : Google,  , Previous Site Activity, 13.0
+testd00, attributed,  ,  , Display Click, Retail Marz, ,  , OMS DE, Retail, Previous Site Activity, 0.611111111111
+build0, last_event,  ,  , Display Click, UNKNOWN, ,  , Xaxis Mobile TV, UNKNOWN, Previous Site Activity, 1.0
+build0, last_event,  ,  , Impression, Retail Marz, ,  , SevenOne Media GmbH, Retail, Previous Site Activity, 1503.0
+testd00, attributed,  ,  , Impression, Kuga Sustain, ,  , plista.de, Brand, Previous Site Activity, 9.22080332323
+testd00, attributed,  ,  , Impression, Retail January, ,  , IQ Digital Network, Retail, Previous Site Activity, 21.2479351268
+build004, attributed,  ,  , Impression, Retail January, ,  , XaxisDE, Retail, Previous Site Activity, 25.6923268645
+testd00, attributed,  ,  , Display Click, Retail Marz, ,  , SevenOne Media GmbH, Retail, Previous Site Activity, 0.7
+build004, last_event, Exact, Commerce, Search Click,  , , Other Campaign, DART Search : Google,  , Previous Site Activity, 5.0
+build004, last_event,  ,  , Impression, Retail February, ,  , Mobile.de, Retail, Previous Site Activity, 6.0
+testd00, last_event, Broad, Commerce, Search Click,  , , Ford Rental, DART Search : Google,  , Previous Site Activity, 1.0
+testd00, attributed,  ,  , Impression, Retail Marz, ,  , Bauer Media, Retail, Previous Site Activity, 11.7949573977
+build004, last_event, Exact, Name Plate, Search Click,  , , Kuga Sustain, DART Search : Google,  , Previous Site Activity, 62.0
+build0, last_event,  ,  , Impression, Retail February, ,  , XaxisDE, Retail, Previous Site Activity, 692.0
+build004, attributed,  ,  , Impression, Fleet February, ,  , Business Advertising GmbH, Retail, Previous Site Activity, 2.70834675477
+testd00, attributed,  ,  , Impression, Kuga Sustain, ,  , G+J Electric Media Sales GmbH, Brand, Previous Site Activity, 3.02032890095
+build004, attributed,  ,  , Impression, Fleet February, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 4.90897163898
+build0, attributed,  ,  , Display Click, UNKNOWN, ,  , Business Advertising GmbH, UNKNOWN, Previous Site Activity, 1.95
+testd00, attributed,  ,  , Display Click, Retail February, ,  , XaxisDE, Retail, Previous Site Activity, 0.277815589612
+build0, attributed,  ,  , Impression, Retail January, ,  , IQ Digital Network, Retail, Previous Site Activity, 2192.32167936
+build004, attributed,  ,  , Impression, Smax, ,  , Interactive Media, Brand, Previous Site Activity, 45.6958771407
+build0, last_event,  ,  , Impression, Retail January, ,  , auto-motor-und-sport.de, Retail, Previous Site Activity, 1645.0
+build004, attributed, Broad, Name Plate, Search Click,  , , Ecosport Sustain, DART Search : Google,  , Previous Site Activity, 8.16668129709
+build004, last_event,  ,  , Impression, Retail February, ,  , Bauer Media, Retail, Previous Site Activity, 22.0
+testd00, last_event,  ,  , Impression, Gewerbewochen Marz, ,  , AutoScout24 Media, Retail, Previous Site Activity, 32.0
+build004, last_event,  ,  , Display Click, Retail January, ,  , Autoscout24.de, Retail, Previous Site Activity, 1.0
+testd00, attributed,  ,  , Display Click, Retail January, ,  , auto-motor-und-sport.de, Retail, Previous Site Activity, 0.5
+testd00, attributed,  ,  , Impression, Retail January, ,  , autoplenum.de, Retail, Previous Site Activity, 39.7226752008
+build0, attributed,  ,  , Impression, Kuga Sustain, ,  , G+J Electric Media Sales GmbH, Brand, Previous Site Activity, 95.8018471395
+build0, attributed,  ,  , Display Click, Retail February, ,  , XaxisDE, Retail, Previous Site Activity, 33.2977201691
+testd00, last_event,  ,  , Impression, Kuga Sustain, ,  , XaxisDE, Brand, Previous Site Activity, 32.0
+build0, last_event,  ,  , Display Click, Gewerbewochen Marz, ,  , G+J Electric Media Sales GmbH, Retail, Previous Site Activity, 14.0
+testd00, attributed,  ,  , Impression, UNKNOWN, ,  , Xaxis Display, UNKNOWN, Previous Site Activity, 5.86533133023e-06
+testd00, attributed, Exact, Name Plate, Search Click,  , , Ranger, DART Search : Google,  , Previous Site Activity, 65.0622448986
+build0, attributed, Exact, Brand, Search Click,  , , Kategorien, DART Search : Google,  , Previous Site Activity, 2206.43658426
+build0, last_event, Broad, Brand, Search Click,  , , Kategorien, DART Search : Google,  , Previous Site Activity, 366.0
+build0, last_event,  ,  , Display Click, Smax, ,  , Axel Springer Media Impact, Brand, Previous Site Activity, 197.0
+build0, attributed,  ,  , Display Click, Retail January, ,  , auto-motor-und-sport.de, Retail, Previous Site Activity, 24.7158784083
+testd00, last_event, Broad, Name Plate, Search Click,  , , Ranger, DART Search : Google,  , Previous Site Activity, 42.0
+build004, attributed,  ,  , Impression, Smax, ,  , IQ Digital Network, Brand, Previous Site Activity, 2.55140236607
+build004, attributed, Exact, Brand, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 9.00000633743
+testd00, attributed,  ,  , Impression, Gewerbewochen Marz, ,  , blogformgroup.com, Retail, Previous Site Activity, 0.974350868836
+build004, last_event, Broad, Brand, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 1.0
+build0, last_event,  ,  , Display Click, Fleet February, ,  , EMC, Retail, Previous Site Activity, 2.0
+build0, attributed,  ,  , Impression, Retail January, ,  , motor-talk.de, Retail, Previous Site Activity, 4737.33156491
+build0, attributed,  ,  , Impression, Retail January, ,  , autoplenum.de, Retail, Previous Site Activity, 3380.80465285
+build0, attributed,  ,  , Display Click, Motocraft 2016, ,  , Light Reaction, Retail, Previous Site Activity, 30.2037701653
+build0, last_event,  ,  , Display Click, Retail Marz, ,  , Mobile.de, Retail, Previous Site Activity, 42.0
+testd00, attributed, Broad, Commercial Vehicles, Search Click,  , , Transit, DART Search : Google,  , Previous Site Activity, 2.50571449592
+build004, attributed,  ,  , Display Click, Retail January, ,  , autozeitung.de, Retail, Previous Site Activity, 1.3375003846
+build0, attributed,  ,  , Display Click, Pendolaris, ,  , pendolaris.de, Brand, Previous Site Activity, 0.047619047619
+build0, attributed,  ,  , Display Click, Retail February, ,  , AutoScout24 Media, Retail, Previous Site Activity, 26.112429116
+build0, last_event, Broad, Generic, Search Click,  , , Kompakt, DART Search : Google,  , Previous Site Activity, 17.0
+testd00, attributed, Exact, Name Plate, Search Click,  , , Mustang, DART Search : Google,  , Previous Site Activity, 128.834249612
+testd00, last_event,  ,  , Impression, Kuga Sustain, ,  , AutoScout24 Media, Brand, Previous Site Activity, 11.0
+build0, attributed, Exact, Generic, Search Click,  , , Kompakt, DART Search : Google,  , Previous Site Activity, 12.5189290455
+testd00, last_event, Broad, Name Plate, Search Click,  , , Mustang, DART Search : Google,  , Previous Site Activity, 38.0
+testd00, last_event, Exact, Commerce, Search Click,  , , Ford Credit, DART Search : Google,  , Previous Site Activity, 8.0
+testd00, last_event, Exact, Generic, Search Click,  , , Offroader, DART Search : Google,  , Previous Site Activity, 1.0
+build0, last_event,  ,  , Impression, Gewerbewochen Marz, ,  , IQ Digital Network, Retail, Previous Site Activity, 157.0
+build0, attributed,  ,  , Impression, UNKNOWN, ,  , Mobile.de, UNKNOWN, Previous Site Activity, 94.5086842174
+build0, last_event,  ,  , Display Click, Retail Marz, ,  , Bauer Media, Retail, Previous Site Activity, 94.0
+testd00, attributed,  ,  , Impression, UNKNOWN, ,  , Media Impact DE, UNKNOWN, Previous Site Activity, 1.84555685994
+build004, last_event, Broad, Name Plate, Search Click,  , , Ka, DART Search : Google,  , Previous Site Activity, 1.0
+build0, attributed,  ,  , Display Click, Retail Sales, ,  , Light Reaction, Retail, Previous Site Activity, 3087.92902111
+build0, last_event,  ,  , Impression, Kuga Sustain, ,  , AutoScout24 Media, Brand, Previous Site Activity, 1039.0
+testd00, attributed,  ,  , Display Click, Kuga Sustain, ,  , AutoScout24 Media, Brand, Previous Site Activity, 1.94724369121
+testd00, last_event, Broad, Name Plate, Search Click,  , , Galaxy Launch, DART Search : Google,  , Previous Site Activity, 18.0
+testd00, last_event, Broad, Name Plate, Search Click,  , , Smax, DART Search : Google,  , Previous Site Activity, 21.0
+testd00, last_event,  ,  , Display Click, Retail Sales, ,  , XaxisDE, Retail, Previous Site Activity, 3.0
+build004, last_event, Broad, Generic, Search Click,  , , Auto, DART Search : Google,  , Previous Site Activity, 1.0
+build004, last_event, Broad, Generic, Search Click,  , , Neue, DART Search : Google,  , Previous Site Activity, 2.0
+build0, attributed, Broad, Brand, Search Click,  , , Alone, DART Search : Google,  , Previous Site Activity, 4279.01187073
+build0, last_event,  ,  , Impression, Kuga Sustain, ,  , Interactive Media, Brand, Previous Site Activity, 1757.0
+build0, attributed,  ,  , Display Click, Smax, ,  , united internet media, Brand, Previous Site Activity, 331.949389517
+testd00, attributed, Exact, Name Plate, Search Click,  , , Focus, DART Search : Google,  , Previous Site Activity, 78.2130993986
+build0, attributed,  ,  , Impression, UNKNOWN, ,  , Media Impact DE, UNKNOWN, Previous Site Activity, 395.282042897
+build0, last_event,  ,  , Display Click, AllLine Carsharing, ,  , Light Reaction, Retail, Previous Site Activity, 43.0
+testd00, attributed,  ,  , Display Click, Kuga Sustain, ,  , Interactive Media, Brand, Previous Site Activity, 13.5104461299
+testd00, last_event,  ,  , Display Click, Gewerbewochen Marz, ,  , Light Reaction, Retail, Previous Site Activity, 6.0
+build0, attributed,  ,  , Display Click, Gewerbewochen Marz, ,  , IQ Digital Network, Retail, Previous Site Activity, 1.72175375375
+build004, last_event,  ,  , Display Click, Retail February, ,  , SevenOne Media, Retail, Previous Site Activity, 1.0
+build0, last_event,  ,  , Impression, Gewerbewochen Marz, ,  , mirando.de, Retail, Previous Site Activity, 521.0
+build0, attributed,  ,  , Impression, Fleet February, ,  , aumago.com, Retail, Previous Site Activity, 615.717666949
+build0, attributed, Broad, Name Plate, Search Click,  , , Mondeo Vignale, DART Search : Google,  , Previous Site Activity, 285.32081954
+testd00, last_event, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, 519.0
+testd00, last_event,  ,  , Impression, Retail February, ,  , AutoScout24 Media, Retail, Previous Site Activity, 38.0
+testd00, attributed, Exact, Name Plate, Search Click,  , , Fiesta Retail, DART Search : Google,  , Previous Site Activity, 35.2025254432
+build0, last_event,  ,  , Display Click, Gewerbewochen Marz, ,  , blogformgroup.com, Retail, Previous Site Activity, 34.0
+build0, last_event,  ,  , Impression, UNKNOWN, ,  , EMC, UNKNOWN, Previous Site Activity, 5.0
+testd00, last_event, Broad, Brand, Search Click,  , , Ford Technology, DART Search : Google,  , Previous Site Activity, 1.0
+build0, last_event, Broad, Name Plate, Search Click,  , , Focus, DART Search : Google,  , Previous Site Activity, 3033.0
+build0, attributed,  ,  , Display Click, Smax, ,  , undertone.co.uk, Brand, Previous Site Activity, 121.59824465
+build0, attributed, Exact, Name Plate, Search Click,  , , Focus, DART Search : Google,  , Previous Site Activity, 10821.0460078
+testd00, attributed,  ,  , Impression, Smax, ,  , Plista, Brand, Previous Site Activity, 33.1675515131
+build004, attributed,  ,  , Impression, Gewerbewochen Marz, ,  , G+J Electric Media Sales GmbH, Retail, Previous Site Activity, 0.458333333333
+build0, attributed, Exact, Name Plate, Search Click,  , , Fiesta Retail, DART Search : Google,  , Previous Site Activity, 8571.37979434
+build0, last_event, Broad, Name Plate, Search Click,  , , Fiesta Retail, DART Search : Google,  , Previous Site Activity, 3119.0
+build0, attributed,  ,  , Display Click, Smax, ,  , Mobile.de, Brand, Previous Site Activity, 118.134741176
+build004, attributed,  ,  , Impression, Smax, ,  , Axel Springer Media Impact, Brand, Previous Site Activity, 21.4680924251
+testd00, attributed,  ,  , Impression, Retail Marz, ,  , XaxisDE, Retail, Previous Site Activity, 7.12974790236
+build0, attributed,  ,  , Display Click, Gewerbewochen Marz, ,  , mirando.de, Retail, Previous Site Activity, 8.34392422464
+build0, attributed, Exact, Generic, Search Click,  , , Mini, DART Search : Google,  , Previous Site Activity, 3.5
+build004, last_event,  ,  , Display Click, Retail January, ,  , XaxisDE, Retail, Previous Site Activity, 1.0
+build0, last_event,  ,  , Display Click, Smax, ,  , Esome, Brand, Previous Site Activity, 3889.0
+build004, attributed,  ,  , Impression, Retail Marz, ,  , Mobile.de, Retail, Previous Site Activity, 2.77482933498
+testd00, attributed,  ,  , Impression, Fleet Allrad, ,  , Quarter Media, Retail, Previous Site Activity, 7.31494419294
+build0, last_event,  ,  , Display Click, Retail Sales, ,  , AutoScout24 Media, Retail, Previous Site Activity, 176.0
+build0, attributed,  ,  , Display Click, Ecosport Sustain, ,  , Light Reaction, Brand, Previous Site Activity, 2.0
+build0, last_event,  ,  , Impression, UNKNOWN, ,  , OMS DE, UNKNOWN, Previous Site Activity, 36.0
+testd00, last_event,  ,  , Display Click, Kuga Sustain, ,  , G+J Electric Media Sales GmbH, Brand, Previous Site Activity, 1.0
+build0, attributed,  ,  , Impression, Retail Marz, ,  , XaxisDE, Retail, Previous Site Activity, 482.082514707
+build0, last_event,  ,  , Impression, Smax, ,  , ForwardAdGroup, Brand, Previous Site Activity, 177.0
+build004, attributed,  ,  , Impression, Retail January, ,  , IQ Digital Network, Retail, Previous Site Activity, 7.97293391309
+testd00, attributed,  ,  , Display Click, Smax, ,  , ForwardAdGroup, Brand, Previous Site Activity, 1.17548659204
+build0, attributed,  ,  , Impression, Mondeo Vignale 2015, ,  , Mobile.de, Brand, Previous Site Activity, 0.0741319712566
+build004, attributed,  ,  , Impression, Kuga Sustain, ,  , plista.de, Brand, Previous Site Activity, 0.583333333333
+build0, last_event,  ,  , Impression, Gewerbewochen Marz, ,  , Business Advertising GmbH, Retail, Previous Site Activity, 144.0
+build0, attributed,  ,  , Display Click, Kuga Sustain, ,  , iq digital media marketing gmbh, Brand, Previous Site Activity, 239.168884089
+build0, last_event,  ,  , Impression, Retail January, ,  , auto-service.de, Retail, Previous Site Activity, 366.0
+build004, attributed,  ,  , Impression, Retail Marz, ,  , Bauer Media, Retail, Previous Site Activity, 4.402458214
+testd00, attributed,  ,  , Display Click, Retail January, ,  , auto-service.de, Retail, Previous Site Activity, 0.842857142857
+build0, attributed, Broad, Generic, Search Click,  , , Ford Technology, DART Search : Google,  , Previous Site Activity, 9.00438469536
+build004, attributed,  ,  , Display Click, Retail February, ,  , XaxisDE, Retail, Previous Site Activity, 0.25
+testd00, last_event,  ,  , Impression, Smax, ,  , undertone.co.uk, Brand, Previous Site Activity, 6.0
+testd00, last_event, Exact, Commercial Vehicles, Search Click,  , , Transit, DART Search : Google,  , Previous Site Activity, 10.0
+testd00, attributed,  ,  , Display Click, Gewerbewochen Marz, ,  , Business Advertising GmbH, Retail, Previous Site Activity, 0.0909090909091
+testd00, last_event,  ,  , Display Click, Retail January, ,  , motor-talk.de, Retail, Previous Site Activity, 1.0
+build0, attributed,  ,  , Impression, Retail January, ,  , OMS DE, Retail, Previous Site Activity, 3244.46502848
+build0, last_event,  ,  , Display Click, Fleet Allrad, ,  , Light Reaction, Retail, Previous Site Activity, 166.0
+testd00, attributed, Broad, Name Plate, Search Click,  , , Mondeo, DART Search : Google,  , Previous Site Activity, 9.33432087377
+build0, attributed,  ,  , Display Click, Smax, ,  , ForwardAdGroup, Brand, Previous Site Activity, 30.6136435218
+build0, last_event,  ,  , Display Click, Retail Marz, ,  , Autoscout24.de, Retail, Previous Site Activity, 58.0
+build004, last_event,  ,  , Impression, Gewerbewochen Marz, ,  , AutoScout24 Media, Retail, Previous Site Activity, 3.0
+build004, last_event,  ,  , Display Click, Smax, ,  , IQ Digital Network, Brand, Previous Site Activity, 1.0
+build0, last_event,  ,  , Display Click, Smax, ,  , Plista, Brand, Previous Site Activity, 213.0
+build004, attributed,  ,  , Impression, Retail January, ,  , autoplenum.de, Retail, Previous Site Activity, 8.48387832702
+build004, last_event,  ,  , Impression, Kuga Sustain, ,  , XaxisDE, Brand, Previous Site Activity, 14.0
+testd00, last_event,  ,  , Display Click, Retail February, ,  , Light Reaction, Retail, Previous Site Activity, 7.0
+build0, last_event, Exact, Commerce, Search Click,  , , Fleet Lease, DART Search : Google,  , Previous Site Activity, 1430.0
+build0, attributed,  ,  , Impression, UNKNOWN, ,  , Autoscout24.de, UNKNOWN, Previous Site Activity, 116.000048141
+build004, attributed, Exact, Name Plate, Search Click,  , , Ranger, DART Search : Google,  , Previous Site Activity, 6.00002739245
+build004, last_event, Broad, Name Plate, Search Click,  , , Ranger, DART Search : Google,  , Previous Site Activity, 1.0
+build0, last_event, Exact, Brand, Search Click,  , , Alone, DART Search : Google,  , Previous Site Activity, 107412.0
+build0, last_event,  ,  , Display Click, Fleet Allrad, ,  , Quarter Media, Retail, Previous Site Activity, 13.0
+build0, last_event,  ,  , Display Click, UNKNOWN, ,  , Mobile.de, UNKNOWN, Previous Site Activity, 37.0
+testd00, last_event,  ,  , Impression, Kuga Sustain, ,  , iq digital media marketing gmbh, Brand, Previous Site Activity, 4.0
+testd00, last_event,  ,  , Display Click, UNKNOWN, ,  , Media Impact DE, UNKNOWN, Previous Site Activity, 1.0
+build0, last_event,  ,  , Impression, Fleet Allrad, ,  , IQ Digital Network, Retail, Previous Site Activity, 312.0
+build0, last_event, Exact, Name Plate, Search Click,  , , Mondeo Vignale, DART Search : Google,  , Previous Site Activity, 1210.0
+build0, attributed, Broad, Brand, Search Click,  , , Handler, DART Search : Google,  , Previous Site Activity, 300.784281056
+build004, attributed, Exact, Name Plate, Search Click,  , , Mustang, DART Search : Google,  , Previous Site Activity, 59.4482323813
+testd00, attributed, Exact, Commerce, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 20.5001937877
+testd00, last_event, Broad, Name Plate, Search Click,  , , Edge, DART Search : Google,  , Previous Site Activity, 30.0
+build004, last_event, Broad, Name Plate, Search Click,  , , Mustang, DART Search : Google,  , Previous Site Activity, 14.0
+testd00, last_event, Broad, Commerce, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 38.0
+build004, last_event, Exact, Commerce, Search Click,  , , Ford Credit, DART Search : Google,  , Previous Site Activity, 6.0
+build0, attributed,  ,  , Display Click, Gewerbewochen Marz, ,  , EMC, Retail, Previous Site Activity, 0.799809830264
+build0, attributed, Broad, Name Plate, Search Click,  , , C-Max Launch, DART Search : Google,  , Previous Site Activity, 1820.90330175
+build0, attributed, Broad, Generic, Search Click,  , , Familien, DART Search : Google,  , Previous Site Activity, 67.9425474815
+testd00, last_event,  ,  , Impression, Retail February, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 10.0
+testd00, attributed,  ,  , Impression, Gewerbewochen Marz, ,  , Mobile.de, Retail, Previous Site Activity, 8.71162901394
+build0, attributed,  ,  , Impression, UNKNOWN, ,  , Conde Nast, UNKNOWN, Previous Site Activity, 12.6864302127
+build0, last_event,  ,  , Display Click, UNKNOWN, ,  , Bauer Media, UNKNOWN, Previous Site Activity, 5.0
+build0, attributed,  ,  , Display Click, Retail January, ,  , Mobile.de, Retail, Previous Site Activity, 87.1386267928
+build0, last_event,  ,  , Display Click, Kuga Sustain, ,  , Quisma, Brand, Previous Site Activity, 1949.0
+build004, attributed, Exact, Name Plate, Search Click,  , , Galaxy Launch, DART Search : Google,  , Previous Site Activity, 6.00005361682
+build0, attributed,  ,  , Display Click, Fleet Allrad, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 1.82114657368
+build004, attributed, Exact, Name Plate, Search Click,  , , Smax, DART Search : Google,  , Previous Site Activity, 29.0001278484
+build004, last_event, Broad, Name Plate, Search Click,  , , Smax, DART Search : Google,  , Previous Site Activity, 10.0
+build004, last_event, Broad, Name Plate, Search Click,  , , Galaxy Launch, DART Search : Google,  , Previous Site Activity, 5.0
+build0, attributed,  ,  , Impression, Gewerbewochen Marz, ,  , Mobile.de, Retail, Previous Site Activity, 351.546227544
+build0, last_event,  ,  , Impression, Retail February, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 1065.0
+build0, last_event,  ,  , Impression, Smax, ,  , yahoo.co.uk, Brand, Previous Site Activity, 383.0
+testd00, attributed,  ,  , Display Click, Smax, ,  , yahoo.co.uk, Brand, Previous Site Activity, 4.81666666667
+testd00, attributed, Broad, Generic, Search Click,  , , Van, DART Search : Google,  , Previous Site Activity, 0.333333333333
+build004, attributed, Exact, Name Plate, Search Click,  , , Focus, DART Search : Google,  , Previous Site Activity, 65.1112058113
+build004, attributed,  ,  , Display Click, Kuga Sustain, ,  , Interactive Media, Brand, Previous Site Activity, 2.357212682
+build004, last_event,  ,  , Display Click, Gewerbewochen Marz, ,  , Light Reaction, Retail, Previous Site Activity, 3.0
+testd00, attributed,  ,  , Display Click, Retail February, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 0.5
+build0, attributed,  ,  , Impression, Kuga Sustain, ,  , united internet media, Brand, Previous Site Activity, 399.204948983
+build0, attributed,  ,  , Display Click, Retail Marz, ,  , Light Reaction, Retail, Previous Site Activity, 2754.12687578
+build004, last_event,  ,  , Impression, Retail February, ,  , AutoScout24 Media, Retail, Previous Site Activity, 31.0
+build004, last_event, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, 114.0
+build004, attributed,  ,  , Impression, Retail Marz, ,  , Autoscout24.de, Retail, Previous Site Activity, 9.38263931743
+build004, attributed, Exact, Brand, Search Click,  , , Ford Technology, DART Search : Google,  , Previous Site Activity, 6.0
+testd00, last_event,  ,  , Display Click, Retail Marz, ,  , XaxisDE, Retail, Previous Site Activity, 2.0
+build0, last_event, Exact, Generic, Search Click,  , , Ford Technology, DART Search : Google,  , Previous Site Activity, 19.0
+build0, attributed, Broad, Generic, Search Click,  , , Van, DART Search : Google,  , Previous Site Activity, 14.0656183417
+build0, last_event, Phrase, Brand, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 44.0
+build004, attributed,  ,  , Impression, Smax, ,  , Plista, Brand, Previous Site Activity, 5.84548953029
+testd00, attributed, Exact, Brand, Search Click,  , , Mondeo Vignale, DART Search : Google,  , Previous Site Activity, 5.00020369601
+testd00, last_event, Broad, Brand, Search Click,  , , Mondeo Vignale, DART Search : Google,  , Previous Site Activity, 2.0
+testd00, attributed,  ,  , Impression, Retail February, ,  , united internet media, Retail, Previous Site Activity, 0.998269602134
+build0, attributed, Broad, Generic, Search Click,  , , Fleet Allrad, DART Search : Google,  , Previous Site Activity, 28.5534875199
+build004, last_event,  ,  , Display Click, Retail January, ,  , IQ Digital Network, Retail, Previous Site Activity, 1.0
+testd00, last_event,  ,  , Impression, Retail January, ,  , Mobile.de, Retail, Previous Site Activity, 42.0
+testd00, attributed, Exact, Generic, Search Click,  , , Klein, DART Search : Google,  , Previous Site Activity, 2.0
+build004, last_event,  ,  , Display Click, Kuga Sustain, ,  , plista.de, Brand, Previous Site Activity, 1.0
+testd00, last_event,  ,  , Impression, Fleet Allrad, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 5.0
+testd00, last_event,  ,  , Display Click, Retail January, ,  , OMS DE, Retail, Previous Site Activity, 1.0
+testd00, last_event,  ,  , Impression, Fleet Allrad, ,  , Business Advertising GmbH, Retail, Previous Site Activity, 3.0
+build0, attributed,  ,  , Impression, Kuga Sustain, ,  , Mobile.de, Brand, Previous Site Activity, 2686.82950605
+testd00, attributed,  ,  , Impression, Kuga Sustain, ,  , Media Impact DE, Brand, Previous Site Activity, 37.9158809823
+build004, attributed,  ,  , Impression, Fleet Allrad, ,  , Quarter Media, Retail, Previous Site Activity, 7.90331461704
+testd00, attributed, Exact, Commercial Vehicles, Search Click,  , , Tourneo, DART Search : Google,  , Previous Site Activity, 11.8057133353
+testd00, last_event, Broad, Commercial Vehicles, Search Click,  , , Tourneo, DART Search : Google,  , Previous Site Activity, 7.0
+build0, attributed,  ,  , Impression, Retail February, ,  , united internet media, Retail, Previous Site Activity, 592.730412998
+build0, last_event,  ,  , Display Click, Retail January, ,  , OMS DE, Retail, Previous Site Activity, 158.0
+build0, last_event,  ,  , Impression, Fleet Allrad, ,  , Business Advertising GmbH, Retail, Previous Site Activity, 202.0
+build004, attributed, Broad, Commerce, Search Click,  , , Fleet Lease, DART Search : Google,  , Previous Site Activity, 10.5000381294
+build0, attributed,  ,  , Impression, Fleet February, ,  , Quarter Media, Retail, Previous Site Activity, 657.046157942
+build0, last_event, Broad, Generic, Search Click,  , , Wagen, DART Search : Google,  , Previous Site Activity, 26.0
+testd00, last_event, Exact, Name Plate, Search Click,  , , C-Max Launch, DART Search : Google,  , Previous Site Activity, 91.0
+testd00, last_event,  ,  , Impression, Smax, ,  , XaxisDE, Brand, Previous Site Activity, 131.0
+build0, attributed, Exact, Generic, Search Click,  , , Wagen, DART Search : Google,  , Previous Site Activity, 28.5728314288
+build0, attributed,  ,  , Display Click, Motocraft 2016, ,  , Mobile.de, Retail, Previous Site Activity, 1.98485850981
+build004, last_event,  ,  , Display Click, Retail January, ,  , autoplenum.de, Retail, Previous Site Activity, 1.0
+build004, last_event,  ,  , Impression, Smax, ,  , undertone.co.uk, Brand, Previous Site Activity, 3.0
+testd00, attributed, Exact, Commerce, Search Click,  , , Other Campaign, DART Search : Google,  , Previous Site Activity, 1.50003377067
+build004, attributed,  ,  , Display Click, Retail January, ,  , auto-service.de, Retail, Previous Site Activity, 0.5
+build0, attributed, Broad, Brand, Search Click,  , , Generisch, DART Search : Google,  , Previous Site Activity, 934.500577672
+build0, last_event, Exact, Brand, Search Click,  , , Handler, DART Search : Google,  , Previous Site Activity, 220.0
+build004, last_event,  ,  , Impression, Smax, ,  , Mobile.de, Brand, Previous Site Activity, 8.0
+testd00, attributed, Exact, Name Plate, Search Click,  , , Kuga Sustain, DART Search : Google,  , Previous Site Activity, 90.3370374022
+build0, last_event,  ,  , Display Click, UNKNOWN, ,  , Autoscout24.de, UNKNOWN, Previous Site Activity, 23.0
+build004, attributed, Broad, Name Plate, Search Click,  , , Mondeo, DART Search : Google,  , Previous Site Activity, 6.625
+build0, attributed, Exact, Commerce, Search Click,  , , Other Campaign, DART Search : Google,  , Previous Site Activity, 231.331699398
+build0, last_event,  ,  , Impression, Smax, ,  , XaxisDE, Brand, Previous Site Activity, 10788.0
+build0, last_event, Exact, Name Plate, Search Click,  , , C-Max Launch, DART Search : Google,  , Previous Site Activity, 7757.0
+build0, attributed,  ,  , Impression, Retail February, ,  , Mobile.de, Retail, Previous Site Activity, 1174.54142325
+build0, attributed,  ,  , Impression, UNKNOWN, ,  , AutoScout24 Media, UNKNOWN, Previous Site Activity, 28.5231597484
+build0, last_event, Broad, Commerce, Search Click,  , , Other Campaign, DART Search : Google,  , Previous Site Activity, 353.0
+testd00, attributed,  ,  , Display Click, Smax, ,  , XaxisDE, Brand, Previous Site Activity, 9.55330832304
+build0, last_event,  ,  , Impression, UNKNOWN, ,  , autozeitung.de, UNKNOWN, Previous Site Activity, 62.0
+build004, last_event,  ,  , Display Click, Retail February, ,  , Light Reaction, Retail, Previous Site Activity, 62.0
+build0, last_event, Broad, Name Plate, Search Click,  , , Kuga Sustain, DART Search : Google,  , Previous Site Activity, 3183.0
+build0, attributed, Exact, Name Plate, Search Click,  , , Kuga Sustain, DART Search : Google,  , Previous Site Activity, 12364.9957522
+build0, attributed,  ,  , Impression, Formel 1 2016, ,  , IP Deutschland, Brand, Previous Site Activity, 262.914425681
+build0, attributed,  ,  , Display Click, Retail Sales, ,  , Mobile.de, Retail, Previous Site Activity, 1607.83205117
+testd00, last_event,  ,  , Impression, Kuga Sustain, ,  , SevenOne Media GmbH, Brand, Previous Site Activity, 23.0
+build0, attributed,  ,  , Impression, Retail February, ,  , Bauer Media, Retail, Previous Site Activity, 4432.24542864
+build0, last_event,  ,  , Impression, Kuga Sustain, ,  , OMS DE, Brand, Previous Site Activity, 382.0
+build0, attributed,  ,  , Display Click, Retail January, ,  , Autoscout24.de, Retail, Previous Site Activity, 60.6272944455
+build0, attributed,  ,  , Display Click, Fleet Allrad, ,  , EMC, Retail, Previous Site Activity, 3.6457163488
+testd00, last_event,  ,  , Impression, Motocraft 2016, ,  , Mobile.de, Retail, Previous Site Activity, 10.0
+testd00, attributed,  ,  , Display Click, Kuga Sustain, ,  , OMS DE, Brand, Previous Site Activity, 1.0873015873
+testd00, last_event,  ,  , Display Click, Gewerbewochen Marz, ,  , Mobile.de, Retail, Previous Site Activity, 1.0
+testd00, attributed, Broad, Brand, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 1.0
+build004, last_event,  ,  , Impression, Kuga Sustain, ,  , iq digital media marketing gmbh, Brand, Previous Site Activity, 2.0
+build0, attributed,  ,  , Impression, Retail January, ,  , autozeitung.de, Retail, Previous Site Activity, 6457.81572689
+build004, last_event, Broad, Commerce, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 5.0
+build0, last_event,  ,  , Impression, Fleet February, ,  , IQ Digital Network, Retail, Previous Site Activity, 280.0
+build0, last_event,  ,  , Impression, Kuga Sustain, ,  , SevenOne Media GmbH, Brand, Previous Site Activity, 1343.0
+build0, attributed,  ,  , Display Click, UNKNOWN, ,  , Autobild.de, UNKNOWN, Previous Site Activity, 3.57550446819
+build0, attributed, Broad, Name Plate, Search Click,  , , Bmax, DART Search : Google,  , Previous Site Activity, 738.340878209
+build004, last_event, Broad, Name Plate, Search Click,  , , Edge, DART Search : Google,  , Previous Site Activity, 16.0
+testd00, attributed,  ,  , Impression, Retail Marz, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 28.2812091242
+build004, attributed, Exact, Commerce, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 4.25890543492
+build004, attributed,  ,  , Display Click, Fleet Allrad, ,  , IQ Digital Network, Retail, Previous Site Activity, 0.2
+build004, attributed, Exact, Name Plate, Search Click,  , , Edge, DART Search : Google,  , Previous Site Activity, 12.6751583238
+testd00, last_event,  ,  , Display Click, Kuga Sustain, ,  , united internet media, Brand, Previous Site Activity, 2.0
+testd00, attributed,  ,  , Display Click, Fleet February, ,  , IQ Digital Network, Retail, Previous Site Activity, 1.49993428855
+build0, attributed,  ,  , Display Click, Kuga Sustain, ,  , Plista, Brand, Previous Site Activity, 1.22872710704e-05
+build0, last_event, UNKNOWN, UNKNOWN, Search Click,  , , UNKNOWN, DART Search : MSN,  , Previous Site Activity, 12725.0
+build0, attributed, Broad, Brand, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 88.2893538207
+build0, last_event, Exact, Generic, Search Click,  , , Limousine, DART Search : Google,  , Previous Site Activity, 4.0
+build0, attributed, Exact, Brand, Search Click,  , , Drive Hacks, DART Search : Google,  , Previous Site Activity, 0.00176102327262
+testd00, last_event,  ,  , Impression, Retail February, ,  , OMS DE, Retail, Previous Site Activity, 2.0
+build0, attributed,  ,  , Display Click, Fleet February, ,  , IQ Digital Network, Retail, Previous Site Activity, 13.9630915633
+testd00, last_event,  ,  , Impression, Retail Sales, ,  , Mobile.de, Retail, Previous Site Activity, 39.0
+testd00, attributed, Broad, Name Plate, Search Click,  , , Ka, DART Search : Google,  , Previous Site Activity, 14.6667271558
+testd00, attributed,  ,  , Display Click, Ecosport Social, ,  , Quisma, Brand, Previous Site Activity, 1.0
+build0, last_event,  ,  , Display Click, UNKNOWN, ,  , xaxis.com/de, UNKNOWN, Previous Site Activity, 2.0
+testd00, attributed, Broad, Generic, Search Click,  , , SUV, DART Search : Google,  , Previous Site Activity, 0.5
+testd00, last_event,  ,  , Impression, Retail January, ,  , Autoscout24.de, Retail, Previous Site Activity, 90.0
+build0, attributed,  ,  , Display Click, Smax, ,  , Interactive Media, Brand, Previous Site Activity, 1318.50535141
+testd00, last_event,  ,  , Display Click, Kuga Sustain, ,  , Mobile.de, Brand, Previous Site Activity, 12.0
+build004, attributed,  ,  , Display Click, Smax, ,  , yahoo.co.uk, Brand, Previous Site Activity, 5.82826146942e-06
+build004, attributed,  ,  , Display Click, Retail February, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 1.0
+testd00, last_event, Exact, Brand, Search Click,  , , Generisch, DART Search : Google,  , Previous Site Activity, 88.0
+build0, attributed, Broad, Generic, Search Click,  , , SUV, DART Search : Google,  , Previous Site Activity, 53.5432969736
+build0, attributed,  ,  , Display Click, Gewerbewochen Marz, ,  , aumago.com, Retail, Previous Site Activity, 1.90000725078
+build0, attributed,  ,  , Impression, Mondeo Vignale 2015, ,  , AutoScout24 Media, Brand, Previous Site Activity, 0.016680771578
+testd00, last_event,  ,  , Display Click, Retail February, ,  , united internet media, Retail, Previous Site Activity, 2.0
+build0, last_event,  ,  , Display Click, Kuga Sustain, ,  , undertone.co.uk, Brand, Previous Site Activity, 1.0
+build0, last_event,  ,  , Display Click, Kuga Sustain, ,  , Mobile.de, Brand, Previous Site Activity, 572.0
+build0, attributed, Broad, Generic, Search Click,  , , Neue, DART Search : Google,  , Previous Site Activity, 75.5914088116
+build004, attributed, Exact, Brand, Search Click,  , , Mondeo Vignale, DART Search : Google,  , Previous Site Activity, 1.00000615592
+testd00, attributed, Broad, Commercial Vehicles, Search Click,  , , Courier, DART Search : Google,  , Previous Site Activity, 1.00000897206
+testd00, attributed,  ,  , Impression, Smax, ,  , Xaxis Mobile TV, Brand, Previous Site Activity, 0.826923076923
+build004, last_event, Broad, Brand, Search Click,  , , Mondeo Vignale, DART Search : Google,  , Previous Site Activity, 1.0
+build0, last_event, Exact, Brand, Search Click,  , , Generisch, DART Search : Google,  , Previous Site Activity, 23030.0
+build004, last_event, Exact, Name Plate, Search Click,  , , Mondeo, DART Search : Google,  , Previous Site Activity, 32.0
+build0, last_event,  ,  , Display Click, Retail Marz, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 140.0
+build0, attributed,  ,  , Display Click, Retail February, ,  , SevenOne Media, Retail, Previous Site Activity, 47.5017552931
+build0, last_event,  ,  , Impression, Kuga Sustain, ,  , pushfire DE Netzwerk, Brand, Previous Site Activity, 8.0
+build004, last_event,  ,  , Impression, Retail January, ,  , Mobile.de, Retail, Previous Site Activity, 12.0
+build0, attributed,  ,  , Display Click, Motocraft 2016, ,  , Autoscout24.de, Retail, Previous Site Activity, 1.56032742305
+testd00, last_event,  ,  , Impression, Fleet February, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 3.0
+build004, last_event,  ,  , Impression, Fleet Allrad, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 2.0
+build004, attributed, Exact, Generic, Search Click,  , , Klein, DART Search : Google,  , Previous Site Activity, 1.0
+build0, last_event,  ,  , Display Click, Kuga Sustain, ,  , Bauer Media, Brand, Previous Site Activity, 356.0
+build0, last_event,  ,  , Display Click, Smax, ,  , Light Reaction, Brand, Previous Site Activity, 3218.0
+build0, last_event,  ,  , Impression, Retail January, ,  , XaxisDE, Retail, Previous Site Activity, 1445.0
+testd00, attributed,  ,  , Impression, Retail January, ,  , Autobild.de, Retail, Previous Site Activity, 67.1968800977
+testd00, last_event, Broad, Name Plate, Search Click,  , , Ecosport Sustain, DART Search : Google,  , Previous Site Activity, 25.0
+testd00, attributed, Exact, Name Plate, Search Click,  , , Ecosport Sustain, DART Search : Google,  , Previous Site Activity, 57.1669772704
+build004, attributed,  ,  , Impression, Kuga Sustain, ,  , Media Impact DE, Brand, Previous Site Activity, 15.999016986
+testd00, last_event,  ,  , Impression, Smax, ,  , Interactive Media, Brand, Previous Site Activity, 14.0
+build0, last_event,  ,  , Display Click, Smax, ,  , G+J Electric Media Sales GmbH, Brand, Previous Site Activity, 3.0
+testd00, attributed,  ,  , Display Click, Retail January, ,  , XaxisDE, Retail, Previous Site Activity, 0.0265033777845
+build0, last_event,  ,  , Impression, Fleet February, ,  , Business Advertising GmbH, Retail, Previous Site Activity, 167.0
+build0, last_event,  ,  , Impression, Fleet February, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 234.0
+build0, attributed,  ,  , Display Click, UNKNOWN, ,  , Xaxis Mobile TV, UNKNOWN, Previous Site Activity, 2.02690835202
+build0, last_event, Broad, Generic, Search Click,  , , Fahrzeug, DART Search : Google,  , Previous Site Activity, 16.0
+build004, last_event, Exact, Name Plate, Search Click,  , , C-Max Launch, DART Search : Google,  , Previous Site Activity, 27.0
+testd00, attributed, Broad, Commerce, Search Click,  , , Ford Rental, DART Search : Google,  , Previous Site Activity, 1.00000545451
+build0, attributed, Exact, Generic, Search Click,  , , Fahrzeug, DART Search : Google,  , Previous Site Activity, 4.50005969037
+testd00, last_event, Exact, Brand, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 4.0
+build0, last_event,  ,  , Display Click, UNKNOWN, ,  , AutoScout24 Media, UNKNOWN, Previous Site Activity, 3.0
+build0, last_event, Exact, Name Plate, Search Click,  , , Bmax, DART Search : Google,  , Previous Site Activity, 4154.0
+build0, attributed,  ,  , Impression, UNKNOWN, ,  , iq digital media marketing gmbh, UNKNOWN, Previous Site Activity, 18.4237998771
+testd00, attributed, Broad, FCSD, Search Click,  , , Motocraft, DART Search : Google,  , Previous Site Activity, 7.08337919931
+testd00, last_event,  ,  , Impression, Motocraft 2016, ,  , Autoscout24.de, Retail, Previous Site Activity, 7.0
+testd00, attributed,  ,  , Impression, Gewerbewochen Marz, ,  , AutoScout24 Media, Retail, Previous Site Activity, 25.0760918886
+build004, attributed,  ,  , Display Click, Smax, ,  , XaxisDE, Brand, Previous Site Activity, 4.48143985707
+build0, last_event,  ,  , Display Click, Smax, ,  , Xaxis Mobile TV, Brand, Previous Site Activity, 157.0
+build0, attributed, Broad, Commerce, Search Click,  , , Ford Rental, DART Search : Google,  , Previous Site Activity, 33.9032628115
+build0, attributed,  ,  , Impression, UNKNOWN, ,  , mirando.de, UNKNOWN, Previous Site Activity, 13.2941640085
+build0, last_event,  ,  , Impression, Smax, ,  , IQ Digital Network, Brand, Previous Site Activity, 304.0
+build0, attributed,  ,  , Impression, UNKNOWN, ,  , autoplenum.de, UNKNOWN, Previous Site Activity, 24.5529397729
+testd00, attributed,  ,  , Display Click, Smax, ,  , IQ Digital Network, Brand, Previous Site Activity, 0.0526315789474
+testd00, attributed,  ,  , Impression, Kuga Sustain, ,  , XaxisDE, Brand, Previous Site Activity, 37.559682945
+testd00, last_event, Exact, Name Plate, Search Click,  , , Ka, DART Search : Google,  , Previous Site Activity, 11.0
+build0, attributed,  ,  , Impression, Gewerbewochen Marz, ,  , AutoScout24 Media, Retail, Previous Site Activity, 2517.53620397
+build0, attributed,  ,  , Display Click, Smax, ,  , Axel Springer Media Impact, Brand, Previous Site Activity, 63.906771733
+build0, last_event,  ,  , Display Click, Retail January, ,  , Autobild.de, Retail, Previous Site Activity, 108.0
+testd00, attributed, Broad, Name Plate, Search Click,  , , Ranger, DART Search : Google,  , Previous Site Activity, 32.5336703538
+testd00, attributed,  ,  , Impression, Mondeo Vignale 2015, ,  , IQ Digital Network, Brand, Previous Site Activity, 0.666666666667
+testd00, last_event, Exact, Generic, Search Click,  , , Auto, DART Search : Google,  , Previous Site Activity, 1.0
+build0, attributed, Broad, Generic, Search Click,  , , MicroVan, DART Search : Google,  , Previous Site Activity, 0.520322811357
+build0, attributed,  ,  , Display Click, Fleet February, ,  , EMC, Retail, Previous Site Activity, 1.17287582591
+build004, last_event,  ,  , Impression, Motocraft 2016, ,  , Mobile.de, Retail, Previous Site Activity, 4.0
+build0, attributed,  ,  , Display Click, Retail Marz, ,  , Mobile.de, Retail, Previous Site Activity, 20.2045741316
+build004, attributed,  ,  , Impression, Retail Marz, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 10.8769873188
+build0, last_event, Broad, Generic, Search Click,  , , Combis, DART Search : Google,  , Previous Site Activity, 8.0
+build0, attributed, Exact, Generic, Search Click,  , , Combis, DART Search : Google,  , Previous Site Activity, 2.0
+testd00, attributed,  ,  , Impression, UNKNOWN, ,  , Business Advertising GmbH, UNKNOWN, Previous Site Activity, 5.30711722332e-06
+build004, attributed,  ,  , Display Click, Kuga Sustain, ,  , SevenOne Media GmbH, Brand, Previous Site Activity, 0.25
+build0, attributed, Broad, Name Plate, Search Click,  , , Ranger, DART Search : Google,  , Previous Site Activity, 184.903851871
+testd00, attributed, Exact, Commerce, Search Click,  , , Ford Credit, DART Search : Google,  , Previous Site Activity, 6.83335013943
+build004, attributed,  ,  , Impression, Kuga Sustain, ,  , Bauer Media, Brand, Previous Site Activity, 6.7199961247
+build0, last_event, Exact, Generic, Search Click,  , , Neue, DART Search : Google,  , Previous Site Activity, 121.0
+build0, last_event,  ,  , Impression, UNKNOWN, ,  , ebay.de, UNKNOWN, Previous Site Activity, 2.0
+testd00, last_event, Exact, Commercial Vehicles, Search Click,  , , Courier, DART Search : Google,  , Previous Site Activity, 3.0
+testd00, attributed,  ,  , Impression, Retail February, ,  , XaxisDE, Retail, Previous Site Activity, 12.9543644082
+build004, attributed, Broad, Name Plate, Search Click,  , , Ka, DART Search : Google,  , Previous Site Activity, 1.0
+build0, last_event,  ,  , Display Click, Gewerbewochen Marz, ,  , Adshare, Retail, Previous Site Activity, 43.0
+build004, last_event,  ,  , Impression, Retail Sales, ,  , Mobile.de, Retail, Previous Site Activity, 33.0
+build0, attributed,  ,  , Impression, Kuga Sustain, ,  , AutoScout24 Media, Brand, Previous Site Activity, 2078.41729221
+build0, attributed, Exact, Commerce, Search Click,  , , Ford Credit, DART Search : Google,  , Previous Site Activity, 725.870915954
+build0, last_event,  ,  , Impression, Retail Sales, ,  , XaxisDE, Retail, Previous Site Activity, 1174.0
+build0, attributed, Broad, Name Plate, Search Click,  , , Mustang, DART Search : Google,  , Previous Site Activity, 1667.36271284
+testd00, attributed,  ,  , Impression, Retail January, ,  , auto-motor-und-sport.de, Retail, Previous Site Activity, 41.8434254383
+build0, last_event, Broad, Commerce, Search Click,  , , Ford Credit, DART Search : Google,  , Previous Site Activity, 226.0
+testd00, attributed, Broad, Name Plate, Search Click,  , , Smax, DART Search : Google,  , Previous Site Activity, 18.5834556285
+testd00, attributed, Broad, Name Plate, Search Click,  , , Galaxy Launch, DART Search : Google,  , Previous Site Activity, 12.3337556309
+testd00, attributed,  ,  , Display Click, Retail Sales, ,  , XaxisDE, Retail, Previous Site Activity, 0.758823529412
+testd00, last_event,  ,  , Impression, Smax, ,  , Axel Springer Media Impact, Brand, Previous Site Activity, 19.0
+build004, last_event,  ,  , Impression, Retail January, ,  , Autoscout24.de, Retail, Previous Site Activity, 36.0
+build004, last_event,  ,  , Display Click, Kuga Sustain, ,  , Mobile.de, Brand, Previous Site Activity, 2.0
+build004, attributed, Broad, Generic, Search Click,  , , Auto, DART Search : Google,  , Previous Site Activity, 0.5
+build0, last_event, Broad, Generic, Search Click,  , , Offroader, DART Search : Google,  , Previous Site Activity, 1.0
+build0, attributed,  ,  , Display Click, Mondeo Vignale 2016, ,  , Interactive Media, Brand, Previous Site Activity, 0.668596538485
+testd00, last_event, Phrase, Name Plate, Search Click,  , , Fiesta Retail, DART Search : Google,  , Previous Site Activity, 4.0
+build004, attributed,  ,  , Display Click, Retail February, ,  , OMS DE, Retail, Previous Site Activity, 0.5
+build004, last_event, Exact, Brand, Search Click,  , , Generisch, DART Search : Google,  , Previous Site Activity, 92.0
+build0, attributed,  ,  , Display Click, AllLine Carsharing, ,  , Light Reaction, Retail, Previous Site Activity, 50.001524001
+testd00, attributed,  ,  , Display Click, Gewerbewochen Marz, ,  , Light Reaction, Retail, Previous Site Activity, 3.56200046642
+testd00, last_event,  ,  , Impression, Retail Marz, ,  , Mobile.de, Retail, Previous Site Activity, 8.0
+build004, last_event,  ,  , Display Click, Retail February, ,  , united internet media, Retail, Previous Site Activity, 1.0
+testd00, attributed,  ,  , Impression, Retail February, ,  , AutoScout24 Media, Retail, Previous Site Activity, 65.9109928793
+testd00, last_event,  ,  , Display Click, Retail Marz, ,  , SevenOne Media GmbH, Retail, Previous Site Activity, 2.0
+testd00, attributed, Broad, Brand, Search Click,  , , Kategorien, DART Search : Google,  , Previous Site Activity, 4.33353796731
+testd00, attributed, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, 269.0
+build0, attributed,  ,  , Impression, UNKNOWN, ,  , EMC, UNKNOWN, Previous Site Activity, 3.95272129987
+build004, last_event,  ,  , Display Click, Kuga Sustain, ,  , Media Impact DE, Brand, Previous Site Activity, 1.0
+testd00, attributed, Broad, Brand, Search Click,  , , Ford Technology, DART Search : Google,  , Previous Site Activity, 1.5
+build0, attributed, Broad, Name Plate, Search Click,  , , Focus, DART Search : Google,  , Previous Site Activity, 2204.32384848
+testd00, last_event,  ,  , Impression, Retail Marz, ,  , Bauer Media, Retail, Previous Site Activity, 16.0
+testd00, last_event,  ,  , Display Click, Smax, ,  , Quisma, Brand, Previous Site Activity, 11.0
+build004, last_event,  ,  , Impression, Fleet February, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 2.0
+build0, last_event,  ,  , Display Click, Retail Marz, ,  , OMS DE, Retail, Previous Site Activity, 36.0
+build0, attributed,  ,  , Impression, Retail February, ,  , AutoScout24 Media, Retail, Previous Site Activity, 5184.48411105
+build0, attributed, Broad, Name Plate, Search Click,  , , Fiesta Retail, DART Search : Google,  , Previous Site Activity, 2233.6231342
+build0, last_event,  ,  , Display Click, Retail Marz, ,  , SevenOne Media GmbH, Retail, Previous Site Activity, 66.0
+build0, last_event,  ,  , Impression, Retail January, ,  , IQ Digital Network, Retail, Previous Site Activity, 540.0
+build0, last_event,  ,  , Impression, Kuga Sustain, ,  , plista.de, Brand, Previous Site Activity, 446.0
+build0, attributed, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, 13118.0
+build004, attributed, Exact, Name Plate, Search Click,  , , Ecosport Sustain, DART Search : Google,  , Previous Site Activity, 22.333541403
+testd00, attributed,  ,  , Display Click, Kuga Sustain, ,  , plista.de, Brand, Previous Site Activity, 1.75848125746
+build004, attributed,  ,  , Impression, Retail January, ,  , Autobild.de, Retail, Previous Site Activity, 23.7860114637
+build004, last_event, Broad, Name Plate, Search Click,  , , Ecosport Sustain, DART Search : Google,  , Previous Site Activity, 9.0
+build004, last_event,  ,  , Display Click, Retail February, ,  , Mobile.de, Retail, Previous Site Activity, 2.0
+build004, last_event,  ,  , Impression, Smax, ,  , Interactive Media, Brand, Previous Site Activity, 8.0
+build004, attributed,  ,  , Display Click, Retail January, ,  , XaxisDE, Retail, Previous Site Activity, 0.0666666666667
+build0, attributed,  ,  , Display Click, Smax, ,  , Esome, Brand, Previous Site Activity, 3700.20570554
+testd00, attributed,  ,  , Impression, Smax, ,  , united internet media, Brand, Previous Site Activity, 45.4302140731
+build0, last_event,  ,  , Impression, Kuga Sustain, ,  , G+J Electric Media Sales GmbH, Brand, Previous Site Activity, 37.0
+build0, attributed,  ,  , Display Click, Retail Sales, ,  , AutoScout24 Media, Retail, Previous Site Activity, 148.464960164
+build0, last_event,  ,  , Display Click, Retail February, ,  , XaxisDE, Retail, Previous Site Activity, 142.0
+testd00, attributed,  ,  , Display Click, Kuga Sustain, ,  , G+J Electric Media Sales GmbH, Brand, Previous Site Activity, 0.0896846148123
+testd00, attributed,  ,  , Impression, Gewerbewochen Marz, ,  , IQ Digital Network, Retail, Previous Site Activity, 2.74276628673
+build004, last_event,  ,  , Impression, Gewerbewochen Marz, ,  , aumago.com, Retail, Previous Site Activity, 1.0
+build0, last_event,  ,  , Display Click, Retail January, ,  , auto-motor-und-sport.de, Retail, Previous Site Activity, 70.0
+testd00, last_event, Exact, Name Plate, Search Click,  , , Ranger, DART Search : Google,  , Previous Site Activity, 94.0
+build004, last_event, Exact, Brand, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 10.0
+testd00, last_event,  ,  , Impression, Gewerbewochen Marz, ,  , blogformgroup.com, Retail, Previous Site Activity, 2.0
+build0, last_event,  ,  , Impression, Retail January, ,  , motor-talk.de, Retail, Previous Site Activity, 1758.0
+build0, last_event,  ,  , Impression, Retail January, ,  , autoplenum.de, Retail, Previous Site Activity, 1257.0
+build004, last_event,  ,  , Impression, Retail February, ,  , SevenOne Media, Retail, Previous Site Activity, 28.0
+testd00, attributed,  ,  , Impression, Smax, ,  , undertone.co.uk, Brand, Previous Site Activity, 7.97194415645
+testd00, attributed,  ,  , Display Click, Retail January, ,  , autoplenum.de, Retail, Previous Site Activity, 0.866666666667
+build0, last_event,  ,  , Impression, UNKNOWN, ,  , Xaxis Display, UNKNOWN, Previous Site Activity, 34.0
+testd00, attributed, Exact, Commercial Vehicles, Search Click,  , , Transit, DART Search : Google,  , Previous Site Activity, 8.33353990957
+build004, last_event,  ,  , Impression, Motocraft 2016, ,  , Autoscout24.de, Retail, Previous Site Activity, 5.0
+build004, attributed, Broad, FCSD, Search Click,  , , Motocraft, DART Search : Google,  , Previous Site Activity, 1.75000617307
+build004, last_event,  ,  , Display Click, Retail January, ,  , autozeitung.de, Retail, Previous Site Activity, 2.0
+testd00, attributed,  ,  , Display Click, Retail January, ,  , motor-talk.de, Retail, Previous Site Activity, 0.333333333333
+testd00, attributed,  ,  , Impression, Smax, ,  , Mobile.de, Brand, Previous Site Activity, 38.4485989601
+testd00, attributed,  ,  , Impression, Gewerbewochen Marz, ,  , mirando.de, Retail, Previous Site Activity, 5.00568194807
+build0, attributed,  ,  , Display Click, Retail Marz, ,  , Autoscout24.de, Retail, Previous Site Activity, 20.4160295105
+build0, last_event,  ,  , Impression, Gewerbewochen Marz, ,  , blogformgroup.com, Retail, Previous Site Activity, 111.0
+testd00, last_event, Exact, Name Plate, Search Click,  , , Mustang, DART Search : Google,  , Previous Site Activity, 159.0
+build004, attributed,  ,  , Impression, Gewerbewochen Marz, ,  , AutoScout24 Media, Retail, Previous Site Activity, 3.58520577361
+build004, attributed,  ,  , Display Click, Smax, ,  , IQ Digital Network, Brand, Previous Site Activity, 0.5
+build0, attributed,  ,  , Impression, Smax, ,  , undertone.co.uk, Brand, Previous Site Activity, 796.882501496
+build004, attributed,  ,  , Impression, Kuga Sustain, ,  , XaxisDE, Brand, Previous Site Activity, 17.5380571884
+build0, attributed,  ,  , Display Click, Retail January, ,  , motor-talk.de, Retail, Previous Site Activity, 39.2881893569
+build0, attributed, Exact, Commercial Vehicles, Search Click,  , , Transit, DART Search : Google,  , Previous Site Activity, 75.091724781
+build0, last_event, Broad, Commercial Vehicles, Search Click,  , , Transit, DART Search : Google,  , Previous Site Activity, 63.0
+testd00, last_event,  ,  , Impression, Retail Sales, ,  , AutoScout24 Media, Retail, Previous Site Activity, 8.0
+testd00, attributed,  ,  , Display Click, Retail February, ,  , Light Reaction, Retail, Previous Site Activity, 5.57389387466
+build004, last_event, Exact, Name Plate, Search Click,  , , Ka, DART Search : Google,  , Previous Site Activity, 8.0
+build0, last_event, Exact, Name Plate, Search Click,  , , Mustang, DART Search : Google,  , Previous Site Activity, 14832.0
+testd00, last_event, Exact, Name Plate, Search Click,  , , Smax, DART Search : Google,  , Previous Site Activity, 61.0
+build0, attributed,  ,  , Impression, Retail Dezember, ,  , SevenOne Media, Retail, Previous Site Activity, 3.52009885923
+testd00, last_event, Exact, Name Plate, Search Click,  , , Galaxy Launch, DART Search : Google,  , Previous Site Activity, 20.0
+testd00, last_event,  ,  , Display Click, Kuga Sustain, ,  , AutoScout24 Media, Brand, Previous Site Activity, 6.0
+build0, last_event,  ,  , Display Click, Smax, ,  , united internet media, Brand, Previous Site Activity, 764.0
+build0, attributed,  ,  , Display Click, UNKNOWN, ,  , Mobile.de, UNKNOWN, Previous Site Activity, 12.3937225406
+build0, attributed, Broad, Generic, Search Click,  , , PKW, DART Search : Google,  , Previous Site Activity, 10.00245025
+build0, last_event,  ,  , Impression, UNKNOWN, ,  , Media Impact DE, UNKNOWN, Previous Site Activity, 550.0
+testd00, attributed,  ,  , Impression, Kuga Sustain, ,  , iq digital media marketing gmbh, Brand, Previous Site Activity, 6.09179989285
+build004, attributed,  ,  , Impression, Retail Marz, ,  , OMS DE, Retail, Previous Site Activity, 1.50000902847
+build0, last_event,  ,  , Display Click, Gewerbewochen Marz, ,  , IQ Digital Network, Retail, Previous Site Activity, 4.0
+testd00, attributed,  ,  , Display Click, UNKNOWN, ,  , Media Impact DE, UNKNOWN, Previous Site Activity, 0.224520369171
+build0, attributed,  ,  , Impression, Fleet Allrad, ,  , IQ Digital Network, Retail, Previous Site Activity, 974.972086705
+testd00, attributed,  ,  , Impression, Smax, ,  , ForwardAdGroup, Brand, Previous Site Activity, 10.0693811916
+testd00, last_event,  ,  , Impression, Retail Marz, ,  , Autoscout24.de, Retail, Previous Site Activity, 42.0
+testd00, attributed, Broad, Name Plate, Search Click,  , , Edge, DART Search : Google,  , Previous Site Activity, 27.0002096428
+testd00, last_event, Exact, Brand, Search Click,  , , Ford Technology, DART Search : Google,  , Previous Site Activity, 3.0
+build0, last_event, Exact, Name Plate, Search Click,  , , Focus, DART Search : Google,  , Previous Site Activity, 14176.0
+build0, last_event,  ,  , Display Click, Kuga Sustain, ,  , Interactive Media, Brand, Previous Site Activity, 4977.0
+build004, attributed,  ,  , Impression, Retail February, ,  , XaxisDE, Retail, Previous Site Activity, 5.85974313909
+build0, attributed,  ,  , Display Click, UNKNOWN, ,  , Bauer Media, UNKNOWN, Previous Site Activity, 2.02447991544
+testd00, last_event,  ,  , Impression, Smax, ,  , Plista, Brand, Previous Site Activity, 9.0
+build004, last_event,  ,  , Impression, Gewerbewochen Marz, ,  , G+J Electric Media Sales GmbH, Retail, Previous Site Activity, 1.0
+build0, attributed,  ,  , Display Click, Kuga Sustain, ,  , Quisma, Brand, Previous Site Activity, 1224.79599035
+build0, last_event, Exact, Name Plate, Search Click,  , , Fiesta Retail, DART Search : Google,  , Previous Site Activity, 10872.0
+build0, attributed, Broad, Commerce, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 612.1010179
+build004, attributed, Broad, Name Plate, Search Click,  , , Smax, DART Search : Google,  , Previous Site Activity, 8.50001349094
+build004, attributed,  ,  , Impression, Retail January, ,  , auto-motor-und-sport.de, Retail, Previous Site Activity, 27.4951662957
+build0, last_event,  ,  , Display Click, Smax, ,  , Mobile.de, Brand, Previous Site Activity, 192.0
+build0, attributed,  ,  , Display Click, Fleet February, ,  , aumago.com, Retail, Previous Site Activity, 2.76346439386
+build004, last_event,  ,  , Impression, Smax, ,  , Axel Springer Media Impact, Brand, Previous Site Activity, 10.0
+build0, last_event,  ,  , Display Click, Gewerbewochen Marz, ,  , mirando.de, Retail, Previous Site Activity, 14.0
+build0, attributed,  ,  , Impression, UNKNOWN, ,  , SevenOne Media, UNKNOWN, Previous Site Activity, 3.42989822219e-05
+testd00, attributed,  ,  , Display Click, Fleet Allrad, ,  , Light Reaction, Retail, Previous Site Activity, 2.14285714286
+build0, last_event, Exact, Generic, Search Click,  , , Mini, DART Search : Google,  , Previous Site Activity, 3.0
+build004, last_event, Phrase, Name Plate, Search Click,  , , Fiesta Retail, DART Search : Google,  , Previous Site Activity, 1.0
+build0, last_event,  ,  , Display Click, UNKNOWN, ,  , EMC, UNKNOWN, Previous Site Activity, 1.0
+build004, attributed, Broad, Name Plate, Search Click,  , , Galaxy Launch, DART Search : Google,  , Previous Site Activity, 4.5
+build004, attributed,  ,  , Display Click, Retail Sales, ,  , XaxisDE, Retail, Previous Site Activity, 0.05
+testd00, last_event,  ,  , Display Click, Retail February, ,  , AutoScout24 Media, Retail, Previous Site Activity, 1.0
+build0, attributed,  ,  , Impression, Retail February, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 3539.12122994
+build0, attributed,  ,  , Impression, Smax, ,  , yahoo.co.uk, Brand, Previous Site Activity, 1201.56302632
+testd00, last_event,  ,  , Impression, UNKNOWN, ,  , Mobile.de, UNKNOWN, Previous Site Activity, 4.0
+build004, attributed,  ,  , Display Click, Gewerbewochen Marz, ,  , Light Reaction, Retail, Previous Site Activity, 3.07048899155
+build0, last_event,  ,  , Display Click, Ecosport Sustain, ,  , Light Reaction, Brand, Previous Site Activity, 2.0
+build004, last_event,  ,  , Impression, Retail Marz, ,  , Mobile.de, Retail, Previous Site Activity, 2.0
+build0, last_event,  ,  , Impression, Retail Marz, ,  , XaxisDE, Retail, Previous Site Activity, 1001.0
+testd00, attributed, Exact, Commerce, Search Click,  , , Fleet Lease, DART Search : Google,  , Previous Site Activity, 10.5002185921
+testd00, last_event, Broad, Commerce, Search Click,  , , Fleet Lease, DART Search : Google,  , Previous Site Activity, 14.0
+testd00, last_event,  ,  , Display Click, Retail Sales, ,  , Light Reaction, Retail, Previous Site Activity, 27.0
+testd00, attributed,  ,  , Display Click, Retail Marz, ,  , XaxisDE, Retail, Previous Site Activity, 0.513182706138
+build004, attributed, Broad, Brand, Search Click,  , , Kategorien, DART Search : Google,  , Previous Site Activity, 0.500008069566
+build0, last_event,  ,  , Impression, Fleet Allrad, ,  , Quarter Media, Retail, Previous Site Activity, 398.0
+build004, last_event,  ,  , Impression, Retail Marz, ,  , Bauer Media, Retail, Previous Site Activity, 5.0
+build0, last_event,  ,  , Display Click, UNKNOWN, ,  , OMS DE, UNKNOWN, Previous Site Activity, 41.0
+testd00, last_event,  ,  , Display Click, Gewerbewochen Marz, ,  , Business Advertising GmbH, Retail, Previous Site Activity, 1.0
+testd00, attributed,  ,  , Impression, Retail January, ,  , Mobile.de, Retail, Previous Site Activity, 85.259466412
+build0, attributed,  ,  , Impression, Gewerbewochen Marz, ,  , EMC, Retail, Previous Site Activity, 19.8728455823
+build0, last_event,  ,  , Display Click, Smax, ,  , ForwardAdGroup, Brand, Previous Site Activity, 62.0
+testd00, attributed,  ,  , Impression, Fleet Allrad, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 9.16375681254
+testd00, attributed, Exact, Name Plate, Search Click,  , , Mondeo, DART Search : Google,  , Previous Site Activity, 33.1682555533
+testd00, last_event, Broad, Name Plate, Search Click,  , , Mondeo, DART Search : Google,  , Previous Site Activity, 12.0
+build004, attributed,  ,  , Display Click, Retail January, ,  , IQ Digital Network, Retail, Previous Site Activity, 0.333333333333
+build004, attributed,  ,  , Display Click, Kuga Sustain, ,  , plista.de, Brand, Previous Site Activity, 0.333333333333
+build0, attributed, Broad, Brand, Search Click,  , , Mondeo Vignale, DART Search : Google,  , Previous Site Activity, 95.6401127273
+build004, attributed,  ,  , Impression, Gewerbewochen Marz, ,  , IQ Digital Network, Retail, Previous Site Activity, 1.85274705607
+build004, attributed,  ,  , Impression, Smax, ,  , united internet media, Brand, Previous Site Activity, 36.8564107377
+build0, last_event,  ,  , Display Click, Retail January, ,  , auto-service.de, Retail, Previous Site Activity, 154.0
+testd00, attributed, Broad, Commercial Vehicles, Search Click,  , , Tourneo, DART Search : Google,  , Previous Site Activity, 5.41675559674
+build0, last_event,  ,  , Display Click, Gewerbewochen Marz, ,  , Business Advertising GmbH, Retail, Previous Site Activity, 13.0
+testd00, last_event,  ,  , Display Click, Smax, ,  , undertone.co.uk, Brand, Previous Site Activity, 3.0
+build004, attributed,  ,  , Display Click, Retail Marz, ,  , Bauer Media, Retail, Previous Site Activity, 0.25
+build0, attributed,  ,  , Impression, Fleet Allrad, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 1432.19585122
+build0, attributed,  ,  , Impression, Fleet Allrad, ,  , Business Advertising GmbH, Retail, Previous Site Activity, 673.285921925
+build0, attributed, Broad, Generic, Search Click,  , , Klein, DART Search : Google,  , Previous Site Activity, 67.3909486163
+build0, attributed,  ,  , Display Click, Retail January, ,  , OMS DE, Retail, Previous Site Activity, 104.297522712
+build004, last_event, Exact, Name Plate, Search Click,  , , Ranger, DART Search : Google,  , Previous Site Activity, 6.0
+build0, last_event, Broad, Generic, Search Click,  , , 4x4, DART Search : Google,  , Previous Site Activity, 1.0
+build0, attributed,  ,  , Impression, Gewerbewochen Marz, ,  , OMS DE, Retail, Previous Site Activity, 112.310997554
+build0, attributed, Broad, Commercial Vehicles, Search Click,  , , Tourneo, DART Search : Google,  , Previous Site Activity, 74.3772011039
+build004, attributed,  ,  , Impression, Kuga Sustain, ,  , Interactive Media, Brand, Previous Site Activity, 9.50726759802
+build004, attributed,  ,  , Display Click, Retail January, ,  , autoplenum.de, Retail, Previous Site Activity, 0.236438910812
+build004, last_event,  ,  , Display Click, Kuga Sustain, ,  , XaxisDE, Brand, Previous Site Activity, 2.0
+build0, attributed, Exact, Brand, Search Click,  , , Handler, DART Search : Google,  , Previous Site Activity, 215.289689145
+testd00, last_event, Exact, Name Plate, Search Click,  , , Edge, DART Search : Google,  , Previous Site Activity, 42.0
+build004, attributed,  ,  , Impression, Smax, ,  , Mobile.de, Brand, Previous Site Activity, 8.38545846387
+build004, last_event, Exact, Name Plate, Search Click,  , , Mustang, DART Search : Google,  , Previous Site Activity, 77.0
+testd00, last_event, Exact, Commerce, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 23.0
+build0, attributed,  ,  , Display Click, UNKNOWN, ,  , Autoscout24.de, UNKNOWN, Previous Site Activity, 6.16603685602
+build004, attributed,  ,  , Impression, Gewerbewochen Marz, ,  , mirando.de, Retail, Previous Site Activity, 2.14013445319
+build0, attributed,  ,  , Impression, Smax, ,  , XaxisDE, Brand, Previous Site Activity, 21459.549628
+build0, last_event, Broad, Name Plate, Search Click,  , , C-Max Launch, DART Search : Google,  , Previous Site Activity, 2365.0
+build0, attributed,  ,  , Impression, UNKNOWN, ,  , autozeitung.de, UNKNOWN, Previous Site Activity, 42.6309963626
+build0, attributed, Exact, Name Plate, Search Click,  , , C-Max Launch, DART Search : Google,  , Previous Site Activity, 6278.35760745
+build0, attributed, Exact, Generic, Search Click,  , , Familien, DART Search : Google,  , Previous Site Activity, 108.601994213
+build0, last_event, Broad, Generic, Search Click,  , , Familien, DART Search : Google,  , Previous Site Activity, 84.0
+build0, attributed, Broad, Commerce, Search Click,  , , Other Campaign, DART Search : Google,  , Previous Site Activity, 252.815142416
+build004, attributed,  ,  , Display Click, Retail February, ,  , Light Reaction, Retail, Previous Site Activity, 48.19680317
+build0, last_event,  ,  , Impression, UNKNOWN, ,  , Conde Nast, UNKNOWN, Previous Site Activity, 11.0
+build004, last_event,  ,  , Impression, Retail Sales, ,  , AutoScout24 Media, Retail, Previous Site Activity, 5.0
+testd00, attributed, Exact, Brand, Search Click,  , , Aktionen, DART Search : Google,  , Previous Site Activity, 0.666666666667
+build0, attributed, Broad, Name Plate, Search Click,  , , Kuga Sustain, DART Search : Google,  , Previous Site Activity, 2360.2101419
+build0, last_event,  ,  , Display Click, Fleet Allrad, ,  , IQ Digital Network, Retail, Previous Site Activity, 33.0
+build0, last_event, Exact, Commerce, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 830.0
+testd00, last_event,  ,  , Impression, Retail January, ,  , OMS DE, Retail, Previous Site Activity, 11.0
+build004, last_event, Exact, Name Plate, Search Click,  , , Galaxy Launch, DART Search : Google,  , Previous Site Activity, 10.0
+build004, last_event, Exact, Name Plate, Search Click,  , , Smax, DART Search : Google,  , Previous Site Activity, 33.0
+build0, attributed,  ,  , Impression, Kuga Sustain, ,  , OMS DE, Brand, Previous Site Activity, 678.406751313
+build0, last_event,  ,  , Impression, Gewerbewochen Marz, ,  , Mobile.de, Retail, Previous Site Activity, 480.0
+testd00, attributed,  ,  , Impression, Motocraft 2016, ,  , Mobile.de, Retail, Previous Site Activity, 7.80312783677
+build004, attributed,  ,  , Impression, Kuga Sustain, ,  , iq digital media marketing gmbh, Brand, Previous Site Activity, 2.00001610621
+testd00, last_event,  ,  , Display Click, Smax, ,  , yahoo.co.uk, Brand, Previous Site Activity, 10.0
+build0, attributed,  ,  , Display Click, UNKNOWN, ,  , Conde Nast, UNKNOWN, Previous Site Activity, 1.33333333333
+testd00, last_event,  ,  , Display Click, Retail February, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 1.0
+testd00, attributed,  ,  , Display Click, Gewerbewochen Marz, ,  , Mobile.de, Retail, Previous Site Activity, 0.337474388065
+build0, attributed,  ,  , Impression, Kuga Sustain, ,  , SevenOne Media GmbH, Brand, Previous Site Activity, 2558.0761301
+build004, last_event, Exact, Brand, Search Click,  , , Ford Technology, DART Search : Google,  , Previous Site Activity, 6.0
+build004, attributed, Broad, Name Plate, Search Click,  , , Edge, DART Search : Google,  , Previous Site Activity, 12.3333821805
+build004, attributed,  ,  , Impression, Smax, ,  , ForwardAdGroup, Brand, Previous Site Activity, 4.45839082362
+build004, last_event,  ,  , Impression, Retail Marz, ,  , Autoscout24.de, Retail, Previous Site Activity, 9.0
+testd00, last_event,  ,  , Impression, UNKNOWN, ,  , Autoscout24.de, UNKNOWN, Previous Site Activity, 2.0
+build0, attributed, Exact, Generic, Search Click,  , , Van, DART Search : Google,  , Previous Site Activity, 36.524054589
+build0, last_event,  ,  , Display Click, Smax, ,  , yahoo.co.uk, Brand, Previous Site Activity, 475.0
+testd00, attributed, Broad, Generic, Search Click,  , , Wagen, DART Search : Google,  , Previous Site Activity, 1.0
+build004, attributed,  ,  , Impression, Retail January, ,  , auto-service.de, Retail, Previous Site Activity, 4.90011069546
+build0, last_event, Broad, Generic, Search Click,  , , Van, DART Search : Google,  , Previous Site Activity, 20.0
+testd00, last_event, Exact, Brand, Search Click,  , , Mondeo Vignale, DART Search : Google,  , Previous Site Activity, 10.0
+build004, last_event,  ,  , Impression, Smax, ,  , Plista, Brand, Previous Site Activity, 4.0
+build004, last_event,  ,  , Display Click, Motocraft 2016, ,  , Light Reaction, Retail, Previous Site Activity, 1.0
+build0, attributed,  ,  , Display Click, Kuga Sustain, ,  , united internet media, Brand, Previous Site Activity, 43.2500632724
+testd00, attributed,  ,  , Impression, Retail Sales, ,  , Mobile.de, Retail, Previous Site Activity, 48.896802193
+build0, last_event, Broad, Generic, Search Click,  , , Fleet Allrad, DART Search : Google,  , Previous Site Activity, 35.0
+build0, attributed, Exact, Generic, Search Click,  , , Fleet Allrad, DART Search : Google,  , Previous Site Activity, 24.0009109443
+testd00, last_event, Exact, Generic, Search Click,  , , Klein, DART Search : Google,  , Previous Site Activity, 2.0
+build004, attributed,  ,  , Display Click, Fleet Allrad, ,  , Light Reaction, Retail, Previous Site Activity, 0.506694128413
+build0, attributed,  ,  , Display Click, UNKNOWN, ,  , xaxis.com/de, UNKNOWN, Previous Site Activity, 0.833360273926
+build0, attributed,  ,  , Impression, Retail February, ,  , OMS DE, Retail, Previous Site Activity, 342.619935664
+build0, last_event, Exact, Brand, Search Click,  , , Mondeo Vignale, DART Search : Google,  , Previous Site Activity, 466.0
+testd00, last_event, Exact, Commercial Vehicles, Search Click,  , , Tourneo, DART Search : Google,  , Previous Site Activity, 18.0
+testd00, attributed,  ,  , Impression, Retail January, ,  , Autoscout24.de, Retail, Previous Site Activity, 165.431623964
+testd00, attributed,  ,  , Impression, Fleet Allrad, ,  , EMC, Retail, Previous Site Activity, 2.26680212084
+testd00, attributed, Broad, Generic, Search Click,  , , 7Sitzer, DART Search : Google,  , Previous Site Activity, 6.98438020587e-06
+build004, attributed,  ,  , Display Click, Smax, ,  , Plista, Brand, Previous Site Activity, 2.0
+build004, last_event,  ,  , Impression, UNKNOWN, ,  , Mobile.de, UNKNOWN, Previous Site Activity, 1.0
+build0, attributed,  ,  , Impression, Retail Sales, ,  , Mobile.de, Retail, Previous Site Activity, 6658.95402735
+build0, last_event,  ,  , Impression, Retail February, ,  , united internet media, Retail, Previous Site Activity, 303.0
+build004, attributed, Exact, Commerce, Search Click,  , , Fleet Lease, DART Search : Google,  , Previous Site Activity, 6.33334401886
+build0, last_event, Exact, Generic, Search Click,  , , Klein, DART Search : Google,  , Previous Site Activity, 169.0
+build004, last_event,  ,  , Display Click, Retail Sales, ,  , Light Reaction, Retail, Previous Site Activity, 13.0
+build004, last_event, Broad, Commerce, Search Click,  , , Fleet Lease, DART Search : Google,  , Previous Site Activity, 13.0
+testd00, attributed,  ,  , Display Click, Retail February, ,  , united internet media, Retail, Previous Site Activity, 0.458333333333
+build0, last_event,  ,  , Impression, Fleet February, ,  , Quarter Media, Retail, Previous Site Activity, 274.0
+build0, last_event,  ,  , Impression, Kuga Sustain, ,  , Media Impact DE, Brand, Previous Site Activity, 2955.0
+build0, attributed,  ,  , Display Click, Kuga Sustain, ,  , Mobile.de, Brand, Previous Site Activity, 286.329309751
+testd00, attributed,  ,  , Display Click, Kuga Sustain, ,  , Media Impact DE, Brand, Previous Site Activity, 4.99155925989
+build004, last_event, Broad, Brand, Search Click,  , , Alone, DART Search : Google,  , Previous Site Activity, 29.0
+build0, attributed, Exact, Brand, Search Click,  , , Generisch, DART Search : Google,  , Previous Site Activity, 18597.0757928
+build0, last_event, Broad, Brand, Search Click,  , , Generisch, DART Search : Google,  , Previous Site Activity, 1133.0
+testd00, attributed,  ,  , Impression, Fleet February, ,  , IQ Digital Network, Retail, Previous Site Activity, 7.13304271998
+build004, attributed,  ,  , Impression, Retail January, ,  , Mobile.de, Retail, Previous Site Activity, 26.0286476382
+build004, last_event, Broad, Name Plate, Search Click,  , , Mondeo, DART Search : Google,  , Previous Site Activity, 7.0
+build004, attributed, Exact, Name Plate, Search Click,  , , Mondeo, DART Search : Google,  , Previous Site Activity, 25.4224868593
+build004, last_event, Broad, Name Plate, Search Click,  , , Mondeo Vignale, DART Search : Google,  , Previous Site Activity, 1.0
+build0, attributed,  ,  , Impression, Kuga Sustain, ,  , pushfire DE Netzwerk, Brand, Previous Site Activity, 17.8591889502
+build004, attributed, Exact, Name Plate, Search Click,  , , Mondeo Vignale, DART Search : Google,  , Previous Site Activity, 1.00000590531
+testd00, last_event,  ,  , Display Click, Retail Marz, ,  , Light Reaction, Retail, Previous Site Activity, 8.0
+build004, last_event,  ,  , Impression, Fleet February, ,  , aumago.com, Retail, Previous Site Activity, 5.0
+testd00, last_event,  ,  , Impression, UNKNOWN, ,  , xaxis.com/de, UNKNOWN, Previous Site Activity, 1.0
+build0, attributed,  ,  , Impression, Retail January, ,  , XaxisDE, Retail, Previous Site Activity, 5241.72209147
+build0, attributed,  ,  , Display Click, Kuga Sustain, ,  , Bauer Media, Brand, Previous Site Activity, 288.698640392
+testd00, attributed,  ,  , Impression, Smax, ,  , Interactive Media, Brand, Previous Site Activity, 80.2467254154
+build0, last_event,  ,  , Impression, Retail February, ,  , Mobile.de, Retail, Previous Site Activity, 729.0
+build0, last_event, Exact, Commerce, Search Click,  , , Other Campaign, DART Search : Google,  , Previous Site Activity, 322.0
+testd00, attributed, Broad, Name Plate, Search Click,  , , Ecosport Sustain, DART Search : Google,  , Previous Site Activity, 17.3668091398
+build0, attributed,  ,  , Display Click, Fleet February, ,  , Quarter Media, Retail, Previous Site Activity, 3.21619048646
+testd00, last_event,  ,  , Display Click, Smax, ,  , XaxisDE, Brand, Previous Site Activity, 23.0
+build0, attributed,  ,  , Display Click, Smax, ,  , G+J Electric Media Sales GmbH, Brand, Previous Site Activity, 2.0
+testd00, last_event, Broad, Generic, Search Click,  , , Limousine, DART Search : Google,  , Previous Site Activity, 1.0
+build004, last_event,  ,  , Display Click, Smax, ,  , undertone.co.uk, Brand, Previous Site Activity, 1.0
+euepr528, last_event, Broad, Commerce, Search Click,  , , Ford Rental, DART Search : Google,  , Previous Site Activity, 1.0
+build0, attributed,  ,  , Impression, Fleet February, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 1038.95689678
+build0, last_event, Exact, Name Plate, Search Click,  , , Kuga Sustain, DART Search : Google,  , Previous Site Activity, 16393.0
+build0, last_event,  ,  , Impression, Formel 1 2016, ,  , IP Deutschland, Brand, Previous Site Activity, 233.0
+testd00, attributed,  ,  , Impression, Gewerbewochen Marz, ,  , aumago.com, Retail, Previous Site Activity, 3.82148272874
+build0, attributed,  ,  , Impression, Smax, ,  , Interactive Media, Brand, Previous Site Activity, 8237.18702299
+build0, attributed, Broad, Name Plate, Search Click,  , , Ecosport Sustain, DART Search : Google,  , Previous Site Activity, 1073.13380856
+build0, last_event,  ,  , Impression, Retail February, ,  , Bauer Media, Retail, Previous Site Activity, 2007.0
+build0, attributed, Broad, Generic, Search Click,  , , Fahrzeug, DART Search : Google,  , Previous Site Activity, 15.5001905886
+build0, last_event,  ,  , Display Click, Fleet Allrad, ,  , EMC, Retail, Previous Site Activity, 6.0
+testd00, last_event,  ,  , Impression, Kuga Sustain, ,  , Mobile.de, Brand, Previous Site Activity, 23.0
+build0, attributed,  ,  , Display Click, UNKNOWN, ,  , AutoScout24 Media, UNKNOWN, Previous Site Activity, 1.88100960412
+testd00, attributed,  ,  , Display Click, Retail Sales, ,  , Plista, Retail, Previous Site Activity, 6.44188977622
+build0, last_event,  ,  , Display Click, UNKNOWN, ,  , autozeitung.de, UNKNOWN, Previous Site Activity, 15.0
+testd00, last_event,  ,  , Display Click, Kuga Sustain, ,  , OMS DE, Brand, Previous Site Activity, 1.0
+build0, attributed,  ,  , Impression, UNKNOWN, ,  , Mair Dumont, UNKNOWN, Previous Site Activity, 0.333333333333
+testd00, attributed,  ,  , Display Click, Retail February, ,  , Bauer Media, Retail, Previous Site Activity, 0.333333333333
+testd00, attributed,  ,  , Impression, Retail February, ,  , SevenOne Media, Retail, Previous Site Activity, 30.5855313916
+testd00, attributed,  ,  , Impression, Motocraft 2016, ,  , Autoscout24.de, Retail, Previous Site Activity, 7.66822325675
+build0, attributed,  ,  , Display Click, Formel 1 2016, ,  , IP Deutschland, Brand, Previous Site Activity, 11.6079280659
+testd00, last_event,  ,  , Impression, Retail Marz, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 8.0
+build0, last_event,  ,  , Display Click, UNKNOWN, ,  , Autobild.de, UNKNOWN, Previous Site Activity, 18.0
+build004, last_event, Exact, Commerce, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 7.0
+build004, last_event, Exact, Name Plate, Search Click,  , , Edge, DART Search : Google,  , Previous Site Activity, 20.0
+build0, attributed,  ,  , Impression, Smax, ,  , IQ Digital Network, Brand, Previous Site Activity, 697.351622096
+build0, attributed, Exact, Brand, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 868.853980506
+build0, last_event,  ,  , Display Click, Kuga Sustain, ,  , OMS DE, Brand, Previous Site Activity, 131.0
+build0, attributed,  ,  , Display Click, Retail February, ,  , Bauer Media, Retail, Previous Site Activity, 55.7588816371
+build0, last_event, Broad, Brand, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 109.0
+testd00, last_event,  ,  , Impression, Kuga Sustain, ,  , Bauer Media, Brand, Previous Site Activity, 7.0
+build004, attributed, Exact, Brand, Search Click,  , , Aktionen, DART Search : Google,  , Previous Site Activity, 7.13816214234e-06
+build004, attributed, Phrase, Brand, Search Click,  , , Retail, DART Search : Google,  , Previous Site Activity, 1.5
+euepr528, last_event, Broad, Name Plate, Search Click,  , , Ranger, DART Search : Google,  , Previous Site Activity, 1.0
+build0, attributed,  ,  , Display Click, Retail January, ,  , autozeitung.de, Retail, Previous Site Activity, 51.2891368186
+testd00, last_event, Broad, Name Plate, Search Click,  , , Ka, DART Search : Google,  , Previous Site Activity, 21.0
+build0, last_event,  ,  , Display Click, Fleet February, ,  , IQ Digital Network, Retail, Previous Site Activity, 27.0
+testd00, attributed, Exact, Name Plate, Search Click,  , , Ka, DART Search : Google,  , Previous Site Activity, 9.50018037939
+build004, last_event,  ,  , Impression, Retail January, ,  , OMS DE, Retail, Previous Site Activity, 1.0
+testd00, attributed,  ,  , Display Click, Smax, ,  , Light Reaction, Brand, Previous Site Activity, 44.0233230597
+build004, attributed,  ,  , Impression, Motocraft 2016, ,  , Mobile.de, Retail, Previous Site Activity, 4.2917309637
+testd00, attributed,  ,  , Impression, Kooperation, ,  , fc-koeln.de, Brand, Previous Site Activity, 0.5
+build004, last_event,  ,  , Display Click, Retail February, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 2.0
+testd00, attributed, Exact, Generic, Search Click,  , , Auto, DART Search : Google,  , Previous Site Activity, 1.21915072779e-05
+testd00, last_event,  ,  , Impression, UNKNOWN, ,  , AutoScout24 Media, UNKNOWN, Previous Site Activity, 2.0
+build0, last_event, Broad, Name Plate, Search Click,  , , Ka, DART Search : Google,  , Previous Site Activity, 1379.0
+build0, last_event, Broad, Generic, Search Click,  , , SUV, DART Search : Google,  , Previous Site Activity, 66.0
+build0, attributed, Exact, Generic, Search Click,  , , SUV, DART Search : Google,  , Previous Site Activity, 54.5724300175
+build0, last_event,  ,  , Display Click, Gewerbewochen Marz, ,  , aumago.com, Retail, Previous Site Activity, 5.0
+testd00, last_event,  ,  , Display Click, Retail Sales, ,  , Mobile.de, Retail, Previous Site Activity, 3.0
+build004, last_event,  ,  , Impression, UNKNOWN, ,  , Autoscout24.de, UNKNOWN, Previous Site Activity, 2.0
+build0, last_event, Broad, Generic, Search Click,  , , Neue, DART Search : Google,  , Previous Site Activity, 103.0
+build0, last_event, Broad, Generic, Search Click,  , , Auto, DART Search : Google,  , Previous Site Activity, 92.0
+build0, attributed,  ,  , Impression, Kooperation, ,  , fc-koeln.de, Brand, Previous Site Activity, 20.5316417315
+build0, attributed, Exact, Generic, Search Click,  , , Auto, DART Search : Google,  , Previous Site Activity, 142.94877018
+build0, attributed, Exact, Generic, Search Click,  , , Neue, DART Search : Google,  , Previous Site Activity, 83.6913295016
+build004, attributed, Broad, Generic, Search Click,  , , Wagen, DART Search : Google,  , Previous Site Activity, 6.91363807392e-06
+testd00, attributed, Exact, Commercial Vehicles, Search Click,  , , Courier, DART Search : Google,  , Previous Site Activity, 2.25002030098
+build004, last_event, Exact, Brand, Search Click,  , , Mondeo Vignale, DART Search : Google,  , Previous Site Activity, 2.0
+build0, last_event,  ,  , Display Click, Retail February, ,  , SevenOne Media, Retail, Previous Site Activity, 92.0
+testd00, last_event,  ,  , Impression, Retail January, ,  , autozeitung.de, Retail, Previous Site Activity, 31.0
+testd00, last_event, Broad, Name Plate, Search Click,  , , Bmax, DART Search : Google,  , Previous Site Activity, 11.0
+build004, last_event, Broad, Brand, Search Click,  , , Handler, DART Search : Google,  , Previous Site Activity, 1.0
+testd00, attributed,  ,  , Impression, Smax, ,  , Axel Springer Media Impact, Brand, Previous Site Activity, 31.2749346027
+build004, attributed,  ,  , Impression, Retail January, ,  , Autoscout24.de, Retail, Previous Site Activity, 73.4867926192
+build0, attributed, Exact, Commercial Vehicles, Search Click,  , , Courier, DART Search : Google,  , Previous Site Activity, 31.5501975015
+build0, attributed, Broad, Commerce, Search Click,  , , Ford Credit, DART Search : Google,  , Previous Site Activity, 165.3426905
+build0, last_event,  ,  , Impression, Smax, ,  , Xaxis Mobile TV, Brand, Previous Site Activity, 52.0
+testd00, last_event, Exact, Name Plate, Search Click,  , , Ecosport Sustain, DART Search : Google,  , Previous Site Activity, 71.0
+testd00, last_event,  ,  , Impression, Retail January, ,  , Autobild.de, Retail, Previous Site Activity, 17.0
+build0, last_event, Broad, Commercial Vehicles, Search Click,  , , Courier, DART Search : Google,  , Previous Site Activity, 17.0
+build004, attributed,  ,  , Impression, Fleet Allrad, ,  , EMC, Retail, Previous Site Activity, 0.906470066534
+testd00, attributed, Phrase, Name Plate, Search Click,  , , Fiesta Retail, DART Search : Google,  , Previous Site Activity, 4.00001939951
+testd00, attributed,  ,  , Impression, Fleet February, ,  , EMC, Retail, Previous Site Activity, 1.0956635091
+testd00, attributed,  ,  , Display Click, Smax, ,  , Xaxis Mobile TV, Brand, Previous Site Activity, 4.0
+build0, attributed,  ,  , Impression, Gewerbewochen Marz, ,  , G+J Electric Media Sales GmbH, Retail, Previous Site Activity, 196.000362956
+testd00, attributed,  ,  , Impression, Retail Marz, ,  , Mobile.de, Retail, Previous Site Activity, 8.43735314966
+build004, attributed,  ,  , Impression, UNKNOWN, ,  , Autobild.de, UNKNOWN, Previous Site Activity, 1.0
+build004, last_event,  ,  , Display Click, Fleet Allrad, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 1.0
+build004, attributed,  ,  , Display Click, Retail February, ,  , united internet media, Retail, Previous Site Activity, 0.5
+build0, attributed,  ,  , Impression, Smax, ,  , Axel Springer Media Impact, Brand, Previous Site Activity, 3486.9573492
+build0, attributed,  ,  , Impression, Fleet February, ,  , EMC, Retail, Previous Site Activity, 80.2232195919
+build0, last_event,  ,  , Display Click, Retail January, ,  , XaxisDE, Retail, Previous Site Activity, 184.0
+build0, last_event, Exact, Generic, Search Click,  , , Fahrzeug, DART Search : Google,  , Previous Site Activity, 7.0
+testd00, last_event,  ,  , Display Click, Smax, ,  , Interactive Media, Brand, Previous Site Activity, 18.0
+build004, attributed,  ,  , Display Click, Fleet February, ,  , Quarter Media, Retail, Previous Site Activity, 0.0313041011184
+build004, attributed,  ,  , Display Click, Kuga Sustain, ,  , Media Impact DE, Brand, Previous Site Activity, 0.500020781185
+build0, attributed,  ,  , Impression, Retail Marz, ,  , Mobile.de, Retail, Previous Site Activity, 872.981872393
+build004, last_event,  ,  , Display Click, Retail Marz, ,  , Light Reaction, Retail, Previous Site Activity, 4.0
+testd00, last_event, Broad, FCSD, Search Click,  , , Motocraft, DART Search : Google,  , Previous Site Activity, 7.0
+build0, attributed,  ,  , Display Click, Retail Marz, ,  , OMS DE, Retail, Previous Site Activity, 18.2244009418
+build0, last_event,  ,  , Impression, UNKNOWN, ,  , iq digital media marketing gmbh, UNKNOWN, Previous Site Activity, 20.0
+testd00, attributed, Exact, FCSD, Search Click,  , , Motocraft, DART Search : Google,  , Previous Site Activity, 4.50006004147
+build0, last_event,  ,  , Display Click, Fleet February, ,  , Business Advertising GmbH, Retail, Previous Site Activity, 12.0
+build004, attributed,  ,  , Impression, Fleet February, ,  , IQ Digital Network, Retail, Previous Site Activity, 2.3334893299
+testd00, attributed,  ,  , Display Click, Smax, ,  , Quisma, Brand, Previous Site Activity, 11.0
+build004, last_event,  ,  , Impression, Kuga Sustain, ,  , united internet media, Brand, Previous Site Activity, 1.0
+build0, attributed,  ,  , Impression, Kuga Sustain, ,  , plista.de, Brand, Previous Site Activity, 956.987752059
+build0, attributed, Exact, Commerce, Search Click,  , , Ford Rental, DART Search : Google,  , Previous Site Activity, 4.04774535621
+build0, last_event,  ,  , Impression, UNKNOWN, ,  , autoplenum.de, UNKNOWN, Previous Site Activity, 34.0
+build0, attributed,  ,  , Display Click, Retail Marz, ,  , SevenOne Media GmbH, Retail, Previous Site Activity, 35.7965270708
+build004, attributed,  ,  , Display Click, Retail February, ,  , Mobile.de, Retail, Previous Site Activity, 0.568005406726
+build0, last_event, Broad, Commerce, Search Click,  , , Ford Rental, DART Search : Google,  , Previous Site Activity, 29.0
+build004, last_event,  ,  , Display Click, Smax, ,  , XaxisDE, Brand, Previous Site Activity, 11.0
+build004, attributed, UNKNOWN, UNKNOWN, Search Click,  , , UNKNOWN, DART Search : MSN,  , Previous Site Activity, 65.3255952898
+build0, last_event,  ,  , Impression, UNKNOWN, ,  , mirando.de, UNKNOWN, Previous Site Activity, 22.0
+build0, attributed,  ,  , Impression, Retail Marz, ,  , Bauer Media, Retail, Previous Site Activity, 2112.92085702
+build004, attributed,  ,  , Impression, Gewerbewochen Marz, ,  , aumago.com, Retail, Previous Site Activity, 1.0
+build0, last_event,  ,  , Impression, Gewerbewochen Marz, ,  , AutoScout24 Media, Retail, Previous Site Activity, 1467.0
+build0, last_event,  ,  , Display Click, Smax, ,  , IQ Digital Network, Brand, Previous Site Activity, 301.0
+build0, attributed, Exact, Generic, Search Click,  , , MicroVan, DART Search : Google,  , Previous Site Activity, 3.00557216033
+build004, attributed,  ,  , Display Click, Retail Sales, ,  , Plista, Retail, Previous Site Activity, 7.06395923784
+testd00, attributed, Broad, Generic, Search Click,  , , Offroader, DART Search : Google,  , Previous Site Activity, 1.0
+build004, last_event,  ,  , Impression, Kuga Sustain, ,  , Mobile.de, Brand, Previous Site Activity, 4.0
+testd00, attributed,  ,  , Display Click, Retail January, ,  , Light Reaction, Retail, Previous Site Activity, 10.0059526141
+testd00, attributed,  ,  , Display Click, Gewerbewochen Marz, ,  , AutoScout24 Media, Retail, Previous Site Activity, 0.5
+build0, last_event, Broad, Generic, Search Click,  , , MicroVan, DART Search : Google,  , Previous Site Activity, 2.0
+build0, last_event,  ,  , Impression, Kuga Sustain, ,  , XaxisDE, Brand, Previous Site Activity, 3037.0
+build0, attributed,  ,  , Impression, UNKNOWN, ,  , Xaxis Display, UNKNOWN, Previous Site Activity, 15.4915088762
+build004, attributed,  ,  , Impression, Retail February, ,  , SevenOne Media, Retail, Previous Site Activity, 33.976568291
+testd00, attributed,  ,  , Display Click, Kuga Sustain, ,  , XaxisDE, Brand, Previous Site Activity, 10.9185356249
+build004, last_event,  ,  , Impression, Retail Marz, ,  , Axel Springer Media Impact, Retail, Previous Site Activity, 10.0
+build004, attributed,  ,  , Impression, Motocraft 2016, ,  , Autoscout24.de, Retail, Previous Site Activity, 3.6156095433
+build004, last_event,  ,  , Display Click, Kuga Sustain, ,  , SevenOne Media GmbH, Brand, Previous Site Activity, 1.0
+build0, last_event, Exact, Generic, Search Click,  , , Combis, DART Search : Google,  , Previous Site Activity, 2.0
+build0, attributed,  ,  , Impression, Gewerbewochen Marz, ,  , blogformgroup.com, Retail, Previous Site Activity, 131.488445933
+build0, attributed, Exact, Name Plate, Search Click,  , , Ranger, DART Search : Google,  , Previous Site Activity, 944.953713357
+build0, last_event, Broad, Name Plate, Search Click,  , , Ranger, DART Search : Google,  , Previous Site Activity, 237.0
+build004, last_event,  ,  , Impression, Kuga Sustain, ,  , Bauer Media, Brand, Previous Site Activity, 4.0
+testd00, last_event,  ,  , Impression, Retail Marz, ,  , SevenOne Media GmbH, Retail, Previous Site Activity, 30.0
+build0, attributed, Broad, Commercial Vehicles, Search Click,  , , Transit, DART Search : Google,  , Previous Site Activity, 53.9090836591
+testd00, attributed,  ,  , Impression, Retail Sales, ,  , AutoScout24 Media, Retail, Previous Site Activity, 11.1873985116
+testd00, last_event,  ,  , Impression, Retail February, ,  , XaxisDE, Retail, Previous Site Activity, 11.0
+build0, last_event,  ,  , Impression, UNKNOWN, ,  , Business Advertising GmbH, UNKNOWN, Previous Site Activity, 18.0
+build004, attributed, Exact, Name Plate, Search Click,  , , Ka, DART Search : Google,  , Previous Site Activity, 7.00006098325
+build0, attributed, Exact, Name Plate, Search Click,  , , Mustang, DART Search : Google,  , Previous Site Activity, 11126.3200802
+build0, last_event, Exact, Commerce, Search Click,  , , Ford Credit, DART Search : Google,  , Previous Site Activity, 986.0
+build0, last_event, Broad, Name Plate, Search Click,  , , Mustang, DART Search : Google,  , Previous Site Activity, 2279.0
+build004, attributed,  ,  , Display Click, Smax, ,  , Light Reaction, Brand, Previous Site Activity, 22.4077658995
+testd00, attributed, Exact, Name Plate, Search Click,  , , Galaxy Launch, DART Search : Google,  , Previous Site Activity, 15.2501495206
+testd00, attributed, Exact, Name Plate, Search Click,  , , Smax, DART Search : Google,  , Previous Site Activity, 54.0003936721
+testd00, last_event,  ,  , Impression, Retail January, ,  , auto-motor-und-sport.de, Retail, Previous Site Activity, 20.0
+build0, last_event,  ,  , Display Click, Mondeo Vignale 2016, ,  , Interactive Media, Brand, Previous Site Activity, 1.0
+build004, last_event,  ,  , Display Click, Retail February, ,  , OMS DE, Retail, Previous Site Activity, 1.0
+build0, attributed,  ,  , Impression, Retail Sales, ,  , AutoScout24 Media, Retail, Previous Site Activity, 1115.45521807
+build004, last_event,  ,  , Display Click, Retail Sales, ,  , Mobile.de, Retail, Previous Site Activity, 16.0
+build0, attributed, Exact, Name Plate, Search Click,  , , Galaxy Launch, DART Search : Google,  , Previous Site Activity, 2007.42056193
+build0, attributed, Exact, Name Plate, Search Click,  , , Smax, DART Search : Google,  , Previous Site Activity, 4760.45594789
+build0, last_event, Broad, Name Plate, Search Click,  , , Galaxy Launch, DART Search : Google,  , Previous Site Activity, 545.0
+build0, last_event, Broad, Name Plate, Search Click,  , , Smax, DART Search : Google,  , Previous Site Activity, 1744.0
+build0, last_event,  ,  , Display Click, Retail Sales, ,  , XaxisDE, Retail, Previous Site Activity, 588.0
+build0, attributed,  ,  , Display Click, Kuga Sustain, ,  , AutoScout24 Media, Brand, Previous Site Activity, 140.297157002
+testd00, attributed, Exact, Brand, Search Click,  , , Kategorien, DART Search : Google,  , Previous Site Activity, 23.6670588951
+testd00, attributed,  ,  , Impression, Retail Marz, ,  , Autoscout24.de, Retail, Previous Site Activity, 49.4441251305
+testd00, last_event,  ,  , Display Click, Smax, ,  , Axel Springer Media Impact, Brand, Previous Site Activity, 2.0
+testd00, attributed, Exact, Brand, Search Click,  , , Ford Technology, DART Search : Google,  , Previous Site Activity, 3.14285714286
+testd00, last_event, Broad, Brand, Search Click,  , , Kategorien, DART Search : Google,  , Previous Site Activity, 7.0
+build0, last_event,  ,  , Display Click, Gewerbewochen Marz, ,  , Light Reaction, Retail, Previous Site Activity, 550.0
+build0, attributed,  ,  , Display Click, Kuga Sustain, ,  , Interactive Media, Brand, Previous Site Activity, 4885.69898322
+testd00, attributed,  ,  , Impression, Retail January, ,  , motor-talk.de, Retail, Previous Site Activity, 54.4322684151
+build004, attributed, Exact, Name Plate, Search Click,  , , Bmax, DART Search : Google,  , Previous Site Activity, 12.4502396323
+build004, last_event,  ,  , Impression, Retail January, ,  , autozeitung.de, Retail, Previous Site Activity, 23.0
+build0, last_event,  ,  , Impression, Pendolaris, ,  , pendolaris.de, Brand, Previous Site Activity, 13.0
+testd00, attributed,  ,  , Display Click, Motocraft 2016, ,  , Light Reaction, Retail, Previous Site Activity, 1.21429771785
+build004, last_event, Broad, Name Plate, Search Click,  , , Bmax, DART Search : Google,  , Previous Site Activity, 1.0
+testd00, last_event,  ,  , Display Click, Retail Marz, ,  , Mobile.de, Retail, Previous Site Activity, 2.0
+build0, attributed,  ,  , Impression, Retail Marz, ,  , Autoscout24.de, Retail, Previous Site Activity, 2263.71641281
+build0, last_event,  ,  , Impression, Retail February, ,  , AutoScout24 Media, Retail, Previous Site Activity, 2319.0
+build0, last_event, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, Unexposed, 32098.0
+build0, attributed, Exact, Brand, Search Click,  , , Ford Technology, DART Search : Google,  , Previous Site Activity, 124.675178421
+build004, attributed, Phrase, Name Plate, Search Click,  , , Fiesta Retail, DART Search : Google,  , Previous Site Activity, 1.0
+build0, last_event, Broad, Brand, Search Click,  , , Ford Technology, DART Search : Google,  , Previous Site Activity, 153.0
+build004, last_event, Exact, Name Plate, Search Click,  , , Ecosport Sustain, DART Search : Google,  , Previous Site Activity, 29.0
+build004, last_event,  ,  , Impression, Retail January, ,  , Autobild.de, Retail, Previous Site Activity, 13.0
+testd00, last_event,  ,  , Display Click, Kuga Sustain, ,  , plista.de, Brand, Previous Site Activity, 4.0
+testd00, attributed,  ,  , Display Click, Retail February, ,  , AutoScout24 Media, Retail, Previous Site Activity, 0.1
+build0, attributed,  ,  , Display Click, UNKNOWN, ,  , EMC, UNKNOWN, Previous Site Activity, 0.588759288077
+build0, attributed,  ,  , Impression, Smax, ,  , Plista, Brand, Previous Site Activity, 3890.25707311
+testd00, attributed,  ,  , Impression, UNKNOWN, ,  , Mobile.de, UNKNOWN, Previous Site Activity, 2.6250982752
+testd00, last_event,  ,  , Impression, Smax, ,  , united internet media, Brand, Previous Site Activity, 11.0
+testd00, last_event,  ,  , Impression, Gewerbewochen Marz, ,  , IQ Digital Network, Retail, Previous Site Activity, 1.0
+build0, last_event,  ,  , Display Click, Kuga Sustain, ,  , plista.de, Brand, Previous Site Activity, 263.0
+build0, last_event,  ,  , Display Click, Retail January, ,  , IQ Digital Network, Retail, Previous Site Activity, 113.0
+testd00, attributed,  ,  , Display Click, Retail Sales, ,  , Light Reaction, Retail, Previous Site Activity, 15.6336491412
+testd00, attributed, Broad, Commerce, Search Click,  , , Fleet Lease, DART Search : Google,  , Previous Site Activity, 14.4167442348
+build004, last_event,  ,  , Display Click, Smax, ,  , Interactive Media, Brand, Previous Site Activity, 9.0
+build004, attributed,  ,  , Display Click, Retail January, ,  , Autobild.de, Retail, Previous Site Activity, 0.5
+build0, attributed,  ,  , Impression, Fleet Allrad, ,  , Quarter Media, Retail, Previous Site Activity, 1229.23698774
+testd00, attributed, Broad, Brand, Search Click,  , , Alone, DART Search : Google,  , Previous Site Activity, 57.0433433983
+build0, last_event,  ,  , Impression, Smax, ,  , united internet media, Brand, Previous Site Activity, 919.0
+build0, attributed,  ,  , Display Click, UNKNOWN, ,  , OMS DE, UNKNOWN, Previous Site Activity, 16.7258370536
+build0, last_event,  ,  , Display Click, Kuga Sustain, ,  , G+J Electric Media Sales GmbH, Brand, Previous Site Activity, 14.0
+testd00, last_event,  ,  , Impression, Kuga Sustain, ,  , Interactive Media, Brand, Previous Site Activity, 18.0
+testd00, last_event,  ,  , Display Click, Retail January, ,  , autoplenum.de, Retail, Previous Site Activity, 3.0
+testd00, attributed,  ,  , Display Click, Smax, ,  , united internet media, Brand, Previous Site Activity, 8.46017059096
+build004, last_event, Broad, FCSD, Search Click,  , , Motocraft, DART Search : Google,  , Previous Site Activity, 3.0
+testd00, attributed,  ,  , Impression, UNKNOWN, ,  , Bauer Media, UNKNOWN, Previous Site Activity, 0.205746391383

@@ -1,0 +1,5321 @@
+{
+    "name": "inputdata", 
+    "children": [
+        {
+            "name": [
+                "Total", 
+                "Group2", 
+                "Impression"
+            ], 
+            "children": [
+                {
+                    "name": "Gewerbewochen Marz", 
+                    "value": {
+                        "attributed": 4720.861126153393, 
+                        "last_event": 3462.0
+                    }
+                }, 
+                {
+                    "name": "Retail Marz", 
+                    "value": {
+                        "attributed": 11223.850213522584, 
+                        "last_event": 8255.0
+                    }
+                }, 
+                {
+                    "name": "Retail January", 
+                    "value": {
+                        "attributed": 55013.75867563905, 
+                        "last_event": 19092.0
+                    }
+                }, 
+                {
+                    "name": "Retail February", 
+                    "value": {
+                        "attributed": 20219.883848303143, 
+                        "last_event": 9458.0
+                    }
+                }, 
+                {
+                    "name": "Kooperation", 
+                    "value": {
+                        "attributed": 21.0316417315, 
+                        "last_event": 10.0
+                    }
+                }, 
+                {
+                    "name": "Kuga Sustain", 
+                    "value": {
+                        "attributed": 23931.369180133115, 
+                        "last_event": 14944.0
+                    }
+                }, 
+                {
+                    "name": "Motocraft 2016", 
+                    "value": {
+                        "attributed": 1689.2404540055202, 
+                        "last_event": 1251.0
+                    }
+                }, 
+                {
+                    "name": "Retail Dezember", 
+                    "value": {
+                        "attributed": 3.52009885923, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Mondeo Vignale 2016", 
+                    "value": {
+                        "attributed": 0.331375748393, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Pendolaris", 
+                    "value": {
+                        "attributed": 12.1615131597, 
+                        "last_event": 13.0
+                    }
+                }, 
+                {
+                    "name": "UNKNOWN", 
+                    "value": {
+                        "attributed": 1020.7866790063107, 
+                        "last_event": 1595.0
+                    }
+                }, 
+                {
+                    "name": "Formel 1 2016", 
+                    "value": {
+                        "attributed": 265.33108033208003, 
+                        "last_event": 235.0
+                    }
+                }, 
+                {
+                    "name": "Retail Sales", 
+                    "value": {
+                        "attributed": 9300.40899352436, 
+                        "last_event": 5540.0
+                    }
+                }, 
+                {
+                    "name": "Mondeo Vignale 2015", 
+                    "value": {
+                        "attributed": 4.1938847400016, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "Smax", 
+                    "value": {
+                        "attributed": 45639.57126009502, 
+                        "last_event": 18972.0
+                    }
+                }, 
+                {
+                    "name": "Fleet February", 
+                    "value": {
+                        "attributed": 3705.22974500117, 
+                        "last_event": 1219.0
+                    }
+                }, 
+                {
+                    "name": "Fleet Allrad", 
+                    "value": {
+                        "attributed": 4657.589681220904, 
+                        "last_event": 1299.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "build0", 
+                "Group1", 
+                "Display Click"
+            ], 
+            "children": [
+                {
+                    "name": "iq digital media marketing gmbh", 
+                    "value": {
+                        "attributed": 245.16889787931999, 
+                        "last_event": 525.0
+                    }
+                }, 
+                {
+                    "name": "Autobild.de", 
+                    "value": {
+                        "attributed": 50.14382881839, 
+                        "last_event": 126.0
+                    }
+                }, 
+                {
+                    "name": "IQ Digital Network", 
+                    "value": {
+                        "attributed": 219.27968462654997, 
+                        "last_event": 478.0
+                    }
+                }, 
+                {
+                    "name": "autozeitung.de", 
+                    "value": {
+                        "attributed": 54.79576753291, 
+                        "last_event": 115.0
+                    }
+                }, 
+                {
+                    "name": "Adshare", 
+                    "value": {
+                        "attributed": 25.6969286015, 
+                        "last_event": 43.0
+                    }
+                }, 
+                {
+                    "name": "Xaxis Display", 
+                    "value": {
+                        "attributed": 5.1066077365, 
+                        "last_event": 26.0
+                    }
+                }, 
+                {
+                    "name": "Light Reaction", 
+                    "value": {
+                        "attributed": 16207.364977246001, 
+                        "last_event": 19799.0
+                    }
+                }, 
+                {
+                    "name": "AutoScout24 Media", 
+                    "value": {
+                        "attributed": 337.65414063082005, 
+                        "last_event": 695.0
+                    }
+                }, 
+                {
+                    "name": "Unruly Media", 
+                    "value": {
+                        "attributed": 0.422765123326, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Bauer Media", 
+                    "value": {
+                        "attributed": 393.57511741124, 
+                        "last_event": 548.0
+                    }
+                }, 
+                {
+                    "name": "autoplenum.de", 
+                    "value": {
+                        "attributed": 51.38425042982, 
+                        "last_event": 96.0
+                    }
+                }, 
+                {
+                    "name": "Mobile.de", 
+                    "value": {
+                        "attributed": 2166.16978017571, 
+                        "last_event": 2697.0
+                    }
+                }, 
+                {
+                    "name": "plista.de", 
+                    "value": {
+                        "attributed": 115.001353192, 
+                        "last_event": 263.0
+                    }
+                }, 
+                {
+                    "name": "Xaxis Mobile TV", 
+                    "value": {
+                        "attributed": 202.34661060502, 
+                        "last_event": 158.0
+                    }
+                }, 
+                {
+                    "name": "SevenOne Media GmbH", 
+                    "value": {
+                        "attributed": 282.0223019658, 
+                        "last_event": 519.0
+                    }
+                }, 
+                {
+                    "name": "Business Advertising GmbH", 
+                    "value": {
+                        "attributed": 20.474407625819996, 
+                        "last_event": 36.0
+                    }
+                }, 
+                {
+                    "name": "Quarter Media", 
+                    "value": {
+                        "attributed": 9.18028133594, 
+                        "last_event": 20.0
+                    }
+                }, 
+                {
+                    "name": "IP Deutschland", 
+                    "value": {
+                        "attributed": 11.6079280659, 
+                        "last_event": 20.0
+                    }
+                }, 
+                {
+                    "name": "G+J Electric Media Sales GmbH", 
+                    "value": {
+                        "attributed": 21.48619786325, 
+                        "last_event": 31.0
+                    }
+                }, 
+                {
+                    "name": "Quisma", 
+                    "value": {
+                        "attributed": 1252.7959778412, 
+                        "last_event": 1976.0
+                    }
+                }, 
+                {
+                    "name": "aumago.com", 
+                    "value": {
+                        "attributed": 4.66347164464, 
+                        "last_event": 11.0
+                    }
+                }, 
+                {
+                    "name": "Autoscout24.de", 
+                    "value": {
+                        "attributed": 88.76968823506999, 
+                        "last_event": 214.0
+                    }
+                }, 
+                {
+                    "name": "Interactive Media", 
+                    "value": {
+                        "attributed": 6204.872931168485, 
+                        "last_event": 7870.0
+                    }
+                }, 
+                {
+                    "name": "yahoo.co.uk", 
+                    "value": {
+                        "attributed": 205.395744014, 
+                        "last_event": 475.0
+                    }
+                }, 
+                {
+                    "name": "united internet media", 
+                    "value": {
+                        "attributed": 429.43383121619996, 
+                        "last_event": 997.0
+                    }
+                }, 
+                {
+                    "name": "OMS DE", 
+                    "value": {
+                        "attributed": 229.6290842625, 
+                        "last_event": 392.0
+                    }
+                }, 
+                {
+                    "name": "blogformgroup.com", 
+                    "value": {
+                        "attributed": 15.6856952463, 
+                        "last_event": 34.0
+                    }
+                }, 
+                {
+                    "name": "SevenOne Media", 
+                    "value": {
+                        "attributed": 47.5017552931, 
+                        "last_event": 92.0
+                    }
+                }, 
+                {
+                    "name": "auto-service.de", 
+                    "value": {
+                        "attributed": 76.5169631199, 
+                        "last_event": 154.0
+                    }
+                }, 
+                {
+                    "name": "Conde Nast", 
+                    "value": {
+                        "attributed": 1.33333333333, 
+                        "last_event": 3.0
+                    }
+                }, 
+                {
+                    "name": "pendolaris.de", 
+                    "value": {
+                        "attributed": 0.047619047619, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Plista", 
+                    "value": {
+                        "attributed": 3207.6903376912715, 
+                        "last_event": 3364.0
+                    }
+                }, 
+                {
+                    "name": "Media Impact DE", 
+                    "value": {
+                        "attributed": 640.9046125271001, 
+                        "last_event": 1556.0
+                    }
+                }, 
+                {
+                    "name": "auto-motor-und-sport.de", 
+                    "value": {
+                        "attributed": 24.7158784083, 
+                        "last_event": 70.0
+                    }
+                }, 
+                {
+                    "name": "ForwardAdGroup", 
+                    "value": {
+                        "attributed": 31.6136435218, 
+                        "last_event": 63.0
+                    }
+                }, 
+                {
+                    "name": "mirando.de", 
+                    "value": {
+                        "attributed": 9.042336923053, 
+                        "last_event": 17.0
+                    }
+                }, 
+                {
+                    "name": "xaxis.com/de", 
+                    "value": {
+                        "attributed": 0.833360273926, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "Axel Springer Media Impact", 
+                    "value": {
+                        "attributed": 145.06663773721, 
+                        "last_event": 469.0
+                    }
+                }, 
+                {
+                    "name": "XaxisDE", 
+                    "value": {
+                        "attributed": 1434.4820791007, 
+                        "last_event": 3872.0
+                    }
+                }, 
+                {
+                    "name": "EMC", 
+                    "value": {
+                        "attributed": 6.2071612930510005, 
+                        "last_event": 10.0
+                    }
+                }, 
+                {
+                    "name": "motor-talk.de", 
+                    "value": {
+                        "attributed": 39.2881893569, 
+                        "last_event": 76.0
+                    }
+                }, 
+                {
+                    "name": "undertone.co.uk", 
+                    "value": {
+                        "attributed": 122.59824465, 
+                        "last_event": 321.0
+                    }
+                }, 
+                {
+                    "name": "Esome", 
+                    "value": {
+                        "attributed": 3700.20570554, 
+                        "last_event": 3889.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "testd00", 
+                "Group2", 
+                "Display Click"
+            ], 
+            "children": [
+                {
+                    "name": "Retail January", 
+                    "value": {
+                        "attributed": 18.1667247706845, 
+                        "last_event": 19.0
+                    }
+                }, 
+                {
+                    "name": "AllLine Carsharing", 
+                    "value": {
+                        "attributed": 0.45042275051, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Fleet February", 
+                    "value": {
+                        "attributed": 1.49993428855, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Gewerbewochen Marz", 
+                    "value": {
+                        "attributed": 4.4903839453941, 
+                        "last_event": 9.0
+                    }
+                }, 
+                {
+                    "name": "UNKNOWN", 
+                    "value": {
+                        "attributed": 0.224520369171, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Retail February", 
+                    "value": {
+                        "attributed": 7.868376130938, 
+                        "last_event": 13.0
+                    }
+                }, 
+                {
+                    "name": "Fleet Allrad", 
+                    "value": {
+                        "attributed": 2.2385206519557, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "Ecosport Social", 
+                    "value": {
+                        "attributed": 1.0, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Retail Marz", 
+                    "value": {
+                        "attributed": 10.440993557335, 
+                        "last_event": 22.0
+                    }
+                }, 
+                {
+                    "name": "Smax", 
+                    "value": {
+                        "attributed": 203.3139572637584, 
+                        "last_event": 260.0
+                    }
+                }, 
+                {
+                    "name": "Motocraft 2016", 
+                    "value": {
+                        "attributed": 1.21429771785, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "Retail Sales", 
+                    "value": {
+                        "attributed": 26.04004011556, 
+                        "last_event": 43.0
+                    }
+                }, 
+                {
+                    "name": "Kuga Sustain", 
+                    "value": {
+                        "attributed": 67.1107631450643, 
+                        "last_event": 123.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "testd00", 
+                "Group1", 
+                "Display Click"
+            ], 
+            "children": [
+                {
+                    "name": "Media Impact DE", 
+                    "value": {
+                        "attributed": 5.216079629060999, 
+                        "last_event": 14.0
+                    }
+                }, 
+                {
+                    "name": "ForwardAdGroup", 
+                    "value": {
+                        "attributed": 1.17548659204, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Quisma", 
+                    "value": {
+                        "attributed": 32.2784782194, 
+                        "last_event": 41.0
+                    }
+                }, 
+                {
+                    "name": "Autobild.de", 
+                    "value": {
+                        "attributed": 1.33333333333, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "AutoScout24 Media", 
+                    "value": {
+                        "attributed": 3.435735237708, 
+                        "last_event": 8.0
+                    }
+                }, 
+                {
+                    "name": "autozeitung.de", 
+                    "value": {
+                        "attributed": 0.93030052484, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "SevenOne Media", 
+                    "value": {
+                        "attributed": 0.625, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Business Advertising GmbH", 
+                    "value": {
+                        "attributed": 0.0909090909091, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Xaxis Mobile TV", 
+                    "value": {
+                        "attributed": 4.0, 
+                        "last_event": 4.0
+                    }
+                }, 
+                {
+                    "name": "Light Reaction", 
+                    "value": {
+                        "attributed": 88.89788670943999, 
+                        "last_event": 116.0
+                    }
+                }, 
+                {
+                    "name": "XaxisDE", 
+                    "value": {
+                        "attributed": 22.0481691508865, 
+                        "last_event": 41.0
+                    }
+                }, 
+                {
+                    "name": "autoplenum.de", 
+                    "value": {
+                        "attributed": 0.866666666667, 
+                        "last_event": 3.0
+                    }
+                }, 
+                {
+                    "name": "Plista", 
+                    "value": {
+                        "attributed": 10.55602484276, 
+                        "last_event": 16.0
+                    }
+                }, 
+                {
+                    "name": "motor-talk.de", 
+                    "value": {
+                        "attributed": 0.333333333333, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "IQ Digital Network", 
+                    "value": {
+                        "attributed": 1.5525658674973999, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Esome", 
+                    "value": {
+                        "attributed": 101.844068562, 
+                        "last_event": 106.0
+                    }
+                }, 
+                {
+                    "name": "united internet media", 
+                    "value": {
+                        "attributed": 9.543503924293, 
+                        "last_event": 20.0
+                    }
+                }, 
+                {
+                    "name": "Mobile.de", 
+                    "value": {
+                        "attributed": 14.415638852755002, 
+                        "last_event": 23.0
+                    }
+                }, 
+                {
+                    "name": "undertone.co.uk", 
+                    "value": {
+                        "attributed": 1.11233733546, 
+                        "last_event": 3.0
+                    }
+                }, 
+                {
+                    "name": "SevenOne Media GmbH", 
+                    "value": {
+                        "attributed": 0.7, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "iq digital media marketing gmbh", 
+                    "value": {
+                        "attributed": 0.408723231222, 
+                        "last_event": 3.0
+                    }
+                }, 
+                {
+                    "name": "Bauer Media", 
+                    "value": {
+                        "attributed": 4.3034245541730005, 
+                        "last_event": 8.0
+                    }
+                }, 
+                {
+                    "name": "G+J Electric Media Sales GmbH", 
+                    "value": {
+                        "attributed": 0.0896846148123, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Axel Springer Media Impact", 
+                    "value": {
+                        "attributed": 2.793824516561, 
+                        "last_event": 6.0
+                    }
+                }, 
+                {
+                    "name": "yahoo.co.uk", 
+                    "value": {
+                        "attributed": 4.81666666667, 
+                        "last_event": 10.0
+                    }
+                }, 
+                {
+                    "name": "auto-motor-und-sport.de", 
+                    "value": {
+                        "attributed": 0.5, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "OMS DE", 
+                    "value": {
+                        "attributed": 2.5317460317440004, 
+                        "last_event": 5.0
+                    }
+                }, 
+                {
+                    "name": "auto-service.de", 
+                    "value": {
+                        "attributed": 0.842857142857, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Autoscout24.de", 
+                    "value": {
+                        "attributed": 1.690909090906, 
+                        "last_event": 3.0
+                    }
+                }, 
+                {
+                    "name": "plista.de", 
+                    "value": {
+                        "attributed": 1.75848125746, 
+                        "last_event": 4.0
+                    }
+                }, 
+                {
+                    "name": "EMC", 
+                    "value": {
+                        "attributed": 0.0956635090957, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Interactive Media", 
+                    "value": {
+                        "attributed": 23.271436218890003, 
+                        "last_event": 50.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "build0", 
+                "Group1", 
+                "Impression"
+            ], 
+            "children": [
+                {
+                    "name": "Bauer Media", 
+                    "value": {
+                        "attributed": 8513.057644232, 
+                        "last_event": 4449.0
+                    }
+                }, 
+                {
+                    "name": "united internet media", 
+                    "value": {
+                        "attributed": 3714.374966931, 
+                        "last_event": 1513.0
+                    }
+                }, 
+                {
+                    "name": "OMS DE", 
+                    "value": {
+                        "attributed": 4765.7986770503, 
+                        "last_event": 1833.0
+                    }
+                }, 
+                {
+                    "name": "XaxisDE", 
+                    "value": {
+                        "attributed": 33038.247149326, 
+                        "last_event": 18137.0
+                    }
+                }, 
+                {
+                    "name": "Business Advertising GmbH", 
+                    "value": {
+                        "attributed": 1331.6482947584, 
+                        "last_event": 531.0
+                    }
+                }, 
+                {
+                    "name": "Mobile.de", 
+                    "value": {
+                        "attributed": 21876.968486270656, 
+                        "last_event": 11927.0
+                    }
+                }, 
+                {
+                    "name": "iq digital media marketing gmbh", 
+                    "value": {
+                        "attributed": 1032.6911072870998, 
+                        "last_event": 620.0
+                    }
+                }, 
+                {
+                    "name": "undertone.co.uk", 
+                    "value": {
+                        "attributed": 796.882501496, 
+                        "last_event": 413.0
+                    }
+                }, 
+                {
+                    "name": "SevenOne Media GmbH", 
+                    "value": {
+                        "attributed": 4658.797056859999, 
+                        "last_event": 2846.0
+                    }
+                }, 
+                {
+                    "name": "Plista", 
+                    "value": {
+                        "attributed": 3890.25707311, 
+                        "last_event": 1148.0
+                    }
+                }, 
+                {
+                    "name": "IQ Digital Network", 
+                    "value": {
+                        "attributed": 4826.6672749808995, 
+                        "last_event": 1593.0
+                    }
+                }, 
+                {
+                    "name": "pushfire DE Netzwerk", 
+                    "value": {
+                        "attributed": 17.8591889502, 
+                        "last_event": 8.0
+                    }
+                }, 
+                {
+                    "name": "fc-koeln.de", 
+                    "value": {
+                        "attributed": 20.5316417315, 
+                        "last_event": 10.0
+                    }
+                }, 
+                {
+                    "name": "xaxis.com/de", 
+                    "value": {
+                        "attributed": 30.1153146415, 
+                        "last_event": 62.0
+                    }
+                }, 
+                {
+                    "name": "pendolaris.de", 
+                    "value": {
+                        "attributed": 12.1615131597, 
+                        "last_event": 13.0
+                    }
+                }, 
+                {
+                    "name": "autozeitung.de", 
+                    "value": {
+                        "attributed": 6500.4467232526, 
+                        "last_event": 2532.0
+                    }
+                }, 
+                {
+                    "name": "blogformgroup.com", 
+                    "value": {
+                        "attributed": 131.488445933, 
+                        "last_event": 111.0
+                    }
+                }, 
+                {
+                    "name": "Xaxis Mobile TV", 
+                    "value": {
+                        "attributed": 241.10422782769, 
+                        "last_event": 56.0
+                    }
+                }, 
+                {
+                    "name": "Axel Springer Media Impact", 
+                    "value": {
+                        "attributed": 12370.33848162, 
+                        "last_event": 4674.0
+                    }
+                }, 
+                {
+                    "name": "Autoscout24.de", 
+                    "value": {
+                        "attributed": 13703.044413681, 
+                        "last_event": 6860.0
+                    }
+                }, 
+                {
+                    "name": "Interactive Media", 
+                    "value": {
+                        "attributed": 10842.558202998393, 
+                        "last_event": 3590.0
+                    }
+                }, 
+                {
+                    "name": "yahoo.co.uk", 
+                    "value": {
+                        "attributed": 1201.56302632, 
+                        "last_event": 383.0
+                    }
+                }, 
+                {
+                    "name": "aumago.com", 
+                    "value": {
+                        "attributed": 912.416013102, 
+                        "last_event": 425.0
+                    }
+                }, 
+                {
+                    "name": "Xaxis Display", 
+                    "value": {
+                        "attributed": 15.4915088762, 
+                        "last_event": 34.0
+                    }
+                }, 
+                {
+                    "name": "Mair Dumont", 
+                    "value": {
+                        "attributed": 0.333333333333, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "G+J Electric Media Sales GmbH", 
+                    "value": {
+                        "attributed": 380.17397673979997, 
+                        "last_event": 220.0
+                    }
+                }, 
+                {
+                    "name": "ForwardAdGroup", 
+                    "value": {
+                        "attributed": 409.096205945, 
+                        "last_event": 177.0
+                    }
+                }, 
+                {
+                    "name": "auto-motor-und-sport.de", 
+                    "value": {
+                        "attributed": 5035.87251333, 
+                        "last_event": 1645.0
+                    }
+                }, 
+                {
+                    "name": "EMC", 
+                    "value": {
+                        "attributed": 389.26259814207003, 
+                        "last_event": 120.0
+                    }
+                }, 
+                {
+                    "name": "IP Deutschland", 
+                    "value": {
+                        "attributed": 262.914425681, 
+                        "last_event": 233.0
+                    }
+                }, 
+                {
+                    "name": "auto-service.de", 
+                    "value": {
+                        "attributed": 1062.20857909, 
+                        "last_event": 366.0
+                    }
+                }, 
+                {
+                    "name": "AutoScout24 Media", 
+                    "value": {
+                        "attributed": 10924.432665819977, 
+                        "last_event": 5406.0
+                    }
+                }, 
+                {
+                    "name": "autoplenum.de", 
+                    "value": {
+                        "attributed": 3405.3575926229, 
+                        "last_event": 1291.0
+                    }
+                }, 
+                {
+                    "name": "motor-talk.de", 
+                    "value": {
+                        "attributed": 4737.33156491, 
+                        "last_event": 1758.0
+                    }
+                }, 
+                {
+                    "name": "ebay.de", 
+                    "value": {
+                        "attributed": 1.01682146323, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "Conde Nast", 
+                    "value": {
+                        "attributed": 12.6864302127, 
+                        "last_event": 11.0
+                    }
+                }, 
+                {
+                    "name": "plista.de", 
+                    "value": {
+                        "attributed": 956.987752059, 
+                        "last_event": 446.0
+                    }
+                }, 
+                {
+                    "name": "mirando.de", 
+                    "value": {
+                        "attributed": 709.1026704445001, 
+                        "last_event": 543.0
+                    }
+                }, 
+                {
+                    "name": "Quarter Media", 
+                    "value": {
+                        "attributed": 1886.283145682, 
+                        "last_event": 672.0
+                    }
+                }, 
+                {
+                    "name": "Media Impact DE", 
+                    "value": {
+                        "attributed": 5515.764769137, 
+                        "last_event": 3505.0
+                    }
+                }, 
+                {
+                    "name": "SevenOne Media", 
+                    "value": {
+                        "attributed": 3712.3794717858127, 
+                        "last_event": 1977.0
+                    }
+                }, 
+                {
+                    "name": "Autobild.de", 
+                    "value": {
+                        "attributed": 4662.3666468672, 
+                        "last_event": 1631.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "euepr528", 
+                "Group3", 
+                "Impression"
+            ], 
+            "children": [
+                {
+                    "name": "UNKNOWN", 
+                    "value": {
+                        "attributed": 0.333333333333, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Retail", 
+                    "value": {
+                        "attributed": 0.833333333333, 
+                        "last_event": 0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "Total", 
+                "Group1", 
+                "Search Click"
+            ], 
+            "children": [
+                {
+                    "name": "DART Search : Google Phrase", 
+                    "value": {
+                        "attributed": 315.99738001211, 
+                        "last_event": 374.0
+                    }
+                }, 
+                {
+                    "name": "DART Search : MSN UNKNOWN", 
+                    "value": {
+                        "attributed": 9820.2807577967, 
+                        "last_event": 12923.0
+                    }
+                }, 
+                {
+                    "name": "DART Search : Google Broad", 
+                    "value": {
+                        "attributed": 27977.465602354878, 
+                        "last_event": 36646.0
+                    }
+                }, 
+                {
+                    "name": "DART Search : Google Exact", 
+                    "value": {
+                        "attributed": 190477.6244051913, 
+                        "last_event": 246015.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "testd00", 
+                "Group2", 
+                "Search Click"
+            ], 
+            "children": [
+                {
+                    "name": "Combis", 
+                    "value": {
+                        "attributed": 1.0, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Mustang", 
+                    "value": {
+                        "attributed": 158.91787362920002, 
+                        "last_event": 197.0
+                    }
+                }, 
+                {
+                    "name": "Ranger", 
+                    "value": {
+                        "attributed": 97.5959152524, 
+                        "last_event": 136.0
+                    }
+                }, 
+                {
+                    "name": "Focus", 
+                    "value": {
+                        "attributed": 115.13017457179998, 
+                        "last_event": 153.0
+                    }
+                }, 
+                {
+                    "name": "Aktionen", 
+                    "value": {
+                        "attributed": 0.666666666667, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Kategorien", 
+                    "value": {
+                        "attributed": 28.00059686241, 
+                        "last_event": 31.0
+                    }
+                }, 
+                {
+                    "name": "Smax", 
+                    "value": {
+                        "attributed": 72.58384930060001, 
+                        "last_event": 82.0
+                    }
+                }, 
+                {
+                    "name": "7Sitzer", 
+                    "value": {
+                        "attributed": 6.98438020587e-06, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Motocraft", 
+                    "value": {
+                        "attributed": 11.58343924078, 
+                        "last_event": 12.0
+                    }
+                }, 
+                {
+                    "name": "Ford Credit", 
+                    "value": {
+                        "attributed": 6.83335013943, 
+                        "last_event": 8.0
+                    }
+                }, 
+                {
+                    "name": "Drive Hacks", 
+                    "value": {
+                        "attributed": 1.37638382148e-05, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Retail", 
+                    "value": {
+                        "attributed": 54.91910436445, 
+                        "last_event": 67.0
+                    }
+                }, 
+                {
+                    "name": "Wagen", 
+                    "value": {
+                        "attributed": 2.0, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "Generisch", 
+                    "value": {
+                        "attributed": 89.4379263445, 
+                        "last_event": 115.0
+                    }
+                }, 
+                {
+                    "name": "Familien", 
+                    "value": {
+                        "attributed": 2.833333333333, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "Edge", 
+                    "value": {
+                        "attributed": 68.1673216803, 
+                        "last_event": 72.0
+                    }
+                }, 
+                {
+                    "name": "Kuga Sustain", 
+                    "value": {
+                        "attributed": 128.0879527166, 
+                        "last_event": 169.0
+                    }
+                }, 
+                {
+                    "name": "Limousine", 
+                    "value": {
+                        "attributed": 0.5, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Klein", 
+                    "value": {
+                        "attributed": 2.166666666667, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "Other Campaign", 
+                    "value": {
+                        "attributed": 5.50010660606, 
+                        "last_event": 5.0
+                    }
+                }, 
+                {
+                    "name": "Alone", 
+                    "value": {
+                        "attributed": 469.7781812953, 
+                        "last_event": 580.0
+                    }
+                }, 
+                {
+                    "name": "Tourneo", 
+                    "value": {
+                        "attributed": 17.22246893204, 
+                        "last_event": 25.0
+                    }
+                }, 
+                {
+                    "name": "Bmax", 
+                    "value": {
+                        "attributed": 65.96367478611, 
+                        "last_event": 112.0
+                    }
+                }, 
+                {
+                    "name": "Offroader", 
+                    "value": {
+                        "attributed": 1.0000108635171907, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "Courier", 
+                    "value": {
+                        "attributed": 3.25002927304, 
+                        "last_event": 5.0
+                    }
+                }, 
+                {
+                    "name": "UNKNOWN", 
+                    "value": {
+                        "attributed": 81.8696711469, 
+                        "last_event": 103.0
+                    }
+                }, 
+                {
+                    "name": "Van", 
+                    "value": {
+                        "attributed": 0.333333333333, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Ka", 
+                    "value": {
+                        "attributed": 24.16690753519, 
+                        "last_event": 32.0
+                    }
+                }, 
+                {
+                    "name": "Ford Rental", 
+                    "value": {
+                        "attributed": 1.00000545451, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Fiesta Retail", 
+                    "value": {
+                        "attributed": 48.28606548601, 
+                        "last_event": 64.0
+                    }
+                }, 
+                {
+                    "name": "Fleet Lease", 
+                    "value": {
+                        "attributed": 24.916962826899997, 
+                        "last_event": 26.0
+                    }
+                }, 
+                {
+                    "name": "SUV", 
+                    "value": {
+                        "attributed": 1.50000494985, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Ford Technology", 
+                    "value": {
+                        "attributed": 5.642871164184919, 
+                        "last_event": 5.0
+                    }
+                }, 
+                {
+                    "name": "C-Max Launch", 
+                    "value": {
+                        "attributed": 106.30931490009999, 
+                        "last_event": 122.0
+                    }
+                }, 
+                {
+                    "name": "Mondeo", 
+                    "value": {
+                        "attributed": 42.50257642707, 
+                        "last_event": 55.0
+                    }
+                }, 
+                {
+                    "name": "Handler", 
+                    "value": {
+                        "attributed": 35.8668787561, 
+                        "last_event": 41.0
+                    }
+                }, 
+                {
+                    "name": "Auto", 
+                    "value": {
+                        "attributed": 1.21915072779e-05, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Mondeo Vignale", 
+                    "value": {
+                        "attributed": 6.333549715497, 
+                        "last_event": 14.0
+                    }
+                }, 
+                {
+                    "name": "Transit", 
+                    "value": {
+                        "attributed": 10.83925440549, 
+                        "last_event": 12.0
+                    }
+                }, 
+                {
+                    "name": "Galaxy Launch", 
+                    "value": {
+                        "attributed": 27.5839051515, 
+                        "last_event": 38.0
+                    }
+                }, 
+                {
+                    "name": "Ecosport Sustain", 
+                    "value": {
+                        "attributed": 74.5337864102, 
+                        "last_event": 96.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "build0", 
+                "Group2", 
+                "Impression"
+            ], 
+            "children": [
+                {
+                    "name": "Motocraft 2016", 
+                    "value": {
+                        "attributed": 1665.861762405, 
+                        "last_event": 1225.0
+                    }
+                }, 
+                {
+                    "name": "Mondeo Vignale 2015", 
+                    "value": {
+                        "attributed": 3.5272180733346, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "Fleet Allrad", 
+                    "value": {
+                        "attributed": 4594.904659258, 
+                        "last_event": 1279.0
+                    }
+                }, 
+                {
+                    "name": "Retail Marz", 
+                    "value": {
+                        "attributed": 11055.758797818, 
+                        "last_event": 8104.0
+                    }
+                }, 
+                {
+                    "name": "Pendolaris", 
+                    "value": {
+                        "attributed": 12.1615131597, 
+                        "last_event": 13.0
+                    }
+                }, 
+                {
+                    "name": "Fleet February", 
+                    "value": {
+                        "attributed": 3660.3105993719, 
+                        "last_event": 1194.0
+                    }
+                }, 
+                {
+                    "name": "Retail February", 
+                    "value": {
+                        "attributed": 19863.508558501, 
+                        "last_event": 9242.0
+                    }
+                }, 
+                {
+                    "name": "Mondeo Vignale 2016", 
+                    "value": {
+                        "attributed": 0.331375748393, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Retail January", 
+                    "value": {
+                        "attributed": 54106.34475912, 
+                        "last_event": 18690.0
+                    }
+                }, 
+                {
+                    "name": "Gewerbewochen Marz", 
+                    "value": {
+                        "attributed": 4660.7330650803, 
+                        "last_event": 3399.0
+                    }
+                }, 
+                {
+                    "name": "Formel 1 2016", 
+                    "value": {
+                        "attributed": 262.914425681, 
+                        "last_event": 233.0
+                    }
+                }, 
+                {
+                    "name": "Retail Sales", 
+                    "value": {
+                        "attributed": 9190.38426642, 
+                        "last_event": 5448.0
+                    }
+                }, 
+                {
+                    "name": "Kooperation", 
+                    "value": {
+                        "attributed": 20.5316417315, 
+                        "last_event": 10.0
+                    }
+                }, 
+                {
+                    "name": "Kuga Sustain", 
+                    "value": {
+                        "attributed": 23612.126250414698, 
+                        "last_event": 14730.0
+                    }
+                }, 
+                {
+                    "name": "UNKNOWN", 
+                    "value": {
+                        "attributed": 1008.067223165305, 
+                        "last_event": 1578.0
+                    }
+                }, 
+                {
+                    "name": "Retail Dezember", 
+                    "value": {
+                        "attributed": 3.52009885923, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Smax", 
+                    "value": {
+                        "attributed": 44787.0938828543, 
+                        "last_event": 18624.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "build004", 
+                "Group2", 
+                "Search Click"
+            ], 
+            "children": [
+                {
+                    "name": "Neue", 
+                    "value": {
+                        "attributed": 2.0, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "Other Campaign", 
+                    "value": {
+                        "attributed": 7.5, 
+                        "last_event": 7.0
+                    }
+                }, 
+                {
+                    "name": "Alone", 
+                    "value": {
+                        "attributed": 357.5125713016, 
+                        "last_event": 478.0
+                    }
+                }, 
+                {
+                    "name": "Kuga Sustain", 
+                    "value": {
+                        "attributed": 54.8337135504, 
+                        "last_event": 75.0
+                    }
+                }, 
+                {
+                    "name": "Mondeo", 
+                    "value": {
+                        "attributed": 32.0474868593, 
+                        "last_event": 39.0
+                    }
+                }, 
+                {
+                    "name": "Mondeo Vignale", 
+                    "value": {
+                        "attributed": 3.50001206123, 
+                        "last_event": 6.0
+                    }
+                }, 
+                {
+                    "name": "Smax", 
+                    "value": {
+                        "attributed": 37.50014133934, 
+                        "last_event": 43.0
+                    }
+                }, 
+                {
+                    "name": "Fleet Lease", 
+                    "value": {
+                        "attributed": 16.83338214826, 
+                        "last_event": 22.0
+                    }
+                }, 
+                {
+                    "name": "Kategorien", 
+                    "value": {
+                        "attributed": 8.000083923336, 
+                        "last_event": 11.0
+                    }
+                }, 
+                {
+                    "name": "Handler", 
+                    "value": {
+                        "attributed": 2.0000038821099997, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "Auto", 
+                    "value": {
+                        "attributed": 0.5, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Wagen", 
+                    "value": {
+                        "attributed": 6.91363807392e-06, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Klein", 
+                    "value": {
+                        "attributed": 1.0, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Fiesta Retail", 
+                    "value": {
+                        "attributed": 41.6669608324, 
+                        "last_event": 60.0
+                    }
+                }, 
+                {
+                    "name": "C-Max Launch", 
+                    "value": {
+                        "attributed": 28.33369471259, 
+                        "last_event": 41.0
+                    }
+                }, 
+                {
+                    "name": "Ford Credit", 
+                    "value": {
+                        "attributed": 3.50000480866, 
+                        "last_event": 6.0
+                    }
+                }, 
+                {
+                    "name": "Transit", 
+                    "value": {
+                        "attributed": 1.26748524774e-05, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Van", 
+                    "value": {
+                        "attributed": 0.5, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Generisch", 
+                    "value": {
+                        "attributed": 89.3616362675, 
+                        "last_event": 105.0
+                    }
+                }, 
+                {
+                    "name": "Ranger", 
+                    "value": {
+                        "attributed": 6.500046543467, 
+                        "last_event": 7.0
+                    }
+                }, 
+                {
+                    "name": "Ford Technology", 
+                    "value": {
+                        "attributed": 6.000010221627414, 
+                        "last_event": 6.0
+                    }
+                }, 
+                {
+                    "name": "Bmax", 
+                    "value": {
+                        "attributed": 13.4502396323, 
+                        "last_event": 22.0
+                    }
+                }, 
+                {
+                    "name": "Retail", 
+                    "value": {
+                        "attributed": 22.258924771649998, 
+                        "last_event": 25.0
+                    }
+                }, 
+                {
+                    "name": "Ka", 
+                    "value": {
+                        "attributed": 8.00006098325, 
+                        "last_event": 9.0
+                    }
+                }, 
+                {
+                    "name": "Ecosport Sustain", 
+                    "value": {
+                        "attributed": 30.50022270009, 
+                        "last_event": 38.0
+                    }
+                }, 
+                {
+                    "name": "Motocraft", 
+                    "value": {
+                        "attributed": 1.75000617307, 
+                        "last_event": 3.0
+                    }
+                }, 
+                {
+                    "name": "Galaxy Launch", 
+                    "value": {
+                        "attributed": 10.50005361682, 
+                        "last_event": 15.0
+                    }
+                }, 
+                {
+                    "name": "Edge", 
+                    "value": {
+                        "attributed": 25.0085405043, 
+                        "last_event": 36.0
+                    }
+                }, 
+                {
+                    "name": "Aktionen", 
+                    "value": {
+                        "attributed": 7.13816214234e-06, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Mustang", 
+                    "value": {
+                        "attributed": 70.1982421452, 
+                        "last_event": 91.0
+                    }
+                }, 
+                {
+                    "name": "Focus", 
+                    "value": {
+                        "attributed": 78.6956236532, 
+                        "last_event": 100.0
+                    }
+                }, 
+                {
+                    "name": "Familien", 
+                    "value": {
+                        "attributed": 1.0, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "UNKNOWN", 
+                    "value": {
+                        "attributed": 65.3255952898, 
+                        "last_event": 95.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "Total", 
+                "Group1", 
+                "Display Click"
+            ], 
+            "children": [
+                {
+                    "name": "blogformgroup.com", 
+                    "value": {
+                        "attributed": 15.6856952463, 
+                        "last_event": 34.0
+                    }
+                }, 
+                {
+                    "name": "Business Advertising GmbH", 
+                    "value": {
+                        "attributed": 20.565316716729097, 
+                        "last_event": 37.0
+                    }
+                }, 
+                {
+                    "name": "mirando.de", 
+                    "value": {
+                        "attributed": 9.042336923053, 
+                        "last_event": 17.0
+                    }
+                }, 
+                {
+                    "name": "IQ Digital Network", 
+                    "value": {
+                        "attributed": 222.86558767388908, 
+                        "last_event": 482.0
+                    }
+                }, 
+                {
+                    "name": "undertone.co.uk", 
+                    "value": {
+                        "attributed": 124.026317122093, 
+                        "last_event": 325.0
+                    }
+                }, 
+                {
+                    "name": "Plista", 
+                    "value": {
+                        "attributed": 3227.3103217718713, 
+                        "last_event": 3394.0
+                    }
+                }, 
+                {
+                    "name": "Xaxis Display", 
+                    "value": {
+                        "attributed": 5.1066077365, 
+                        "last_event": 26.0
+                    }
+                }, 
+                {
+                    "name": "xaxis.com/de", 
+                    "value": {
+                        "attributed": 0.833360273926, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "motor-talk.de", 
+                    "value": {
+                        "attributed": 39.621522690233, 
+                        "last_event": 77.0
+                    }
+                }, 
+                {
+                    "name": "Light Reaction", 
+                    "value": {
+                        "attributed": 16381.156505111845, 
+                        "last_event": 20032.0
+                    }
+                }, 
+                {
+                    "name": "SevenOne Media GmbH", 
+                    "value": {
+                        "attributed": 282.9723019658, 
+                        "last_event": 522.0
+                    }
+                }, 
+                {
+                    "name": "autozeitung.de", 
+                    "value": {
+                        "attributed": 57.06356844235, 
+                        "last_event": 117.0
+                    }
+                }, 
+                {
+                    "name": "autoplenum.de", 
+                    "value": {
+                        "attributed": 52.487356007299, 
+                        "last_event": 100.0
+                    }
+                }, 
+                {
+                    "name": "OMS DE", 
+                    "value": {
+                        "attributed": 232.994163627577, 
+                        "last_event": 399.0
+                    }
+                }, 
+                {
+                    "name": "iq digital media marketing gmbh", 
+                    "value": {
+                        "attributed": 245.577621110542, 
+                        "last_event": 528.0
+                    }
+                }, 
+                {
+                    "name": "EMC", 
+                    "value": {
+                        "attributed": 6.3028248021467, 
+                        "last_event": 10.0
+                    }
+                }, 
+                {
+                    "name": "Conde Nast", 
+                    "value": {
+                        "attributed": 1.33333333333, 
+                        "last_event": 3.0
+                    }
+                }, 
+                {
+                    "name": "XaxisDE", 
+                    "value": {
+                        "attributed": 1462.3783602325232, 
+                        "last_event": 3928.0
+                    }
+                }, 
+                {
+                    "name": "auto-service.de", 
+                    "value": {
+                        "attributed": 77.859820262757, 
+                        "last_event": 156.0
+                    }
+                }, 
+                {
+                    "name": "Interactive Media", 
+                    "value": {
+                        "attributed": 6235.359304823814, 
+                        "last_event": 7936.0
+                    }
+                }, 
+                {
+                    "name": "plista.de", 
+                    "value": {
+                        "attributed": 117.093167782793, 
+                        "last_event": 268.0
+                    }
+                }, 
+                {
+                    "name": "aumago.com", 
+                    "value": {
+                        "attributed": 4.66347164464, 
+                        "last_event": 11.0
+                    }
+                }, 
+                {
+                    "name": "Autobild.de", 
+                    "value": {
+                        "attributed": 51.97716215172, 
+                        "last_event": 129.0
+                    }
+                }, 
+                {
+                    "name": "SevenOne Media", 
+                    "value": {
+                        "attributed": 49.1267552931, 
+                        "last_event": 94.0
+                    }
+                }, 
+                {
+                    "name": "Axel Springer Media Impact", 
+                    "value": {
+                        "attributed": 149.702220317465, 
+                        "last_event": 480.0
+                    }
+                }, 
+                {
+                    "name": "Xaxis Mobile TV", 
+                    "value": {
+                        "attributed": 206.34661060502, 
+                        "last_event": 162.0
+                    }
+                }, 
+                {
+                    "name": "AutoScout24 Media", 
+                    "value": {
+                        "attributed": 341.589875868528, 
+                        "last_event": 704.0
+                    }
+                }, 
+                {
+                    "name": "Mobile.de", 
+                    "value": {
+                        "attributed": 2189.6665908265986, 
+                        "last_event": 2742.0
+                    }
+                }, 
+                {
+                    "name": "IP Deutschland", 
+                    "value": {
+                        "attributed": 11.6079280659, 
+                        "last_event": 20.0
+                    }
+                }, 
+                {
+                    "name": "Unruly Media", 
+                    "value": {
+                        "attributed": 0.422765123326, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Bauer Media", 
+                    "value": {
+                        "attributed": 398.128541965413, 
+                        "last_event": 556.0
+                    }
+                }, 
+                {
+                    "name": "Quarter Media", 
+                    "value": {
+                        "attributed": 9.2115854370584, 
+                        "last_event": 20.0
+                    }
+                }, 
+                {
+                    "name": "Autoscout24.de", 
+                    "value": {
+                        "attributed": 90.960597325976, 
+                        "last_event": 218.0
+                    }
+                }, 
+                {
+                    "name": "Quisma", 
+                    "value": {
+                        "attributed": 1288.0002551325301, 
+                        "last_event": 2022.0
+                    }
+                }, 
+                {
+                    "name": "auto-motor-und-sport.de", 
+                    "value": {
+                        "attributed": 25.2158784083, 
+                        "last_event": 71.0
+                    }
+                }, 
+                {
+                    "name": "Esome", 
+                    "value": {
+                        "attributed": 3809.9878693401, 
+                        "last_event": 4005.0
+                    }
+                }, 
+                {
+                    "name": "Adshare", 
+                    "value": {
+                        "attributed": 25.6969286015, 
+                        "last_event": 43.0
+                    }
+                }, 
+                {
+                    "name": "yahoo.co.uk", 
+                    "value": {
+                        "attributed": 210.21241650893145, 
+                        "last_event": 485.0
+                    }
+                }, 
+                {
+                    "name": "pendolaris.de", 
+                    "value": {
+                        "attributed": 0.047619047619, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Media Impact DE", 
+                    "value": {
+                        "attributed": 646.6207129373461, 
+                        "last_event": 1571.0
+                    }
+                }, 
+                {
+                    "name": "ForwardAdGroup", 
+                    "value": {
+                        "attributed": 32.78913011384, 
+                        "last_event": 64.0
+                    }
+                }, 
+                {
+                    "name": "G+J Electric Media Sales GmbH", 
+                    "value": {
+                        "attributed": 21.575882478062297, 
+                        "last_event": 32.0
+                    }
+                }, 
+                {
+                    "name": "united internet media", 
+                    "value": {
+                        "attributed": 441.7891192198529, 
+                        "last_event": 1021.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "build0", 
+                "Group2", 
+                "Display Click"
+            ], 
+            "children": [
+                {
+                    "name": "UNKNOWN", 
+                    "value": {
+                        "attributed": 96.918868218486, 
+                        "last_event": 285.0
+                    }
+                }, 
+                {
+                    "name": "Mondeo Vignale 2016", 
+                    "value": {
+                        "attributed": 0.668596538485, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Pendolaris", 
+                    "value": {
+                        "attributed": 0.047619047619, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Retail February", 
+                    "value": {
+                        "attributed": 5034.21908244951, 
+                        "last_event": 6985.0
+                    }
+                }, 
+                {
+                    "name": "Kuga Sustain", 
+                    "value": {
+                        "attributed": 8689.88855173832, 
+                        "last_event": 12122.0
+                    }
+                }, 
+                {
+                    "name": "Ecosport Sustain", 
+                    "value": {
+                        "attributed": 2.0, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "Fleet February", 
+                    "value": {
+                        "attributed": 82.11784396325, 
+                        "last_event": 112.0
+                    }
+                }, 
+                {
+                    "name": "Smax", 
+                    "value": {
+                        "attributed": 9711.68430104, 
+                        "last_event": 14600.0
+                    }
+                }, 
+                {
+                    "name": "Retail Sales", 
+                    "value": {
+                        "attributed": 8018.394726745001, 
+                        "last_event": 8704.0
+                    }
+                }, 
+                {
+                    "name": "Retail January", 
+                    "value": {
+                        "attributed": 2848.7745200264003, 
+                        "last_event": 3985.0
+                    }
+                }, 
+                {
+                    "name": "Fleet Allrad", 
+                    "value": {
+                        "attributed": 201.47641296522, 
+                        "last_event": 259.0
+                    }
+                }, 
+                {
+                    "name": "Video Seeding", 
+                    "value": {
+                        "attributed": 0.422765123326, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Motocraft 2016", 
+                    "value": {
+                        "attributed": 33.74895609816, 
+                        "last_event": 45.0
+                    }
+                }, 
+                {
+                    "name": "Formel 1 2016", 
+                    "value": {
+                        "attributed": 11.6079280659, 
+                        "last_event": 20.0
+                    }
+                }, 
+                {
+                    "name": "Mondeo Vignale 2015", 
+                    "value": {
+                        "attributed": 1.0, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Retail Marz", 
+                    "value": {
+                        "attributed": 2991.8957514945996, 
+                        "last_event": 4192.0
+                    }
+                }, 
+                {
+                    "name": "AllLine Carsharing", 
+                    "value": {
+                        "attributed": 50.001524001, 
+                        "last_event": 43.0
+                    }
+                }, 
+                {
+                    "name": "Gewerbewochen Marz", 
+                    "value": {
+                        "attributed": 563.3086607961941, 
+                        "last_event": 766.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "build004", 
+                "Group2", 
+                "Display Click"
+            ], 
+            "children": [
+                {
+                    "name": "Retail Sales", 
+                    "value": {
+                        "attributed": 18.65963470574, 
+                        "last_event": 41.0
+                    }
+                }, 
+                {
+                    "name": "Smax", 
+                    "value": {
+                        "attributed": 46.98764219038847, 
+                        "last_event": 72.0
+                    }
+                }, 
+                {
+                    "name": "Motocraft 2016", 
+                    "value": {
+                        "attributed": 0.5, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Retail February", 
+                    "value": {
+                        "attributed": 52.014808576726004, 
+                        "last_event": 70.0
+                    }
+                }, 
+                {
+                    "name": "AllLine Carsharing", 
+                    "value": {
+                        "attributed": 0.333333333333, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Retail Marz", 
+                    "value": {
+                        "attributed": 2.625, 
+                        "last_event": 4.0
+                    }
+                }, 
+                {
+                    "name": "Kuga Sustain", 
+                    "value": {
+                        "attributed": 8.116371325648, 
+                        "last_event": 19.0
+                    }
+                }, 
+                {
+                    "name": "Fleet February", 
+                    "value": {
+                        "attributed": 0.03130794762712745, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Retail January", 
+                    "value": {
+                        "attributed": 6.194985852531699, 
+                        "last_event": 12.0
+                    }
+                }, 
+                {
+                    "name": "Gewerbewochen Marz", 
+                    "value": {
+                        "attributed": 4.07048899155, 
+                        "last_event": 4.0
+                    }
+                }, 
+                {
+                    "name": "Fleet Allrad", 
+                    "value": {
+                        "attributed": 1.206694128413, 
+                        "last_event": 2.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "build0", 
+                "Group2", 
+                "Search Click"
+            ], 
+            "children": [
+                {
+                    "name": "Motocraft", 
+                    "value": {
+                        "attributed": 335.6913648128, 
+                        "last_event": 388.0
+                    }
+                }, 
+                {
+                    "name": "C-Max Launch", 
+                    "value": {
+                        "attributed": 8099.2609092, 
+                        "last_event": 10122.0
+                    }
+                }, 
+                {
+                    "name": "Aktionen", 
+                    "value": {
+                        "attributed": 128.9816607157, 
+                        "last_event": 180.0
+                    }
+                }, 
+                {
+                    "name": "Turer", 
+                    "value": {
+                        "attributed": 17.00449148597, 
+                        "last_event": 18.0
+                    }
+                }, 
+                {
+                    "name": "Generisch", 
+                    "value": {
+                        "attributed": 19531.576370471998, 
+                        "last_event": 24163.0
+                    }
+                }, 
+                {
+                    "name": "PKW", 
+                    "value": {
+                        "attributed": 10.50245025, 
+                        "last_event": 11.0
+                    }
+                }, 
+                {
+                    "name": "Courier", 
+                    "value": {
+                        "attributed": 47.0022035117, 
+                        "last_event": 58.0
+                    }
+                }, 
+                {
+                    "name": "Kategorien", 
+                    "value": {
+                        "attributed": 2490.415132753, 
+                        "last_event": 3308.0
+                    }
+                }, 
+                {
+                    "name": "Handler", 
+                    "value": {
+                        "attributed": 516.0739702010001, 
+                        "last_event": 587.0
+                    }
+                }, 
+                {
+                    "name": "Ecosport Sustain", 
+                    "value": {
+                        "attributed": 6968.1888809, 
+                        "last_event": 9203.0
+                    }
+                }, 
+                {
+                    "name": "Ford Credit", 
+                    "value": {
+                        "attributed": 891.213606454, 
+                        "last_event": 1212.0
+                    }
+                }, 
+                {
+                    "name": "MicroVan", 
+                    "value": {
+                        "attributed": 3.525894971687, 
+                        "last_event": 6.0
+                    }
+                }, 
+                {
+                    "name": "7Sitzer", 
+                    "value": {
+                        "attributed": 177.90064261880002, 
+                        "last_event": 232.0
+                    }
+                }, 
+                {
+                    "name": "Fleet Allrad", 
+                    "value": {
+                        "attributed": 52.5543984642, 
+                        "last_event": 70.0
+                    }
+                }, 
+                {
+                    "name": "Fahrzeug", 
+                    "value": {
+                        "attributed": 20.00025027897, 
+                        "last_event": 23.0
+                    }
+                }, 
+                {
+                    "name": "4x4", 
+                    "value": {
+                        "attributed": 1.0, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Edge", 
+                    "value": {
+                        "attributed": 6645.22883208, 
+                        "last_event": 8312.0
+                    }
+                }, 
+                {
+                    "name": "Tourneo", 
+                    "value": {
+                        "attributed": 232.4886479269, 
+                        "last_event": 282.0
+                    }
+                }, 
+                {
+                    "name": "Limousine", 
+                    "value": {
+                        "attributed": 6.038856050510001, 
+                        "last_event": 8.0
+                    }
+                }, 
+                {
+                    "name": "Familien", 
+                    "value": {
+                        "attributed": 176.5445416945, 
+                        "last_event": 225.0
+                    }
+                }, 
+                {
+                    "name": "Fleet Lease", 
+                    "value": {
+                        "attributed": 2313.87683797, 
+                        "last_event": 2790.0
+                    }
+                }, 
+                {
+                    "name": "UNKNOWN", 
+                    "value": {
+                        "attributed": 9673.08549136, 
+                        "last_event": 12725.0
+                    }
+                }, 
+                {
+                    "name": "Fiesta Retail", 
+                    "value": {
+                        "attributed": 11074.38001407, 
+                        "last_event": 14313.0
+                    }
+                }, 
+                {
+                    "name": "Neue", 
+                    "value": {
+                        "attributed": 159.2827383132, 
+                        "last_event": 224.0
+                    }
+                }, 
+                {
+                    "name": "Mustang", 
+                    "value": {
+                        "attributed": 12793.68279304, 
+                        "last_event": 17111.0
+                    }
+                }, 
+                {
+                    "name": "Ford Rental", 
+                    "value": {
+                        "attributed": 37.95100816771, 
+                        "last_event": 34.0
+                    }
+                }, 
+                {
+                    "name": "SUV", 
+                    "value": {
+                        "attributed": 108.11572699109999, 
+                        "last_event": 138.0
+                    }
+                }, 
+                {
+                    "name": "Auto", 
+                    "value": {
+                        "attributed": 212.918683372, 
+                        "last_event": 283.0
+                    }
+                }, 
+                {
+                    "name": "Drive Hacks", 
+                    "value": {
+                        "attributed": 0.00176102327262, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Ford Technology", 
+                    "value": {
+                        "attributed": 284.58847133435995, 
+                        "last_event": 329.0
+                    }
+                }, 
+                {
+                    "name": "Mini", 
+                    "value": {
+                        "attributed": 3.500020919988403, 
+                        "last_event": 3.0
+                    }
+                }, 
+                {
+                    "name": "Transporter", 
+                    "value": {
+                        "attributed": 9.78177248048e-06, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Focus", 
+                    "value": {
+                        "attributed": 13025.36985628, 
+                        "last_event": 17209.0
+                    }
+                }, 
+                {
+                    "name": "Van", 
+                    "value": {
+                        "attributed": 50.589672930700004, 
+                        "last_event": 72.0
+                    }
+                }, 
+                {
+                    "name": "Ka", 
+                    "value": {
+                        "attributed": 3105.29003943, 
+                        "last_event": 3935.0
+                    }
+                }, 
+                {
+                    "name": "Crossover", 
+                    "value": {
+                        "attributed": 1.00000650038, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "Offroader", 
+                    "value": {
+                        "attributed": 1.0, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Smax", 
+                    "value": {
+                        "attributed": 6128.14320681, 
+                        "last_event": 7534.0
+                    }
+                }, 
+                {
+                    "name": "Retail", 
+                    "value": {
+                        "attributed": 2250.1650334592996, 
+                        "last_event": 2948.0
+                    }
+                }, 
+                {
+                    "name": "Wagen", 
+                    "value": {
+                        "attributed": 48.9081421178, 
+                        "last_event": 62.0
+                    }
+                }, 
+                {
+                    "name": "Ranger", 
+                    "value": {
+                        "attributed": 1129.8575652279999, 
+                        "last_event": 1359.0
+                    }
+                }, 
+                {
+                    "name": "Mondeo", 
+                    "value": {
+                        "attributed": 6393.242431421, 
+                        "last_event": 8593.0
+                    }
+                }, 
+                {
+                    "name": "Klein", 
+                    "value": {
+                        "attributed": 183.2268568113, 
+                        "last_event": 270.0
+                    }
+                }, 
+                {
+                    "name": "Kuga Sustain", 
+                    "value": {
+                        "attributed": 14725.2058941, 
+                        "last_event": 19576.0
+                    }
+                }, 
+                {
+                    "name": "Transit", 
+                    "value": {
+                        "attributed": 129.0008084401, 
+                        "last_event": 155.0
+                    }
+                }, 
+                {
+                    "name": "Kompakt", 
+                    "value": {
+                        "attributed": 24.0487352874, 
+                        "last_event": 32.0
+                    }
+                }, 
+                {
+                    "name": "Alone", 
+                    "value": {
+                        "attributed": 86757.16756003, 
+                        "last_event": 112911.0
+                    }
+                }, 
+                {
+                    "name": "Bmax", 
+                    "value": {
+                        "attributed": 4051.158992069, 
+                        "last_event": 5126.0
+                    }
+                }, 
+                {
+                    "name": "Other Campaign", 
+                    "value": {
+                        "attributed": 484.146841814, 
+                        "last_event": 675.0
+                    }
+                }, 
+                {
+                    "name": "Galaxy Launch", 
+                    "value": {
+                        "attributed": 2409.1739714640003, 
+                        "last_event": 3230.0
+                    }
+                }, 
+                {
+                    "name": "Mondeo Vignale", 
+                    "value": {
+                        "attributed": 1749.8281264543, 
+                        "last_event": 2155.0
+                    }
+                }, 
+                {
+                    "name": "Combis", 
+                    "value": {
+                        "attributed": 7.83336241329, 
+                        "last_event": 10.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "testd00", 
+                "Group2", 
+                "Unexposed"
+            ], 
+            "children": [
+                {
+                    "name": "Unexposed Unexposed", 
+                    "value": {
+                        "attributed": 269.0, 
+                        "last_event": 519.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "testd00", 
+                "Group1", 
+                "Impression"
+            ], 
+            "children": [
+                {
+                    "name": "Axel Springer Media Impact", 
+                    "value": {
+                        "attributed": 109.13617350468999, 
+                        "last_event": 45.0
+                    }
+                }, 
+                {
+                    "name": "G+J Electric Media Sales GmbH", 
+                    "value": {
+                        "attributed": 5.74685437402, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Xaxis Mobile TV", 
+                    "value": {
+                        "attributed": 0.826923076923, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Media Impact DE", 
+                    "value": {
+                        "attributed": 39.76143784224, 
+                        "last_event": 32.0
+                    }
+                }, 
+                {
+                    "name": "AutoScout24 Media", 
+                    "value": {
+                        "attributed": 137.69699968201, 
+                        "last_event": 91.0
+                    }
+                }, 
+                {
+                    "name": "xaxis.com/de", 
+                    "value": {
+                        "attributed": 0.48741636853, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "united internet media", 
+                    "value": {
+                        "attributed": 49.795837047384, 
+                        "last_event": 14.0
+                    }
+                }, 
+                {
+                    "name": "motor-talk.de", 
+                    "value": {
+                        "attributed": 54.4322684151, 
+                        "last_event": 18.0
+                    }
+                }, 
+                {
+                    "name": "OMS DE", 
+                    "value": {
+                        "attributed": 45.527876526300005, 
+                        "last_event": 17.0
+                    }
+                }, 
+                {
+                    "name": "fc-koeln.de", 
+                    "value": {
+                        "attributed": 0.5, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "plista.de", 
+                    "value": {
+                        "attributed": 9.22080332323, 
+                        "last_event": 5.0
+                    }
+                }, 
+                {
+                    "name": "Xaxis Display", 
+                    "value": {
+                        "attributed": 5.86533133023e-06, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Plista", 
+                    "value": {
+                        "attributed": 33.1675515131, 
+                        "last_event": 9.0
+                    }
+                }, 
+                {
+                    "name": "mirando.de", 
+                    "value": {
+                        "attributed": 5.00568194807, 
+                        "last_event": 4.0
+                    }
+                }, 
+                {
+                    "name": "ForwardAdGroup", 
+                    "value": {
+                        "attributed": 10.0693811916, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "XaxisDE", 
+                    "value": {
+                        "attributed": 375.26915799675004, 
+                        "last_event": 216.0
+                    }
+                }, 
+                {
+                    "name": "aumago.com", 
+                    "value": {
+                        "attributed": 7.500948090670001, 
+                        "last_event": 3.0
+                    }
+                }, 
+                {
+                    "name": "Bauer Media", 
+                    "value": {
+                        "attributed": 62.499296985483, 
+                        "last_event": 45.0
+                    }
+                }, 
+                {
+                    "name": "Interactive Media", 
+                    "value": {
+                        "attributed": 120.7204889168, 
+                        "last_event": 32.0
+                    }
+                }, 
+                {
+                    "name": "Autoscout24.de", 
+                    "value": {
+                        "attributed": 224.54402165719, 
+                        "last_event": 141.0
+                    }
+                }, 
+                {
+                    "name": "Autobild.de", 
+                    "value": {
+                        "attributed": 67.1968800977, 
+                        "last_event": 17.0
+                    }
+                }, 
+                {
+                    "name": "autozeitung.de", 
+                    "value": {
+                        "attributed": 53.620733952, 
+                        "last_event": 31.0
+                    }
+                }, 
+                {
+                    "name": "IQ Digital Network", 
+                    "value": {
+                        "attributed": 54.352760741726996, 
+                        "last_event": 16.0
+                    }
+                }, 
+                {
+                    "name": "yahoo.co.uk", 
+                    "value": {
+                        "attributed": 14.5942426283, 
+                        "last_event": 3.0
+                    }
+                }, 
+                {
+                    "name": "Mobile.de", 
+                    "value": {
+                        "attributed": 244.16074121916995, 
+                        "last_event": 172.0
+                    }
+                }, 
+                {
+                    "name": "blogformgroup.com", 
+                    "value": {
+                        "attributed": 0.974350868836, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "SevenOne Media", 
+                    "value": {
+                        "attributed": 30.5855313916, 
+                        "last_event": 25.0
+                    }
+                }, 
+                {
+                    "name": "undertone.co.uk", 
+                    "value": {
+                        "attributed": 7.97194415645, 
+                        "last_event": 6.0
+                    }
+                }, 
+                {
+                    "name": "IP Deutschland", 
+                    "value": {
+                        "attributed": 1.91665465108, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "EMC", 
+                    "value": {
+                        "attributed": 3.36246562994, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Quarter Media", 
+                    "value": {
+                        "attributed": 10.68043003915, 
+                        "last_event": 5.0
+                    }
+                }, 
+                {
+                    "name": "Business Advertising GmbH", 
+                    "value": {
+                        "attributed": 9.985757932632223, 
+                        "last_event": 5.0
+                    }
+                }, 
+                {
+                    "name": "auto-motor-und-sport.de", 
+                    "value": {
+                        "attributed": 41.8434254383, 
+                        "last_event": 20.0
+                    }
+                }, 
+                {
+                    "name": "SevenOne Media GmbH", 
+                    "value": {
+                        "attributed": 57.647021967, 
+                        "last_event": 53.0
+                    }
+                }, 
+                {
+                    "name": "auto-service.de", 
+                    "value": {
+                        "attributed": 6.98564934867, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "autoplenum.de", 
+                    "value": {
+                        "attributed": 39.7226752008, 
+                        "last_event": 22.0
+                    }
+                }, 
+                {
+                    "name": "iq digital media marketing gmbh", 
+                    "value": {
+                        "attributed": 6.09179989285, 
+                        "last_event": 4.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "Total", 
+                "Group1", 
+                "Impression"
+            ], 
+            "children": [
+                {
+                    "name": "plista.de", 
+                    "value": {
+                        "attributed": 966.7918887155629, 
+                        "last_event": 451.0
+                    }
+                }, 
+                {
+                    "name": "Bauer Media", 
+                    "value": {
+                        "attributed": 8606.378824334683, 
+                        "last_event": 4525.0
+                    }
+                }, 
+                {
+                    "name": "Conde Nast", 
+                    "value": {
+                        "attributed": 12.6864302127, 
+                        "last_event": 11.0
+                    }
+                }, 
+                {
+                    "name": "Plista", 
+                    "value": {
+                        "attributed": 3929.27011415339, 
+                        "last_event": 1161.0
+                    }
+                }, 
+                {
+                    "name": "fc-koeln.de", 
+                    "value": {
+                        "attributed": 21.0316417315, 
+                        "last_event": 10.0
+                    }
+                }, 
+                {
+                    "name": "Mair Dumont", 
+                    "value": {
+                        "attributed": 0.333333333333, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "pendolaris.de", 
+                    "value": {
+                        "attributed": 12.1615131597, 
+                        "last_event": 13.0
+                    }
+                }, 
+                {
+                    "name": "IP Deutschland", 
+                    "value": {
+                        "attributed": 265.33108033208003, 
+                        "last_event": 235.0
+                    }
+                }, 
+                {
+                    "name": "mirando.de", 
+                    "value": {
+                        "attributed": 716.24848684576, 
+                        "last_event": 549.0
+                    }
+                }, 
+                {
+                    "name": "Xaxis Mobile TV", 
+                    "value": {
+                        "attributed": 241.93115090461302, 
+                        "last_event": 56.0
+                    }
+                }, 
+                {
+                    "name": "xaxis.com/de", 
+                    "value": {
+                        "attributed": 30.60273101003, 
+                        "last_event": 63.0
+                    }
+                }, 
+                {
+                    "name": "XaxisDE", 
+                    "value": {
+                        "attributed": 33643.25567573271, 
+                        "last_event": 18465.0
+                    }
+                }, 
+                {
+                    "name": "united internet media", 
+                    "value": {
+                        "attributed": 3807.862625327404, 
+                        "last_event": 1532.0
+                    }
+                }, 
+                {
+                    "name": "auto-motor-und-sport.de", 
+                    "value": {
+                        "attributed": 5105.211105064001, 
+                        "last_event": 1676.0
+                    }
+                }, 
+                {
+                    "name": "ForwardAdGroup", 
+                    "value": {
+                        "attributed": 423.62397796022, 
+                        "last_event": 183.0
+                    }
+                }, 
+                {
+                    "name": "AutoScout24 Media", 
+                    "value": {
+                        "attributed": 11130.250262036188, 
+                        "last_event": 5542.0
+                    }
+                }, 
+                {
+                    "name": "OMS DE", 
+                    "value": {
+                        "attributed": 4832.9107406532, 
+                        "last_event": 1853.0
+                    }
+                }, 
+                {
+                    "name": "yahoo.co.uk", 
+                    "value": {
+                        "attributed": 1228.7988638264, 
+                        "last_event": 387.0
+                    }
+                }, 
+                {
+                    "name": "motor-talk.de", 
+                    "value": {
+                        "attributed": 4819.420091481301, 
+                        "last_event": 1786.0
+                    }
+                }, 
+                {
+                    "name": "Media Impact DE", 
+                    "value": {
+                        "attributed": 5571.525223965241, 
+                        "last_event": 3552.0
+                    }
+                }, 
+                {
+                    "name": "blogformgroup.com", 
+                    "value": {
+                        "attributed": 132.46279680183602, 
+                        "last_event": 113.0
+                    }
+                }, 
+                {
+                    "name": "pushfire DE Netzwerk", 
+                    "value": {
+                        "attributed": 17.8591889502, 
+                        "last_event": 8.0
+                    }
+                }, 
+                {
+                    "name": "G+J Electric Media Sales GmbH", 
+                    "value": {
+                        "attributed": 387.28735209117497, 
+                        "last_event": 222.0
+                    }
+                }, 
+                {
+                    "name": "SevenOne Media GmbH", 
+                    "value": {
+                        "attributed": 4726.39347240142, 
+                        "last_event": 2911.0
+                    }
+                }, 
+                {
+                    "name": "Xaxis Display", 
+                    "value": {
+                        "attributed": 15.49151474153133, 
+                        "last_event": 34.0
+                    }
+                }, 
+                {
+                    "name": "Mobile.de", 
+                    "value": {
+                        "attributed": 22214.625402547692, 
+                        "last_event": 12170.0
+                    }
+                }, 
+                {
+                    "name": "Business Advertising GmbH", 
+                    "value": {
+                        "attributed": 1347.5424126827822, 
+                        "last_event": 538.0
+                    }
+                }, 
+                {
+                    "name": "autozeitung.de", 
+                    "value": {
+                        "attributed": 6600.2667985475, 
+                        "last_event": 2586.0
+                    }
+                }, 
+                {
+                    "name": "Quarter Media", 
+                    "value": {
+                        "attributed": 1911.9855983294499, 
+                        "last_event": 681.0
+                    }
+                }, 
+                {
+                    "name": "Interactive Media", 
+                    "value": {
+                        "attributed": 11018.481836653911, 
+                        "last_event": 3633.0
+                    }
+                }, 
+                {
+                    "name": "Autoscout24.de", 
+                    "value": {
+                        "attributed": 14015.684587929227, 
+                        "last_event": 7053.0
+                    }
+                }, 
+                {
+                    "name": "iq digital media marketing gmbh", 
+                    "value": {
+                        "attributed": 1040.78292328616, 
+                        "last_event": 626.0
+                    }
+                }, 
+                {
+                    "name": "Autobild.de", 
+                    "value": {
+                        "attributed": 4754.3495384286, 
+                        "last_event": 1662.0
+                    }
+                }, 
+                {
+                    "name": "SevenOne Media", 
+                    "value": {
+                        "attributed": 3777.441571468413, 
+                        "last_event": 2030.0
+                    }
+                }, 
+                {
+                    "name": "auto-service.de", 
+                    "value": {
+                        "attributed": 1074.09433913413, 
+                        "last_event": 369.0
+                    }
+                }, 
+                {
+                    "name": "autoplenum.de", 
+                    "value": {
+                        "attributed": 3453.5641461507203, 
+                        "last_event": 1318.0
+                    }
+                }, 
+                {
+                    "name": "ebay.de", 
+                    "value": {
+                        "attributed": 1.01682146323, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "EMC", 
+                    "value": {
+                        "attributed": 393.53153383854396, 
+                        "last_event": 121.0
+                    }
+                }, 
+                {
+                    "name": "aumago.com", 
+                    "value": {
+                        "attributed": 926.2717660712799, 
+                        "last_event": 434.0
+                    }
+                }, 
+                {
+                    "name": "Axel Springer Media Impact", 
+                    "value": {
+                        "attributed": 12543.347032715048, 
+                        "last_event": 4752.0
+                    }
+                }, 
+                {
+                    "name": "IQ Digital Network", 
+                    "value": {
+                        "attributed": 4900.264160154657, 
+                        "last_event": 1612.0
+                    }
+                }, 
+                {
+                    "name": "undertone.co.uk", 
+                    "value": {
+                        "attributed": 810.7488960079501, 
+                        "last_event": 422.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "Total", 
+                "Group3", 
+                "Search Click"
+            ], 
+            "children": [
+                {
+                    "name": "UNKNOWN", 
+                    "value": {
+                        "attributed": 9820.2807577967, 
+                        "last_event": 12923.0
+                    }
+                }, 
+                {
+                    "name": "Commercial Vehicles", 
+                    "value": {
+                        "attributed": 439.803434945895, 
+                        "last_event": 537.0
+                    }
+                }, 
+                {
+                    "name": "Brand", 
+                    "value": {
+                        "attributed": 112253.0742448423, 
+                        "last_event": 144730.0
+                    }
+                }, 
+                {
+                    "name": "FCSD", 
+                    "value": {
+                        "attributed": 349.02481022665, 
+                        "last_event": 403.0
+                    }
+                }, 
+                {
+                    "name": "Name Plate", 
+                    "value": {
+                        "attributed": 99307.32514596381, 
+                        "last_event": 129095.0
+                    }
+                }, 
+                {
+                    "name": "Commerce", 
+                    "value": {
+                        "attributed": 5109.518083651249, 
+                        "last_event": 6530.0
+                    }
+                }, 
+                {
+                    "name": "Generic", 
+                    "value": {
+                        "attributed": 1312.3416679283337, 
+                        "last_event": 1740.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "testd00", 
+                "Group3", 
+                "Search Click"
+            ], 
+            "children": [
+                {
+                    "name": "Name Plate", 
+                    "value": {
+                        "attributed": 1030.82932537054, 
+                        "last_event": 1330.0
+                    }
+                }, 
+                {
+                    "name": "Commerce", 
+                    "value": {
+                        "attributed": 88.33605980440001, 
+                        "last_event": 101.0
+                    }
+                }, 
+                {
+                    "name": "FCSD", 
+                    "value": {
+                        "attributed": 11.58343924078, 
+                        "last_event": 12.0
+                    }
+                }, 
+                {
+                    "name": "UNKNOWN", 
+                    "value": {
+                        "attributed": 81.8696711469, 
+                        "last_event": 103.0
+                    }
+                }, 
+                {
+                    "name": "Commercial Vehicles", 
+                    "value": {
+                        "attributed": 31.31175261057, 
+                        "last_event": 42.0
+                    }
+                }, 
+                {
+                    "name": "Brand", 
+                    "value": {
+                        "attributed": 638.560132610662, 
+                        "last_event": 790.0
+                    }
+                }, 
+                {
+                    "name": "Generic", 
+                    "value": {
+                        "attributed": 12.333382343912593, 
+                        "last_event": 13.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "build004", 
+                "Group1", 
+                "Impression"
+            ], 
+            "children": [
+                {
+                    "name": "EMC", 
+                    "value": {
+                        "attributed": 0.906470066534, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "united internet media", 
+                    "value": {
+                        "attributed": 43.69182134902, 
+                        "last_event": 5.0
+                    }
+                }, 
+                {
+                    "name": "OMS DE", 
+                    "value": {
+                        "attributed": 21.5841870766, 
+                        "last_event": 3.0
+                    }
+                }, 
+                {
+                    "name": "Mobile.de", 
+                    "value": {
+                        "attributed": 92.82950839120001, 
+                        "last_event": 71.0
+                    }
+                }, 
+                {
+                    "name": "Autobild.de", 
+                    "value": {
+                        "attributed": 24.7860114637, 
+                        "last_event": 14.0
+                    }
+                }, 
+                {
+                    "name": "SevenOne Media", 
+                    "value": {
+                        "attributed": 33.976568291, 
+                        "last_event": 28.0
+                    }
+                }, 
+                {
+                    "name": "IP Deutschland", 
+                    "value": {
+                        "attributed": 0.5, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "autozeitung.de", 
+                    "value": {
+                        "attributed": 46.1993413429, 
+                        "last_event": 23.0
+                    }
+                }, 
+                {
+                    "name": "auto-service.de", 
+                    "value": {
+                        "attributed": 4.90011069546, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "mirando.de", 
+                    "value": {
+                        "attributed": 2.14013445319, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "aumago.com", 
+                    "value": {
+                        "attributed": 6.35480487861, 
+                        "last_event": 6.0
+                    }
+                }, 
+                {
+                    "name": "Bauer Media", 
+                    "value": {
+                        "attributed": 30.8218831172, 
+                        "last_event": 31.0
+                    }
+                }, 
+                {
+                    "name": "SevenOne Media GmbH", 
+                    "value": {
+                        "attributed": 9.94939357442, 
+                        "last_event": 12.0
+                    }
+                }, 
+                {
+                    "name": "iq digital media marketing gmbh", 
+                    "value": {
+                        "attributed": 2.00001610621, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "Autoscout24.de", 
+                    "value": {
+                        "attributed": 88.09615259104, 
+                        "last_event": 52.0
+                    }
+                }, 
+                {
+                    "name": "yahoo.co.uk", 
+                    "value": {
+                        "attributed": 12.6415948781, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "IQ Digital Network", 
+                    "value": {
+                        "attributed": 19.244124432030002, 
+                        "last_event": 3.0
+                    }
+                }, 
+                {
+                    "name": "Business Advertising GmbH", 
+                    "value": {
+                        "attributed": 5.90835999175, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "Quarter Media", 
+                    "value": {
+                        "attributed": 15.0220226083, 
+                        "last_event": 4.0
+                    }
+                }, 
+                {
+                    "name": "Media Impact DE", 
+                    "value": {
+                        "attributed": 15.999016986, 
+                        "last_event": 15.0
+                    }
+                }, 
+                {
+                    "name": "Axel Springer Media Impact", 
+                    "value": {
+                        "attributed": 63.872377590359996, 
+                        "last_event": 33.0
+                    }
+                }, 
+                {
+                    "name": "ForwardAdGroup", 
+                    "value": {
+                        "attributed": 4.45839082362, 
+                        "last_event": 4.0
+                    }
+                }, 
+                {
+                    "name": "G+J Electric Media Sales GmbH", 
+                    "value": {
+                        "attributed": 1.366520977355, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Interactive Media", 
+                    "value": {
+                        "attributed": 55.20314473872, 
+                        "last_event": 11.0
+                    }
+                }, 
+                {
+                    "name": "auto-motor-und-sport.de", 
+                    "value": {
+                        "attributed": 27.4951662957, 
+                        "last_event": 11.0
+                    }
+                }, 
+                {
+                    "name": "AutoScout24 Media", 
+                    "value": {
+                        "attributed": 68.120596534201, 
+                        "last_event": 45.0
+                    }
+                }, 
+                {
+                    "name": "plista.de", 
+                    "value": {
+                        "attributed": 0.583333333333, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "motor-talk.de", 
+                    "value": {
+                        "attributed": 27.6562581562, 
+                        "last_event": 10.0
+                    }
+                }, 
+                {
+                    "name": "undertone.co.uk", 
+                    "value": {
+                        "attributed": 5.8944503555, 
+                        "last_event": 3.0
+                    }
+                }, 
+                {
+                    "name": "XaxisDE", 
+                    "value": {
+                        "attributed": 229.73936840995998, 
+                        "last_event": 112.0
+                    }
+                }, 
+                {
+                    "name": "autoplenum.de", 
+                    "value": {
+                        "attributed": 8.48387832702, 
+                        "last_event": 5.0
+                    }
+                }, 
+                {
+                    "name": "Plista", 
+                    "value": {
+                        "attributed": 5.84548953029, 
+                        "last_event": 4.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "Total", 
+                "Group3", 
+                "Impression"
+            ], 
+            "children": [
+                {
+                    "name": "UNKNOWN", 
+                    "value": {
+                        "attributed": 1020.7866790063107, 
+                        "last_event": 1595.0
+                    }
+                }, 
+                {
+                    "name": "Brand", 
+                    "value": {
+                        "attributed": 69873.98993593981, 
+                        "last_event": 34176.0
+                    }
+                }, 
+                {
+                    "name": "Retail", 
+                    "value": {
+                        "attributed": 110534.34283622932, 
+                        "last_event": 49577.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "Total", 
+                "Group2", 
+                "Search Click"
+            ], 
+            "children": [
+                {
+                    "name": "Turer", 
+                    "value": {
+                        "attributed": 17.00449148597, 
+                        "last_event": 18.0
+                    }
+                }, 
+                {
+                    "name": "Motocraft", 
+                    "value": {
+                        "attributed": 349.02481022665, 
+                        "last_event": 403.0
+                    }
+                }, 
+                {
+                    "name": "Alone", 
+                    "value": {
+                        "attributed": 87584.45831262688, 
+                        "last_event": 113969.0
+                    }
+                }, 
+                {
+                    "name": "Mustang", 
+                    "value": {
+                        "attributed": 13024.298908814399, 
+                        "last_event": 17401.0
+                    }
+                }, 
+                {
+                    "name": "Offroader", 
+                    "value": {
+                        "attributed": 2.0000108635171907, 
+                        "last_event": 3.0
+                    }
+                }, 
+                {
+                    "name": "Ford Credit", 
+                    "value": {
+                        "attributed": 901.54696140209, 
+                        "last_event": 1226.0
+                    }
+                }, 
+                {
+                    "name": "Neue", 
+                    "value": {
+                        "attributed": 161.2827383132, 
+                        "last_event": 226.0
+                    }
+                }, 
+                {
+                    "name": "Bmax", 
+                    "value": {
+                        "attributed": 4130.572906487409, 
+                        "last_event": 5260.0
+                    }
+                }, 
+                {
+                    "name": "Ranger", 
+                    "value": {
+                        "attributed": 1234.2868603572, 
+                        "last_event": 1503.0
+                    }
+                }, 
+                {
+                    "name": "Familien", 
+                    "value": {
+                        "attributed": 180.377875027833, 
+                        "last_event": 228.0
+                    }
+                }, 
+                {
+                    "name": "Ford Rental", 
+                    "value": {
+                        "attributed": 39.95101362222, 
+                        "last_event": 36.0
+                    }
+                }, 
+                {
+                    "name": "Tourneo", 
+                    "value": {
+                        "attributed": 249.71111685894, 
+                        "last_event": 307.0
+                    }
+                }, 
+                {
+                    "name": "Wagen", 
+                    "value": {
+                        "attributed": 50.90814903143807, 
+                        "last_event": 65.0
+                    }
+                }, 
+                {
+                    "name": "Ka", 
+                    "value": {
+                        "attributed": 3137.4570079484397, 
+                        "last_event": 3976.0
+                    }
+                }, 
+                {
+                    "name": "Smax", 
+                    "value": {
+                        "attributed": 6238.22719744994, 
+                        "last_event": 7659.0
+                    }
+                }, 
+                {
+                    "name": "Auto", 
+                    "value": {
+                        "attributed": 213.4186955635073, 
+                        "last_event": 285.0
+                    }
+                }, 
+                {
+                    "name": "Mini", 
+                    "value": {
+                        "attributed": 3.500020919988403, 
+                        "last_event": 3.0
+                    }
+                }, 
+                {
+                    "name": "Crossover", 
+                    "value": {
+                        "attributed": 1.00000650038, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "Kompakt", 
+                    "value": {
+                        "attributed": 24.0487352874, 
+                        "last_event": 32.0
+                    }
+                }, 
+                {
+                    "name": "4x4", 
+                    "value": {
+                        "attributed": 1.0, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "PKW", 
+                    "value": {
+                        "attributed": 10.50245025, 
+                        "last_event": 11.0
+                    }
+                }, 
+                {
+                    "name": "Mondeo", 
+                    "value": {
+                        "attributed": 6467.79249470737, 
+                        "last_event": 8687.0
+                    }
+                }, 
+                {
+                    "name": "Aktionen", 
+                    "value": {
+                        "attributed": 129.64833452052915, 
+                        "last_event": 181.0
+                    }
+                }, 
+                {
+                    "name": "Edge", 
+                    "value": {
+                        "attributed": 6738.4046942646, 
+                        "last_event": 8420.0
+                    }
+                }, 
+                {
+                    "name": "Fahrzeug", 
+                    "value": {
+                        "attributed": 20.00025027897, 
+                        "last_event": 23.0
+                    }
+                }, 
+                {
+                    "name": "Fiesta Retail", 
+                    "value": {
+                        "attributed": 11164.333040388408, 
+                        "last_event": 14437.0
+                    }
+                }, 
+                {
+                    "name": "Ford Technology", 
+                    "value": {
+                        "attributed": 296.2313527201723, 
+                        "last_event": 340.0
+                    }
+                }, 
+                {
+                    "name": "Drive Hacks", 
+                    "value": {
+                        "attributed": 0.0017747871108348, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Focus", 
+                    "value": {
+                        "attributed": 13219.195654505, 
+                        "last_event": 17462.0
+                    }
+                }, 
+                {
+                    "name": "C-Max Launch", 
+                    "value": {
+                        "attributed": 8233.90391881269, 
+                        "last_event": 10285.0
+                    }
+                }, 
+                {
+                    "name": "Courier", 
+                    "value": {
+                        "attributed": 50.25223278474, 
+                        "last_event": 63.0
+                    }
+                }, 
+                {
+                    "name": "Combis", 
+                    "value": {
+                        "attributed": 8.83336241329, 
+                        "last_event": 11.0
+                    }
+                }, 
+                {
+                    "name": "Kategorien", 
+                    "value": {
+                        "attributed": 2526.415813538746, 
+                        "last_event": 3350.0
+                    }
+                }, 
+                {
+                    "name": "UNKNOWN", 
+                    "value": {
+                        "attributed": 9820.2807577967, 
+                        "last_event": 12923.0
+                    }
+                }, 
+                {
+                    "name": "Van", 
+                    "value": {
+                        "attributed": 51.423006264033006, 
+                        "last_event": 72.0
+                    }
+                }, 
+                {
+                    "name": "SUV", 
+                    "value": {
+                        "attributed": 109.61573194095, 
+                        "last_event": 139.0
+                    }
+                }, 
+                {
+                    "name": "Retail", 
+                    "value": {
+                        "attributed": 2327.3430625953997, 
+                        "last_event": 3040.0
+                    }
+                }, 
+                {
+                    "name": "7Sitzer", 
+                    "value": {
+                        "attributed": 177.90064960318023, 
+                        "last_event": 232.0
+                    }
+                }, 
+                {
+                    "name": "Generisch", 
+                    "value": {
+                        "attributed": 19711.375933083997, 
+                        "last_event": 24384.0
+                    }
+                }, 
+                {
+                    "name": "MicroVan", 
+                    "value": {
+                        "attributed": 3.525894971687, 
+                        "last_event": 6.0
+                    }
+                }, 
+                {
+                    "name": "Mondeo Vignale", 
+                    "value": {
+                        "attributed": 1759.6616882310268, 
+                        "last_event": 2175.0
+                    }
+                }, 
+                {
+                    "name": "Other Campaign", 
+                    "value": {
+                        "attributed": 497.14694842005997, 
+                        "last_event": 687.0
+                    }
+                }, 
+                {
+                    "name": "Kuga Sustain", 
+                    "value": {
+                        "attributed": 14908.127560367, 
+                        "last_event": 19820.0
+                    }
+                }, 
+                {
+                    "name": "Transit", 
+                    "value": {
+                        "attributed": 139.84007552044247, 
+                        "last_event": 167.0
+                    }
+                }, 
+                {
+                    "name": "Ecosport Sustain", 
+                    "value": {
+                        "attributed": 7073.22289001029, 
+                        "last_event": 9337.0
+                    }
+                }, 
+                {
+                    "name": "Limousine", 
+                    "value": {
+                        "attributed": 6.538856050510001, 
+                        "last_event": 9.0
+                    }
+                }, 
+                {
+                    "name": "Galaxy Launch", 
+                    "value": {
+                        "attributed": 2447.25793023232, 
+                        "last_event": 3283.0
+                    }
+                }, 
+                {
+                    "name": "Transporter", 
+                    "value": {
+                        "attributed": 9.78177248048e-06, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Handler", 
+                    "value": {
+                        "attributed": 553.94085283921, 
+                        "last_event": 630.0
+                    }
+                }, 
+                {
+                    "name": "Klein", 
+                    "value": {
+                        "attributed": 186.393523477967, 
+                        "last_event": 273.0
+                    }
+                }, 
+                {
+                    "name": "Fleet Lease", 
+                    "value": {
+                        "attributed": 2355.6271829451593, 
+                        "last_event": 2838.0
+                    }
+                }, 
+                {
+                    "name": "Fleet Allrad", 
+                    "value": {
+                        "attributed": 52.5543984642, 
+                        "last_event": 70.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "build004", 
+                "Group1", 
+                "Display Click"
+            ], 
+            "children": [
+                {
+                    "name": "yahoo.co.uk", 
+                    "value": {
+                        "attributed": 5.82826146942e-06, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "plista.de", 
+                    "value": {
+                        "attributed": 0.333333333333, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "IQ Digital Network", 
+                    "value": {
+                        "attributed": 2.0333371798417277, 
+                        "last_event": 3.0
+                    }
+                }, 
+                {
+                    "name": "Bauer Media", 
+                    "value": {
+                        "attributed": 0.25, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Plista", 
+                    "value": {
+                        "attributed": 9.063959237839999, 
+                        "last_event": 14.0
+                    }
+                }, 
+                {
+                    "name": "Quisma", 
+                    "value": {
+                        "attributed": 2.92579907193, 
+                        "last_event": 5.0
+                    }
+                }, 
+                {
+                    "name": "OMS DE", 
+                    "value": {
+                        "attributed": 0.833333333333, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "Esome", 
+                    "value": {
+                        "attributed": 7.9380952381, 
+                        "last_event": 10.0
+                    }
+                }, 
+                {
+                    "name": "Light Reaction", 
+                    "value": {
+                        "attributed": 84.893641156406, 
+                        "last_event": 117.0
+                    }
+                }, 
+                {
+                    "name": "SevenOne Media GmbH", 
+                    "value": {
+                        "attributed": 0.25, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "autozeitung.de", 
+                    "value": {
+                        "attributed": 1.3375003846, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "Autoscout24.de", 
+                    "value": {
+                        "attributed": 0.5, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Axel Springer Media Impact", 
+                    "value": {
+                        "attributed": 1.841758063694, 
+                        "last_event": 5.0
+                    }
+                }, 
+                {
+                    "name": "auto-service.de", 
+                    "value": {
+                        "attributed": 0.5, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "SevenOne Media", 
+                    "value": {
+                        "attributed": 1.0, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Quarter Media", 
+                    "value": {
+                        "attributed": 0.0313041011184, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Mobile.de", 
+                    "value": {
+                        "attributed": 9.081171798133001, 
+                        "last_event": 22.0
+                    }
+                }, 
+                {
+                    "name": "autoplenum.de", 
+                    "value": {
+                        "attributed": 0.236438910812, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Media Impact DE", 
+                    "value": {
+                        "attributed": 0.500020781185, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Autobild.de", 
+                    "value": {
+                        "attributed": 0.5, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Interactive Media", 
+                    "value": {
+                        "attributed": 7.2149374364400005, 
+                        "last_event": 16.0
+                    }
+                }, 
+                {
+                    "name": "XaxisDE", 
+                    "value": {
+                        "attributed": 5.848111980936699, 
+                        "last_event": 15.0
+                    }
+                }, 
+                {
+                    "name": "united internet media", 
+                    "value": {
+                        "attributed": 2.81178407936, 
+                        "last_event": 4.0
+                    }
+                }, 
+                {
+                    "name": "AutoScout24 Media", 
+                    "value": {
+                        "attributed": 0.5, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "undertone.co.uk", 
+                    "value": {
+                        "attributed": 0.315735136633, 
+                        "last_event": 1.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "testd00", 
+                "Group3", 
+                "Impression"
+            ], 
+            "children": [
+                {
+                    "name": "UNKNOWN", 
+                    "value": {
+                        "attributed": 8.663900285451554, 
+                        "last_event": 13.0
+                    }
+                }, 
+                {
+                    "name": "Retail", 
+                    "value": {
+                        "attributed": 1156.020743946715, 
+                        "last_event": 667.0
+                    }
+                }, 
+                {
+                    "name": "Brand", 
+                    "value": {
+                        "attributed": 778.9175452494599, 
+                        "last_event": 382.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "testd00", 
+                "Group3", 
+                "Display Click"
+            ], 
+            "children": [
+                {
+                    "name": "UNKNOWN", 
+                    "value": {
+                        "attributed": 0.224520369171, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Brand", 
+                    "value": {
+                        "attributed": 271.42472040882274, 
+                        "last_event": 384.0
+                    }
+                }, 
+                {
+                    "name": "Retail", 
+                    "value": {
+                        "attributed": 72.40969392877732, 
+                        "last_event": 111.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "build004", 
+                "Group1", 
+                "Unexposed"
+            ], 
+            "children": [
+                {
+                    "name": "Unexposed Unexposed", 
+                    "value": {
+                        "attributed": 36.0, 
+                        "last_event": 114.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "testd00", 
+                "Group2", 
+                "Impression"
+            ], 
+            "children": [
+                {
+                    "name": "Retail January", 
+                    "value": {
+                        "attributed": 619.90101117587, 
+                        "last_event": 284.0
+                    }
+                }, 
+                {
+                    "name": "Retail Marz", 
+                    "value": {
+                        "attributed": 133.94281253018, 
+                        "last_event": 114.0
+                    }
+                }, 
+                {
+                    "name": "Fleet Allrad", 
+                    "value": {
+                        "attributed": 38.14897130057, 
+                        "last_event": 17.0
+                    }
+                }, 
+                {
+                    "name": "Retail Sales", 
+                    "value": {
+                        "attributed": 66.82013225799, 
+                        "last_event": 52.0
+                    }
+                }, 
+                {
+                    "name": "Retail February", 
+                    "value": {
+                        "attributed": 209.15000459925398, 
+                        "last_event": 118.0
+                    }
+                }, 
+                {
+                    "name": "Motocraft 2016", 
+                    "value": {
+                        "attributed": 15.47135109352, 
+                        "last_event": 17.0
+                    }
+                }, 
+                {
+                    "name": "UNKNOWN", 
+                    "value": {
+                        "attributed": 8.663900285451554, 
+                        "last_event": 13.0
+                    }
+                }, 
+                {
+                    "name": "Smax", 
+                    "value": {
+                        "attributed": 530.426493036483, 
+                        "last_event": 221.0
+                    }
+                }, 
+                {
+                    "name": "Formel 1 2016", 
+                    "value": {
+                        "attributed": 1.91665465108, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "Mondeo Vignale 2015", 
+                    "value": {
+                        "attributed": 0.666666666667, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Gewerbewochen Marz", 
+                    "value": {
+                        "attributed": 50.091635953581005, 
+                        "last_event": 55.0
+                    }
+                }, 
+                {
+                    "name": "Fleet February", 
+                    "value": {
+                        "attributed": 22.49482503575, 
+                        "last_event": 10.0
+                    }
+                }, 
+                {
+                    "name": "Kuga Sustain", 
+                    "value": {
+                        "attributed": 245.40773089522997, 
+                        "last_event": 159.0
+                    }
+                }, 
+                {
+                    "name": "Kooperation", 
+                    "value": {
+                        "attributed": 0.5, 
+                        "last_event": 0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "build004", 
+                "Group1", 
+                "Search Click"
+            ], 
+            "children": [
+                {
+                    "name": "DART Search : Google Exact", 
+                    "value": {
+                        "attributed": 796.4500320716147, 
+                        "last_event": 1053.0
+                    }
+                }, 
+                {
+                    "name": "DART Search : Google Broad", 
+                    "value": {
+                        "attributed": 161.5016572867385, 
+                        "last_event": 197.0
+                    }
+                }, 
+                {
+                    "name": "DART Search : Google Phrase", 
+                    "value": {
+                        "attributed": 2.5, 
+                        "last_event": 3.0
+                    }
+                }, 
+                {
+                    "name": "DART Search : MSN UNKNOWN", 
+                    "value": {
+                        "attributed": 65.3255952898, 
+                        "last_event": 95.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "euepr528", 
+                "Group2", 
+                "Search Click"
+            ], 
+            "children": [
+                {
+                    "name": "Generisch", 
+                    "value": {
+                        "attributed": 1.0, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Ford Rental", 
+                    "value": {
+                        "attributed": 1.0, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Mustang", 
+                    "value": {
+                        "attributed": 1.5, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "Ranger", 
+                    "value": {
+                        "attributed": 0.333333333333, 
+                        "last_event": 1.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "Total", 
+                "Group2", 
+                "Display Click"
+            ], 
+            "children": [
+                {
+                    "name": "Ecosport Social", 
+                    "value": {
+                        "attributed": 1.0, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Gewerbewochen Marz", 
+                    "value": {
+                        "attributed": 571.8695337331382, 
+                        "last_event": 779.0
+                    }
+                }, 
+                {
+                    "name": "AllLine Carsharing", 
+                    "value": {
+                        "attributed": 50.785280084843, 
+                        "last_event": 43.0
+                    }
+                }, 
+                {
+                    "name": "Fleet February", 
+                    "value": {
+                        "attributed": 83.64908619942712, 
+                        "last_event": 113.0
+                    }
+                }, 
+                {
+                    "name": "Mondeo Vignale 2016", 
+                    "value": {
+                        "attributed": 0.668596538485, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Retail January", 
+                    "value": {
+                        "attributed": 2873.1362306496167, 
+                        "last_event": 4016.0
+                    }
+                }, 
+                {
+                    "name": "Motocraft 2016", 
+                    "value": {
+                        "attributed": 35.46325381601, 
+                        "last_event": 48.0
+                    }
+                }, 
+                {
+                    "name": "Ecosport Sustain", 
+                    "value": {
+                        "attributed": 2.0, 
+                        "last_event": 2.0
+                    }
+                }, 
+                {
+                    "name": "Retail Marz", 
+                    "value": {
+                        "attributed": 3004.961745051935, 
+                        "last_event": 4218.0
+                    }
+                }, 
+                {
+                    "name": "Formel 1 2016", 
+                    "value": {
+                        "attributed": 11.6079280659, 
+                        "last_event": 20.0
+                    }
+                }, 
+                {
+                    "name": "Retail February", 
+                    "value": {
+                        "attributed": 5094.1022671571745, 
+                        "last_event": 7068.0
+                    }
+                }, 
+                {
+                    "name": "UNKNOWN", 
+                    "value": {
+                        "attributed": 97.143388587657, 
+                        "last_event": 286.0
+                    }
+                }, 
+                {
+                    "name": "Pendolaris", 
+                    "value": {
+                        "attributed": 0.047619047619, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Fleet Allrad", 
+                    "value": {
+                        "attributed": 204.92162774558867, 
+                        "last_event": 263.0
+                    }
+                }, 
+                {
+                    "name": "Mondeo Vignale 2015", 
+                    "value": {
+                        "attributed": 1.0, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Smax", 
+                    "value": {
+                        "attributed": 9961.985900494148, 
+                        "last_event": 14932.0
+                    }
+                }, 
+                {
+                    "name": "Kuga Sustain", 
+                    "value": {
+                        "attributed": 8765.115686209034, 
+                        "last_event": 12264.0
+                    }
+                }, 
+                {
+                    "name": "Video Seeding", 
+                    "value": {
+                        "attributed": 0.422765123326, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Retail Sales", 
+                    "value": {
+                        "attributed": 8063.094401566302, 
+                        "last_event": 8788.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "testd00", 
+                "Group1", 
+                "Search Click"
+            ], 
+            "children": [
+                {
+                    "name": "DART Search : Google Broad", 
+                    "value": {
+                        "attributed": 448.1457876585521, 
+                        "last_event": 574.0
+                    }
+                }, 
+                {
+                    "name": "DART Search : Google Exact", 
+                    "value": {
+                        "attributed": 1359.3082849228022, 
+                        "last_event": 1709.0
+                    }
+                }, 
+                {
+                    "name": "DART Search : Google Phrase", 
+                    "value": {
+                        "attributed": 5.50001939951, 
+                        "last_event": 5.0
+                    }
+                }, 
+                {
+                    "name": "DART Search : MSN UNKNOWN", 
+                    "value": {
+                        "attributed": 81.8696711469, 
+                        "last_event": 103.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "euepr528", 
+                "Group2", 
+                "Impression"
+            ], 
+            "children": [
+                {
+                    "name": "Retail Marz", 
+                    "value": {
+                        "attributed": 0.333333333333, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Retail February", 
+                    "value": {
+                        "attributed": 0.5, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "UNKNOWN", 
+                    "value": {
+                        "attributed": 0.333333333333, 
+                        "last_event": 0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "build004", 
+                "Group3", 
+                "Impression"
+            ], 
+            "children": [
+                {
+                    "name": "Brand", 
+                    "value": {
+                        "attributed": 396.38608302743506, 
+                        "last_event": 182.0
+                    }
+                }, 
+                {
+                    "name": "UNKNOWN", 
+                    "value": {
+                        "attributed": 3.722222222221, 
+                        "last_event": 4.0
+                    }
+                }, 
+                {
+                    "name": "Retail", 
+                    "value": {
+                        "attributed": 576.162192115867, 
+                        "last_event": 328.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "build004", 
+                "Group3", 
+                "Unexposed"
+            ], 
+            "children": [
+                {
+                    "name": "Unexposed Unexposed", 
+                    "value": {
+                        "attributed": 36.0, 
+                        "last_event": 114.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "build004", 
+                "Group2", 
+                "Impression"
+            ], 
+            "children": [
+                {
+                    "name": "Kuga Sustain", 
+                    "value": {
+                        "attributed": 73.83519882319, 
+                        "last_event": 55.0
+                    }
+                }, 
+                {
+                    "name": "Formel 1 2016", 
+                    "value": {
+                        "attributed": 0.5, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Retail Marz", 
+                    "value": {
+                        "attributed": 33.81526984106999, 
+                        "last_event": 37.0
+                    }
+                }, 
+                {
+                    "name": "Smax", 
+                    "value": {
+                        "attributed": 322.050884204245, 
+                        "last_event": 127.0
+                    }
+                }, 
+                {
+                    "name": "Fleet February", 
+                    "value": {
+                        "attributed": 22.42432059352, 
+                        "last_event": 15.0
+                    }
+                }, 
+                {
+                    "name": "Motocraft 2016", 
+                    "value": {
+                        "attributed": 7.907340507000001, 
+                        "last_event": 9.0
+                    }
+                }, 
+                {
+                    "name": "Gewerbewochen Marz", 
+                    "value": {
+                        "attributed": 10.036425119513, 
+                        "last_event": 8.0
+                    }
+                }, 
+                {
+                    "name": "Retail February", 
+                    "value": {
+                        "attributed": 146.72528520289, 
+                        "last_event": 98.0
+                    }
+                }, 
+                {
+                    "name": "Retail January", 
+                    "value": {
+                        "attributed": 287.51290534317, 
+                        "last_event": 118.0
+                    }
+                }, 
+                {
+                    "name": "UNKNOWN", 
+                    "value": {
+                        "attributed": 3.722222222221, 
+                        "last_event": 4.0
+                    }
+                }, 
+                {
+                    "name": "Retail Sales", 
+                    "value": {
+                        "attributed": 43.20459484637, 
+                        "last_event": 40.0
+                    }
+                }, 
+                {
+                    "name": "Fleet Allrad", 
+                    "value": {
+                        "attributed": 24.536050662334, 
+                        "last_event": 3.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "euepr528", 
+                "Group1", 
+                "Impression"
+            ], 
+            "children": [
+                {
+                    "name": "SevenOne Media", 
+                    "value": {
+                        "attributed": 0.5, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Mobile.de", 
+                    "value": {
+                        "attributed": 0.666666666666, 
+                        "last_event": 0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "build0", 
+                "Group3", 
+                "Impression"
+            ], 
+            "children": [
+                {
+                    "name": "Brand", 
+                    "value": {
+                        "attributed": 68698.68630766292, 
+                        "last_event": 33612.0
+                    }
+                }, 
+                {
+                    "name": "UNKNOWN", 
+                    "value": {
+                        "attributed": 1008.067223165305, 
+                        "last_event": 1578.0
+                    }
+                }, 
+                {
+                    "name": "Retail", 
+                    "value": {
+                        "attributed": 108801.32656683344, 
+                        "last_event": 48582.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "euepr528", 
+                "Group3", 
+                "Search Click"
+            ], 
+            "children": [
+                {
+                    "name": "Brand", 
+                    "value": {
+                        "attributed": 1.0, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Commerce", 
+                    "value": {
+                        "attributed": 1.0, 
+                        "last_event": 1.0
+                    }
+                }, 
+                {
+                    "name": "Name Plate", 
+                    "value": {
+                        "attributed": 1.833333333333, 
+                        "last_event": 3.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "euepr528", 
+                "Group1", 
+                "Search Click"
+            ], 
+            "children": [
+                {
+                    "name": "DART Search : Google Exact", 
+                    "value": {
+                        "attributed": 2.5, 
+                        "last_event": 3.0
+                    }
+                }, 
+                {
+                    "name": "DART Search : Google Broad", 
+                    "value": {
+                        "attributed": 1.333333333333, 
+                        "last_event": 2.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "testd00", 
+                "Group3", 
+                "Unexposed"
+            ], 
+            "children": [
+                {
+                    "name": "Unexposed Unexposed", 
+                    "value": {
+                        "attributed": 269.0, 
+                        "last_event": 519.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "build004", 
+                "Group3", 
+                "Search Click"
+            ], 
+            "children": [
+                {
+                    "name": "Generic", 
+                    "value": {
+                        "attributed": 5.000017135265487, 
+                        "last_event": 6.0
+                    }
+                }, 
+                {
+                    "name": "UNKNOWN", 
+                    "value": {
+                        "attributed": 65.3255952898, 
+                        "last_event": 95.0
+                    }
+                }, 
+                {
+                    "name": "Name Plate", 
+                    "value": {
+                        "attributed": 438.7350329779671, 
+                        "last_event": 579.0
+                    }
+                }, 
+                {
+                    "name": "Brand", 
+                    "value": {
+                        "attributed": 476.3743150060581, 
+                        "last_event": 618.0
+                    }
+                }, 
+                {
+                    "name": "FCSD", 
+                    "value": {
+                        "attributed": 1.75000617307, 
+                        "last_event": 3.0
+                    }
+                }, 
+                {
+                    "name": "Commercial Vehicles", 
+                    "value": {
+                        "attributed": 1.26748524774e-05, 
+                        "last_event": 0
+                    }
+                }, 
+                {
+                    "name": "Commerce", 
+                    "value": {
+                        "attributed": 38.59230539114, 
+                        "last_event": 47.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "build0", 
+                "Group3", 
+                "Display Click"
+            ], 
+            "children": [
+                {
+                    "name": "UNKNOWN", 
+                    "value": {
+                        "attributed": 96.918868218486, 
+                        "last_event": 285.0
+                    }
+                }, 
+                {
+                    "name": "Brand", 
+                    "value": {
+                        "attributed": 18417.31976155365, 
+                        "last_event": 26746.0
+                    }
+                }, 
+                {
+                    "name": "Retail", 
+                    "value": {
+                        "attributed": 19823.937478539334, 
+                        "last_event": 25091.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "build0", 
+                "Group1", 
+                "Unexposed"
+            ], 
+            "children": [
+                {
+                    "name": "Unexposed Unexposed", 
+                    "value": {
+                        "attributed": 13118.0, 
+                        "last_event": 32098.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "build0", 
+                "Group3", 
+                "Search Click"
+            ], 
+            "children": [
+                {
+                    "name": "Commercial Vehicles", 
+                    "value": {
+                        "attributed": 408.4916696604725, 
+                        "last_event": 495.0
+                    }
+                }, 
+                {
+                    "name": "Commerce", 
+                    "value": {
+                        "attributed": 4981.589718455709, 
+                        "last_event": 6381.0
+                    }
+                }, 
+                {
+                    "name": "Brand", 
+                    "value": {
+                        "attributed": 111137.13979722557, 
+                        "last_event": 143321.0
+                    }
+                }, 
+                {
+                    "name": "Name Plate", 
+                    "value": {
+                        "attributed": 97835.92745428199, 
+                        "last_event": 127183.0
+                    }
+                }, 
+                {
+                    "name": "Generic", 
+                    "value": {
+                        "attributed": 1295.0082684491554, 
+                        "last_event": 1721.0
+                    }
+                }, 
+                {
+                    "name": "FCSD", 
+                    "value": {
+                        "attributed": 335.6913648128, 
+                        "last_event": 388.0
+                    }
+                }, 
+                {
+                    "name": "UNKNOWN", 
+                    "value": {
+                        "attributed": 9673.08549136, 
+                        "last_event": 12725.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "build0", 
+                "Group2", 
+                "Unexposed"
+            ], 
+            "children": [
+                {
+                    "name": "Unexposed Unexposed", 
+                    "value": {
+                        "attributed": 13118.0, 
+                        "last_event": 32098.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "build0", 
+                "Group1", 
+                "Search Click"
+            ], 
+            "children": [
+                {
+                    "name": "DART Search : Google Broad", 
+                    "value": {
+                        "attributed": 27366.484824076255, 
+                        "last_event": 35873.0
+                    }
+                }, 
+                {
+                    "name": "DART Search : Google Phrase", 
+                    "value": {
+                        "attributed": 307.9973606126, 
+                        "last_event": 366.0
+                    }
+                }, 
+                {
+                    "name": "DART Search : MSN UNKNOWN", 
+                    "value": {
+                        "attributed": 9673.08549136, 
+                        "last_event": 12725.0
+                    }
+                }, 
+                {
+                    "name": "DART Search : Google Exact", 
+                    "value": {
+                        "attributed": 188319.36608819684, 
+                        "last_event": 243250.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "testd00", 
+                "Group1", 
+                "Unexposed"
+            ], 
+            "children": [
+                {
+                    "name": "Unexposed Unexposed", 
+                    "value": {
+                        "attributed": 269.0, 
+                        "last_event": 519.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "Total", 
+                "Group3", 
+                "Display Click"
+            ], 
+            "children": [
+                {
+                    "name": "Brand", 
+                    "value": {
+                        "attributed": 18743.84849547851, 
+                        "last_event": 27221.0
+                    }
+                }, 
+                {
+                    "name": "Retail", 
+                    "value": {
+                        "attributed": 19981.98342600403, 
+                        "last_event": 25336.0
+                    }
+                }, 
+                {
+                    "name": "UNKNOWN", 
+                    "value": {
+                        "attributed": 97.143388587657, 
+                        "last_event": 286.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "build0", 
+                "Group3", 
+                "Unexposed"
+            ], 
+            "children": [
+                {
+                    "name": "Unexposed Unexposed", 
+                    "value": {
+                        "attributed": 13118.0, 
+                        "last_event": 32098.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "Total", 
+                "Group3", 
+                "Unexposed"
+            ], 
+            "children": [
+                {
+                    "name": "Unexposed Unexposed", 
+                    "value": {
+                        "attributed": 13423.0, 
+                        "last_event": 32731.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "build004", 
+                "Group3", 
+                "Display Click"
+            ], 
+            "children": [
+                {
+                    "name": "Retail", 
+                    "value": {
+                        "attributed": 85.63625353592083, 
+                        "last_event": 134.0
+                    }
+                }, 
+                {
+                    "name": "Brand", 
+                    "value": {
+                        "attributed": 55.10401351603647, 
+                        "last_event": 91.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "build004", 
+                "Group2", 
+                "Unexposed"
+            ], 
+            "children": [
+                {
+                    "name": "Unexposed Unexposed", 
+                    "value": {
+                        "attributed": 36.0, 
+                        "last_event": 114.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "Total", 
+                "Group2", 
+                "Unexposed"
+            ], 
+            "children": [
+                {
+                    "name": "Unexposed Unexposed", 
+                    "value": {
+                        "attributed": 13423.0, 
+                        "last_event": 32731.0
+                    }
+                }
+            ]
+        }, 
+        {
+            "name": [
+                "Total", 
+                "Group1", 
+                "Unexposed"
+            ], 
+            "children": [
+                {
+                    "name": "Unexposed Unexposed", 
+                    "value": {
+                        "attributed": 13423.0, 
+                        "last_event": 32731.0
+                    }
+                }
+            ]
+        }
+    ]
+}

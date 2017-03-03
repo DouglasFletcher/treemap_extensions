@@ -1,0 +1,1444 @@
+success type,attribution_method,SearchMatchType,SearchCategory,RecordType,CampaignMap,ActivitySubType,CampaignMapSearch,Site,CampaignType,Channel,contribution
+tag01, method1,  ,  ,Action01,Campaign06, ,  ,Site1, Retail,Activity01,450
+tag01, method2,  ,  ,Action01,Campaign06, ,  ,Site1, Retail,Activity01,204
+tag01, method2,  ,  ,Action01,Campaign05, ,  ,Site2, Retail,Activity01,599
+tag01, method1,  ,  ,Action01,Campaign05, ,  ,Site2, Retail,Activity01,227
+tag01, method2,  ,  ,Action02,Campaign05, ,  ,Site2, Retail,Activity01,874
+tag01, method1,  ,  ,Action02,Campaign05, ,  ,Site2, Retail,Activity01,942
+tag02, method1,  ,  ,Action02,Campaign05, ,  ,Site2, Retail,Activity01,89
+tag02, method2,  ,  ,Action02,Campaign05, ,  ,Site2, Retail,Activity01,922
+tag03, method1,  ,  ,Action02,Campaign05, ,  ,Site2, Retail,Activity01,462
+tag03, method2,  ,  ,Action02,Campaign05, ,  ,Site2, Retail,Activity01,422
+tag01, method1,  ,  ,Action01,Campaign06, ,  ,Site2, Retail,Activity01,505
+tag01, method2,  ,  ,Action01,Campaign06, ,  ,Site2, Retail,Activity01,534
+tag01, method2,  ,  ,Action02,Campaign06, ,  ,Site2, Retail,Activity01,506
+tag01, method1,  ,  ,Action02,Campaign06, ,  ,Site2, Retail,Activity01,499
+tag02, method2,  ,  ,Action02,Campaign06, ,  ,Site2, Retail,Activity01,690
+tag02, method1,  ,  ,Action02,Campaign06, ,  ,Site2, Retail,Activity01,419
+tag03, method2,  ,  ,Action02,Campaign06, ,  ,Site2, Retail,Activity01,539
+tag03, method1,  ,  ,Action02,Campaign06, ,  ,Site2, Retail,Activity01,860
+tag01, method1,  ,  ,Action01,Campaign14, ,  ,Site3, Retail,Activity01,249
+tag01, method2,  ,  ,Action01,Campaign14, ,  ,Site3, Retail,Activity01,548
+tag02, method2,  ,  ,Action01,Campaign14, ,  ,Site3, Retail,Activity01,795
+tag02, method1,  ,  ,Action01,Campaign14, ,  ,Site3, Retail,Activity01,269
+tag03, method2,  ,  ,Action01,Campaign14, ,  ,Site3, Retail,Activity01,473
+tag03, method1,  ,  ,Action01,Campaign14, ,  ,Site3, Retail,Activity01,294
+tag01, method1,  ,  ,Action02,Campaign14, ,  ,Site3, Retail,Activity01,998
+tag01, method2,  ,  ,Action02,Campaign14, ,  ,Site3, Retail,Activity01,576
+tag02, method1,  ,  ,Action02,Campaign14, ,  ,Site3, Retail,Activity01,617
+tag02, method2,  ,  ,Action02,Campaign14, ,  ,Site3, Retail,Activity01,953
+tag03, method1,  ,  ,Action02,Campaign14, ,  ,Site3, Retail,Activity01,463
+tag03, method2,  ,  ,Action02,Campaign14, ,  ,Site3, Retail,Activity01,933
+tag01, method1,  ,  ,Action01,Campaign20, ,  ,Site3, UNKNOWN,Activity01,770
+tag01, method2,  ,  ,Action01,Campaign20, ,  ,Site3, UNKNOWN,Activity01,519
+tag01, method2,  ,  ,Action02,Campaign20, ,  ,Site3, UNKNOWN,Activity01,273
+tag01, method1,  ,  ,Action02,Campaign20, ,  ,Site3, UNKNOWN,Activity01,118
+tag03, method2,  ,  ,Action02,Campaign20, ,  ,Site3, UNKNOWN,Activity01,511
+tag03, method1,  ,  ,Action02,Campaign20, ,  ,Site3, UNKNOWN,Activity01,62
+tag01, method1,  ,  ,Action01,Campaign14, ,  ,Site4, Retail,Activity01,254
+tag01, method2,  ,  ,Action01,Campaign14, ,  ,Site4, Retail,Activity01,270
+tag02, method2,  ,  ,Action01,Campaign14, ,  ,Site4, Retail,Activity01,641
+tag02, method1,  ,  ,Action01,Campaign14, ,  ,Site4, Retail,Activity01,784
+tag01, method1,  ,  ,Action02,Campaign14, ,  ,Site4, Retail,Activity01,601
+tag01, method2,  ,  ,Action02,Campaign14, ,  ,Site4, Retail,Activity01,788
+tag02, method1,  ,  ,Action02,Campaign14, ,  ,Site4, Retail,Activity01,708
+tag02, method2,  ,  ,Action02,Campaign14, ,  ,Site4, Retail,Activity01,814
+tag03, method2,  ,  ,Action02,Campaign14, ,  ,Site4, Retail,Activity01,480
+tag03, method1,  ,  ,Action02,Campaign14, ,  ,Site4, Retail,Activity01,694
+tag01, method2,  ,  ,Action01,Campaign14, ,  ,Site5, Retail,Activity01,405
+tag01, method1,  ,  ,Action01,Campaign14, ,  ,Site5, Retail,Activity01,798
+tag02, method1,  ,  ,Action01,Campaign14, ,  ,Site5, Retail,Activity01,365
+tag02, method2,  ,  ,Action01,Campaign14, ,  ,Site5, Retail,Activity01,353
+tag03, method2,  ,  ,Action01,Campaign14, ,  ,Site5, Retail,Activity01,120
+tag03, method1,  ,  ,Action01,Campaign14, ,  ,Site5, Retail,Activity01,202
+tag01, method1,  ,  ,Action02,Campaign14, ,  ,Site5, Retail,Activity01,855
+tag01, method2,  ,  ,Action02,Campaign14, ,  ,Site5, Retail,Activity01,8
+tag02, method2,  ,  ,Action02,Campaign14, ,  ,Site5, Retail,Activity01,166
+tag02, method1,  ,  ,Action02,Campaign14, ,  ,Site5, Retail,Activity01,755
+tag03, method2,  ,  ,Action02,Campaign14, ,  ,Site5, Retail,Activity01,485
+tag03, method1,  ,  ,Action02,Campaign14, ,  ,Site5, Retail,Activity01,609
+tag01, method2,  ,  ,Action01,Campaign20, ,  ,Site5, UNKNOWN,Activity01,666
+tag01, method1,  ,  ,Action01,Campaign20, ,  ,Site5, UNKNOWN,Activity01,51
+tag01, method1,  ,  ,Action02,Campaign20, ,  ,Site5, UNKNOWN,Activity01,243
+tag01, method2,  ,  ,Action02,Campaign20, ,  ,Site5, UNKNOWN,Activity01,234
+tag01, method2,  ,  ,Action01,Campaign06, ,  ,Site6, Retail,Activity01,15
+tag01, method1,  ,  ,Action01,Campaign06, ,  ,Site6, Retail,Activity01,347
+tag02, method2,  ,  ,Action01,Campaign06, ,  ,Site6, Retail,Activity01,931
+tag02, method1,  ,  ,Action01,Campaign06, ,  ,Site6, Retail,Activity01,477
+tag01, method1,  ,  ,Action02,Campaign06, ,  ,Site6, Retail,Activity01,249
+tag01, method2,  ,  ,Action02,Campaign06, ,  ,Site6, Retail,Activity01,248
+tag02, method2,  ,  ,Action02,Campaign06, ,  ,Site6, Retail,Activity01,372
+tag02, method1,  ,  ,Action02,Campaign06, ,  ,Site6, Retail,Activity01,197
+tag03, method2,  ,  ,Action02,Campaign06, ,  ,Site6, Retail,Activity01,817
+tag03, method1,  ,  ,Action02,Campaign06, ,  ,Site6, Retail,Activity01,274
+tag01, method2,  ,  ,Action01,Campaign08, ,  ,Site6,Brand,Activity01,834
+tag01, method1,  ,  ,Action01,Campaign08, ,  ,Site6,Brand,Activity01,895
+tag02, method1,  ,  ,Action01,Campaign08, ,  ,Site6,Brand,Activity01,693
+tag02, method2,  ,  ,Action01,Campaign08, ,  ,Site6,Brand,Activity01,665
+tag01, method2,  ,  ,Action02,Campaign08, ,  ,Site6,Brand,Activity01,247
+tag01, method1,  ,  ,Action02,Campaign08, ,  ,Site6,Brand,Activity01,378
+tag02, method1,  ,  ,Action02,Campaign08, ,  ,Site6,Brand,Activity01,828
+tag02, method2,  ,  ,Action02,Campaign08, ,  ,Site6,Brand,Activity01,911
+tag03, method2,  ,  ,Action02,Campaign08, ,  ,Site6,Brand,Activity01,522
+tag03, method1,  ,  ,Action02,Campaign08, ,  ,Site6,Brand,Activity01,210
+tag01, method1,  ,  ,Action02,Campaign09, ,  ,Site6,Brand,Activity01,531
+tag01, method2,  ,  ,Action01,Campaign13, ,  ,Site6, Retail,Activity01,367
+tag01, method1,  ,  ,Action01,Campaign13, ,  ,Site6, Retail,Activity01,739
+tag02, method2,  ,  ,Action01,Campaign13, ,  ,Site6, Retail,Activity01,80
+tag02, method1,  ,  ,Action01,Campaign13, ,  ,Site6, Retail,Activity01,761
+tag01, method1,  ,  ,Action02,Campaign13, ,  ,Site6, Retail,Activity01,949
+tag01, method2,  ,  ,Action02,Campaign13, ,  ,Site6, Retail,Activity01,29
+tag02, method2,  ,  ,Action02,Campaign13, ,  ,Site6, Retail,Activity01,561
+tag02, method1,  ,  ,Action02,Campaign13, ,  ,Site6, Retail,Activity01,598
+tag03, method1,  ,  ,Action02,Campaign13, ,  ,Site6, Retail,Activity01,564
+tag03, method2,  ,  ,Action02,Campaign13, ,  ,Site6, Retail,Activity01,462
+tag01, method2,  ,  ,Action01,Campaign16, ,  ,Site6, Retail,Activity01,213
+tag01, method1,  ,  ,Action01,Campaign16, ,  ,Site6, Retail,Activity01,485
+tag02, method1,  ,  ,Action01,Campaign16, ,  ,Site6, Retail,Activity01,950
+tag03, method2,  ,  ,Action01,Campaign16, ,  ,Site6, Retail,Activity01,786
+tag03, method1,  ,  ,Action01,Campaign16, ,  ,Site6, Retail,Activity01,672
+tag01, method2,  ,  ,Action02,Campaign16, ,  ,Site6, Retail,Activity01,211
+tag01, method1,  ,  ,Action02,Campaign16, ,  ,Site6, Retail,Activity01,709
+tag02, method2,  ,  ,Action02,Campaign16, ,  ,Site6, Retail,Activity01,474
+tag02, method1,  ,  ,Action02,Campaign16, ,  ,Site6, Retail,Activity01,770
+tag03, method1,  ,  ,Action02,Campaign16, ,  ,Site6, Retail,Activity01,421
+tag03, method2,  ,  ,Action02,Campaign16, ,  ,Site6, Retail,Activity01,949
+tag01, method2,  ,  ,Action01,Campaign20, ,  ,Site6, UNKNOWN,Activity01,384
+tag01, method1,  ,  ,Action01,Campaign20, ,  ,Site6, UNKNOWN,Activity01,902
+tag01, method2,  ,  ,Action02,Campaign20, ,  ,Site6, UNKNOWN,Activity01,541
+tag01, method1,  ,  ,Action02,Campaign20, ,  ,Site6, UNKNOWN,Activity01,796
+tag02, method1,  ,  ,Action02,Campaign20, ,  ,Site6, UNKNOWN,Activity01,172
+tag02, method2,  ,  ,Action02,Campaign20, ,  ,Site6, UNKNOWN,Activity01,898
+tag03, method1,  ,  ,Action02,Campaign20, ,  ,Site6, UNKNOWN,Activity01,354
+tag01, method2,  ,  ,Action01,Campaign11, ,  ,Site7, Retail,Activity01,124
+tag01, method1,  ,  ,Action01,Campaign11, ,  ,Site7, Retail,Activity01,949
+tag01, method2,  ,  ,Action02,Campaign11, ,  ,Site7, Retail,Activity01,90
+tag01, method1,  ,  ,Action02,Campaign11, ,  ,Site7, Retail,Activity01,924
+tag02, method2,  ,  ,Action02,Campaign11, ,  ,Site7, Retail,Activity01,591
+tag02, method1,  ,  ,Action02,Campaign11, ,  ,Site7, Retail,Activity01,328
+tag03, method2,  ,  ,Action02,Campaign11, ,  ,Site7, Retail,Activity01,778
+tag03, method1,  ,  ,Action02,Campaign11, ,  ,Site7, Retail,Activity01,165
+tag01, method2,  ,  ,Action01,Campaign14, ,  ,Site7, Retail,Activity01,93
+tag01, method1,  ,  ,Action01,Campaign14, ,  ,Site7, Retail,Activity01,239
+tag02, method1,  ,  ,Action01,Campaign14, ,  ,Site7, Retail,Activity01,502
+tag02, method2,  ,  ,Action01,Campaign14, ,  ,Site7, Retail,Activity01,494
+tag03, method1,  ,  ,Action01,Campaign14, ,  ,Site7, Retail,Activity01,17
+tag03, method2,  ,  ,Action01,Campaign14, ,  ,Site7, Retail,Activity01,986
+tag01, method2,  ,  ,Action02,Campaign14, ,  ,Site7, Retail,Activity01,451
+tag01, method1,  ,  ,Action02,Campaign14, ,  ,Site7, Retail,Activity01,945
+tag02, method2,  ,  ,Action02,Campaign14, ,  ,Site7, Retail,Activity01,413
+tag02, method1,  ,  ,Action02,Campaign14, ,  ,Site7, Retail,Activity01,307
+tag03, method2,  ,  ,Action02,Campaign14, ,  ,Site7, Retail,Activity01,403
+tag03, method1,  ,  ,Action02,Campaign14, ,  ,Site7, Retail,Activity01,816
+tag01, method2,  ,  ,Action01,Campaign15, ,  ,Site7, Retail,Activity01,360
+tag01, method1,  ,  ,Action01,Campaign15, ,  ,Site7, Retail,Activity01,751
+tag02, method2,  ,  ,Action01,Campaign15, ,  ,Site7, Retail,Activity01,430
+tag02, method1,  ,  ,Action01,Campaign15, ,  ,Site7, Retail,Activity01,286
+tag01, method2,  ,  ,Action02,Campaign15, ,  ,Site7, Retail,Activity01,501
+tag01, method1,  ,  ,Action02,Campaign15, ,  ,Site7, Retail,Activity01,838
+tag02, method2,  ,  ,Action02,Campaign15, ,  ,Site7, Retail,Activity01,828
+tag02, method1,  ,  ,Action02,Campaign15, ,  ,Site7, Retail,Activity01,518
+tag03, method1,  ,  ,Action02,Campaign15, ,  ,Site7, Retail,Activity01,559
+tag03, method2,  ,  ,Action02,Campaign15, ,  ,Site7, Retail,Activity01,741
+tag01, method2,  ,  ,Action01,Campaign20, ,  ,Site7, UNKNOWN,Activity01,199
+tag01, method1,  ,  ,Action01,Campaign20, ,  ,Site7, UNKNOWN,Activity01,650
+tag01, method2,  ,  ,Action02,Campaign20, ,  ,Site7, UNKNOWN,Activity01,642
+tag01, method1,  ,  ,Action02,Campaign20, ,  ,Site7, UNKNOWN,Activity01,655
+tag02, method1,  ,  ,Action02,Campaign20, ,  ,Site7, UNKNOWN,Activity01,143
+tag02, method2,  ,  ,Action02,Campaign20, ,  ,Site7, UNKNOWN,Activity01,859
+tag03, method1,  ,  ,Action02,Campaign20, ,  ,Site7, UNKNOWN,Activity01,89
+tag03, method2,  ,  ,Action02,Campaign20, ,  ,Site7, UNKNOWN,Activity01,447
+tag01, method1,  ,  ,Action01,Campaign14, ,  ,Site8, Retail,Activity01,615
+tag01, method2,  ,  ,Action01,Campaign14, ,  ,Site8, Retail,Activity01,544
+tag02, method2,  ,  ,Action01,Campaign14, ,  ,Site8, Retail,Activity01,967
+tag02, method1,  ,  ,Action01,Campaign14, ,  ,Site8, Retail,Activity01,40
+tag03, method2,  ,  ,Action01,Campaign14, ,  ,Site8, Retail,Activity01,426
+tag03, method1,  ,  ,Action01,Campaign14, ,  ,Site8, Retail,Activity01,960
+tag01, method1,  ,  ,Action02,Campaign14, ,  ,Site8, Retail,Activity01,225
+tag01, method2,  ,  ,Action02,Campaign14, ,  ,Site8, Retail,Activity01,252
+tag02, method2,  ,  ,Action02,Campaign14, ,  ,Site8, Retail,Activity01,11
+tag02, method1,  ,  ,Action02,Campaign14, ,  ,Site8, Retail,Activity01,602
+tag03, method2,  ,  ,Action02,Campaign14, ,  ,Site8, Retail,Activity01,925
+tag03, method1,  ,  ,Action02,Campaign14, ,  ,Site8, Retail,Activity01,940
+tag01, method2,  ,  ,Action01,Campaign14, ,  ,Site9, Retail,Activity01,852
+tag01, method1,  ,  ,Action01,Campaign14, ,  ,Site9, Retail,Activity01,77
+tag02, method1,  ,  ,Action01,Campaign14, ,  ,Site9, Retail,Activity01,109
+tag03, method1,  ,  ,Action01,Campaign14, ,  ,Site9, Retail,Activity01,522
+tag03, method2,  ,  ,Action01,Campaign14, ,  ,Site9, Retail,Activity01,801
+tag01, method2,  ,  ,Action02,Campaign14, ,  ,Site9, Retail,Activity01,681
+tag01, method1,  ,  ,Action02,Campaign14, ,  ,Site9, Retail,Activity01,711
+tag02, method1,  ,  ,Action02,Campaign14, ,  ,Site9, Retail,Activity01,149
+tag02, method2,  ,  ,Action02,Campaign14, ,  ,Site9, Retail,Activity01,69
+tag03, method1,  ,  ,Action02,Campaign14, ,  ,Site9, Retail,Activity01,630
+tag03, method2,  ,  ,Action02,Campaign14, ,  ,Site9, Retail,Activity01,920
+tag01, method1,  ,  ,Action01,Campaign20, ,  ,Site9, UNKNOWN,Activity01,313
+tag01, method2,  ,  ,Action01,Campaign20, ,  ,Site9, UNKNOWN,Activity01,386
+tag01, method2,  ,  ,Action02,Campaign20, ,  ,Site9, UNKNOWN,Activity01,978
+tag01, method1,  ,  ,Action02,Campaign20, ,  ,Site9, UNKNOWN,Activity01,755
+tag01, method2,  ,  ,Action01,Campaign04, ,  ,Site10, Retail,Activity01,437
+tag01, method1,  ,  ,Action01,Campaign04, ,  ,Site10, Retail,Activity01,904
+tag03, method1,  ,  ,Action01,Campaign04, ,  ,Site10, Retail,Activity01,33
+tag03, method2,  ,  ,Action01,Campaign04, ,  ,Site10, Retail,Activity01,473
+tag01, method2,  ,  ,Action02,Campaign04, ,  ,Site10, Retail,Activity01,556
+tag01, method1,  ,  ,Action02,Campaign04, ,  ,Site10, Retail,Activity01,122
+tag02, method2,  ,  ,Action02,Campaign04, ,  ,Site10, Retail,Activity01,540
+tag02, method1,  ,  ,Action02,Campaign04, ,  ,Site10, Retail,Activity01,639
+tag03, method1,  ,  ,Action02,Campaign04, ,  ,Site10, Retail,Activity01,423
+tag03, method2,  ,  ,Action02,Campaign04, ,  ,Site10, Retail,Activity01,883
+tag01, method1,  ,  ,Action01,Campaign05, ,  ,Site10, Retail,Activity01,529
+tag01, method2,  ,  ,Action01,Campaign05, ,  ,Site10, Retail,Activity01,826
+tag01, method2,  ,  ,Action02,Campaign05, ,  ,Site10, Retail,Activity01,824
+tag01, method1,  ,  ,Action02,Campaign05, ,  ,Site10, Retail,Activity01,864
+tag02, method1,  ,  ,Action02,Campaign05, ,  ,Site10, Retail,Activity01,429
+tag02, method2,  ,  ,Action02,Campaign05, ,  ,Site10, Retail,Activity01,697
+tag03, method1,  ,  ,Action02,Campaign05, ,  ,Site10, Retail,Activity01,486
+tag03, method2,  ,  ,Action02,Campaign05, ,  ,Site10, Retail,Activity01,446
+tag01, method1,  ,  ,Action01,Campaign13, ,  ,Site10, Retail,Activity01,111
+tag01, method2,  ,  ,Action01,Campaign13, ,  ,Site10, Retail,Activity01,837
+tag02, method1,  ,  ,Action01,Campaign13, ,  ,Site10, Retail,Activity01,191
+tag02, method2,  ,  ,Action01,Campaign13, ,  ,Site10, Retail,Activity01,853
+tag03, method1,  ,  ,Action01,Campaign13, ,  ,Site10, Retail,Activity01,785
+tag03, method2,  ,  ,Action01,Campaign13, ,  ,Site10, Retail,Activity01,481
+tag01, method2,  ,  ,Action02,Campaign13, ,  ,Site10, Retail,Activity01,985
+tag01, method1,  ,  ,Action02,Campaign13, ,  ,Site10, Retail,Activity01,344
+tag02, method1,  ,  ,Action02,Campaign13, ,  ,Site10, Retail,Activity01,659
+tag02, method2,  ,  ,Action02,Campaign13, ,  ,Site10, Retail,Activity01,311
+tag03, method2,  ,  ,Action02,Campaign13, ,  ,Site10, Retail,Activity01,975
+tag03, method1,  ,  ,Action02,Campaign13, ,  ,Site10, Retail,Activity01,849
+tag01, method1,  ,  ,Action01,Campaign15, ,  ,Site10, Retail,Activity01,815
+tag01, method2,  ,  ,Action01,Campaign15, ,  ,Site10, Retail,Activity01,312
+tag02, method2,  ,  ,Action01,Campaign15, ,  ,Site10, Retail,Activity01,635
+tag02, method1,  ,  ,Action01,Campaign15, ,  ,Site10, Retail,Activity01,536
+tag01, method1,  ,  ,Action02,Campaign15, ,  ,Site10, Retail,Activity01,799
+tag01, method2,  ,  ,Action02,Campaign15, ,  ,Site10, Retail,Activity01,674
+tag02, method1,  ,  ,Action02,Campaign15, ,  ,Site10, Retail,Activity01,837
+tag02, method2,  ,  ,Action02,Campaign15, ,  ,Site10, Retail,Activity01,77
+tag03, method1,  ,  ,Action02,Campaign15, ,  ,Site10, Retail,Activity01,879
+tag03, method2,  ,  ,Action02,Campaign15, ,  ,Site10, Retail,Activity01,750
+tag01, method2,  ,  ,Action01,Campaign18, ,  ,Site10,Brand,Activity01,214
+tag01, method1,  ,  ,Action01,Campaign18, ,  ,Site10,Brand,Activity01,260
+tag02, method1,  ,  ,Action01,Campaign18, ,  ,Site10,Brand,Activity01,783
+tag02, method2,  ,  ,Action01,Campaign18, ,  ,Site10,Brand,Activity01,44
+tag03, method2,  ,  ,Action01,Campaign18, ,  ,Site10,Brand,Activity01,285
+tag03, method1,  ,  ,Action01,Campaign18, ,  ,Site10,Brand,Activity01,502
+tag01, method2,  ,  ,Action02,Campaign18, ,  ,Site10,Brand,Activity01,945
+tag01, method1,  ,  ,Action02,Campaign18, ,  ,Site10,Brand,Activity01,389
+tag02, method2,  ,  ,Action02,Campaign18, ,  ,Site10,Brand,Activity01,392
+tag02, method1,  ,  ,Action02,Campaign18, ,  ,Site10,Brand,Activity01,434
+tag03, method1,  ,  ,Action02,Campaign18, ,  ,Site10,Brand,Activity01,51
+tag03, method2,  ,  ,Action02,Campaign18, ,  ,Site10,Brand,Activity01,319
+tag01, method2,  ,  ,Action01,Campaign08, ,  ,Site11,Brand,Activity01,728
+tag01, method1,  ,  ,Action01,Campaign08, ,  ,Site11,Brand,Activity01,411
+tag02, method2,  ,  ,Action01,Campaign08, ,  ,Site11,Brand,Activity01,473
+tag02, method1,  ,  ,Action01,Campaign08, ,  ,Site11,Brand,Activity01,417
+tag01, method1,  ,  ,Action02,Campaign08, ,  ,Site11,Brand,Activity01,827
+tag01, method2,  ,  ,Action02,Campaign08, ,  ,Site11,Brand,Activity01,183
+tag02, method1,  ,  ,Action02,Campaign08, ,  ,Site11,Brand,Activity01,596
+tag02, method2,  ,  ,Action02,Campaign08, ,  ,Site11,Brand,Activity01,329
+tag03, method1,  ,  ,Action02,Campaign08, ,  ,Site11,Brand,Activity01,831
+tag03, method2,  ,  ,Action02,Campaign08, ,  ,Site11,Brand,Activity01,604
+tag01, method2,  ,  ,Action01,Campaign13, ,  ,Site11, Retail,Activity01,542
+tag01, method1,  ,  ,Action01,Campaign13, ,  ,Site11, Retail,Activity01,796
+tag02, method1,  ,  ,Action01,Campaign13, ,  ,Site11, Retail,Activity01,718
+tag01, method1,  ,  ,Action02,Campaign13, ,  ,Site11, Retail,Activity01,758
+tag01, method2,  ,  ,Action02,Campaign13, ,  ,Site11, Retail,Activity01,405
+tag02, method1,  ,  ,Action02,Campaign13, ,  ,Site11, Retail,Activity01,536
+tag02, method2,  ,  ,Action02,Campaign13, ,  ,Site11, Retail,Activity01,282
+tag03, method1,  ,  ,Action02,Campaign13, ,  ,Site11, Retail,Activity01,373
+tag03, method2,  ,  ,Action02,Campaign13, ,  ,Site11, Retail,Activity01,772
+tag01, method1,  ,  ,Action01,Campaign15, ,  ,Site11, Retail,Activity01,790
+tag01, method2,  ,  ,Action01,Campaign15, ,  ,Site11, Retail,Activity01,952
+tag03, method1,  ,  ,Action01,Campaign15, ,  ,Site11, Retail,Activity01,942
+tag01, method2,  ,  ,Action02,Campaign15, ,  ,Site11, Retail,Activity01,16
+tag01, method1,  ,  ,Action02,Campaign15, ,  ,Site11, Retail,Activity01,370
+tag02, method1,  ,  ,Action02,Campaign15, ,  ,Site11, Retail,Activity01,355
+tag02, method2,  ,  ,Action02,Campaign15, ,  ,Site11, Retail,Activity01,194
+tag03, method1,  ,  ,Action02,Campaign15, ,  ,Site11, Retail,Activity01,395
+tag03, method2,  ,  ,Action02,Campaign15, ,  ,Site11, Retail,Activity01,962
+tag01, method2,  ,  ,Action01,Campaign20, ,  ,Site11, UNKNOWN,Activity01,438
+tag01, method1,  ,  ,Action01,Campaign20, ,  ,Site11, UNKNOWN,Activity01,309
+tag01, method1,  ,  ,Action02,Campaign20, ,  ,Site11, UNKNOWN,Activity01,258
+tag01, method2,  ,  ,Action02,Campaign20, ,  ,Site11, UNKNOWN,Activity01,162
+tag02, method1,  ,  ,Action02,Campaign20, ,  ,Site11, UNKNOWN,Activity01,607
+tag01, method1,  ,  ,Action01,Campaign06, ,  ,Site12, Retail,Activity01,853
+tag01, method2,  ,  ,Action01,Campaign06, ,  ,Site12, Retail,Activity01,907
+tag01, method2,  ,  ,Action02,Campaign06, ,  ,Site12, Retail,Activity01,676
+tag01, method1,  ,  ,Action02,Campaign06, ,  ,Site12, Retail,Activity01,807
+tag02, method1,  ,  ,Action02,Campaign06, ,  ,Site12, Retail,Activity01,832
+tag02, method2,  ,  ,Action02,Campaign06, ,  ,Site12, Retail,Activity01,148
+tag01, method1,  ,  ,Action01,Campaign04, ,  ,Site13, Retail,Activity01,969
+tag01, method2,  ,  ,Action01,Campaign04, ,  ,Site13, Retail,Activity01,842
+tag01, method2,  ,  ,Action02,Campaign04, ,  ,Site13, Retail,Activity01,395
+tag01, method1,  ,  ,Action02,Campaign04, ,  ,Site13, Retail,Activity01,664
+tag02, method1,  ,  ,Action02,Campaign04, ,  ,Site13, Retail,Activity01,214
+tag02, method2,  ,  ,Action02,Campaign04, ,  ,Site13, Retail,Activity01,620
+tag03, method1,  ,  ,Action02,Campaign04, ,  ,Site13, Retail,Activity01,49
+tag01, method1,  ,  ,Action01,Campaign05, ,  ,Site13, Retail,Activity01,784
+tag01, method2,  ,  ,Action01,Campaign05, ,  ,Site13, Retail,Activity01,936
+tag01, method1,  ,  ,Action02,Campaign05, ,  ,Site13, Retail,Activity01,1.000
+tag01, method2,  ,  ,Action02,Campaign05, ,  ,Site13, Retail,Activity01,10
+tag02, method2,  ,  ,Action02,Campaign05, ,  ,Site13, Retail,Activity01,557
+tag02, method1,  ,  ,Action02,Campaign05, ,  ,Site13, Retail,Activity01,598
+tag03, method2,  ,  ,Action02,Campaign05, ,  ,Site13, Retail,Activity01,265
+tag03, method1,  ,  ,Action02,Campaign05, ,  ,Site13, Retail,Activity01,243
+tag01, method1,  ,  ,Action01,Campaign06, ,  ,Site13, Retail,Activity01,212
+tag01, method2,  ,  ,Action01,Campaign06, ,  ,Site13, Retail,Activity01,50
+tag02, method1,  ,  ,Action01,Campaign06, ,  ,Site13, Retail,Activity01,627
+tag02, method2,  ,  ,Action01,Campaign06, ,  ,Site13, Retail,Activity01,850
+tag01, method1,  ,  ,Action02,Campaign06, ,  ,Site13, Retail,Activity01,868
+tag01, method2,  ,  ,Action02,Campaign06, ,  ,Site13, Retail,Activity01,813
+tag02, method2,  ,  ,Action02,Campaign06, ,  ,Site13, Retail,Activity01,60
+tag02, method1,  ,  ,Action02,Campaign06, ,  ,Site13, Retail,Activity01,194
+tag01, method2,  ,  ,Action01,Campaign20, ,  ,Site13, UNKNOWN,Activity01,645
+tag01, method1,  ,  ,Action01,Campaign20, ,  ,Site13, UNKNOWN,Activity01,672
+tag01, method1,  ,  ,Action02,Campaign20, ,  ,Site13, UNKNOWN,Activity01,916
+tag01, method2,  ,  ,Action02,Campaign20, ,  ,Site13, UNKNOWN,Activity01,78
+tag02, method1,  ,  ,Action02,Campaign20, ,  ,Site13, UNKNOWN,Activity01,505
+tag01, method2,  ,  ,Action01,Campaign20, ,  ,Site14, UNKNOWN,Activity01,596
+tag01, method1,  ,  ,Action01,Campaign20, ,  ,Site14, UNKNOWN,Activity01,973
+tag01, method1,  ,  ,Action02,Campaign20, ,  ,Site14, UNKNOWN,Activity01,101
+tag01, method2,  ,  ,Action02,Campaign20, ,  ,Site14, UNKNOWN,Activity01,766
+tag01, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp1,Site15,  ,Activity01,970
+tag01, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp1,Site15,  ,Activity01,707
+tag01, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp2,Site15,  ,Activity01,97
+tag01, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp2,Site15,  ,Activity01,774
+tag02, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp2,Site15,  ,Activity01,321
+tag01, method1, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp2,Site15,  ,Activity01,832
+tag01, method2, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp2,Site15,  ,Activity01,673
+tag01, method1, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp3,Site15,  ,Activity01,863
+tag01, method2, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp3,Site15,  ,Activity01,556
+tag01, method2, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp3,Site15,  ,Activity01,395
+tag01, method1, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp3,Site15,  ,Activity01,922
+tag02, method2, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp3,Site15,  ,Activity01,502
+tag02, method1, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp3,Site15,  ,Activity01,349
+tag03, method1, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp3,Site15,  ,Activity01,552
+tag01, method2, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp4,Site15,  ,Activity01,547
+tag01, method1, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp4,Site15,  ,Activity01,543
+tag02, method2, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp4,Site15,  ,Activity01,174
+tag02, method1, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp4,Site15,  ,Activity01,764
+tag03, method1, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp4,Site15,  ,Activity01,300
+tag03, method2, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp4,Site15,  ,Activity01,562
+tag01, method1, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp4,Site15,  ,Activity01,845
+tag01, method2, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp4,Site15,  ,Activity01,738
+tag02, method2, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp4,Site15,  ,Activity01,907
+tag02, method1, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp4,Site15,  ,Activity01,178
+tag03, method2, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp4,Site15,  ,Activity01,723
+tag03, method1, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp4,Site15,  ,Activity01,932
+tag01, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp5,Site15,  ,Activity01,451
+tag01, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp5,Site15,  ,Activity01,529
+tag03, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp5,Site15,  ,Activity01,751
+tag03, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp5,Site15,  ,Activity01,335
+tag01, method2, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp5,Site15,  ,Activity01,791
+tag01, method1, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp5,Site15,  ,Activity01,405
+tag02, method2, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp5,Site15,  ,Activity01,511
+tag02, method1, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp5,Site15,  ,Activity01,527
+tag01, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp6,Site15,  ,Activity01,128
+tag01, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp6,Site15,  ,Activity01,574
+tag02, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp6,Site15,  ,Activity01,226
+tag02, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp6,Site15,  ,Activity01,784
+tag03, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp6,Site15,  ,Activity01,358
+tag03, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp6,Site15,  ,Activity01,17
+tag01, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp6,Site15,  ,Activity01,365
+tag01, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp6,Site15,  ,Activity01,87
+tag02, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp6,Site15,  ,Activity01,227
+tag02, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp6,Site15,  ,Activity01,963
+tag03, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp6,Site15,  ,Activity01,893
+tag03, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp6,Site15,  ,Activity01,266
+tag01, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp7,Site15,  ,Activity01,641
+tag01, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp7,Site15,  ,Activity01,521
+tag02, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp7,Site15,  ,Activity01,453
+tag02, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp7,Site15,  ,Activity01,439
+tag03, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp7,Site15,  ,Activity01,371
+tag03, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp7,Site15,  ,Activity01,94
+tag01, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp7,Site15,  ,Activity01,562
+tag01, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp7,Site15,  ,Activity01,434
+tag02, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp7,Site15,  ,Activity01,894
+tag02, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp7,Site15,  ,Activity01,731
+tag03, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp7,Site15,  ,Activity01,753
+tag03, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp7,Site15,  ,Activity01,535
+tag01, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp8,Site15,  ,Activity01,936
+tag01, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp8,Site15,  ,Activity01,752
+tag02, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp8,Site15,  ,Activity01,687
+tag02, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp8,Site15,  ,Activity01,299
+tag01, method1, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp8,Site15,  ,Activity01,472
+tag01, method2, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp8,Site15,  ,Activity01,617
+tag01, method1, SearchMatch1,SearchCat03,Action03,  , ,SearchCamp9,Site15,  ,Activity01,689
+tag01, method2, SearchMatch1,SearchCat03,Action03,  , ,SearchCamp9,Site15,  ,Activity01,29
+tag02, method2, SearchMatch1,SearchCat03,Action03,  , ,SearchCamp9,Site15,  ,Activity01,216
+tag02, method1, SearchMatch1,SearchCat03,Action03,  , ,SearchCamp9,Site15,  ,Activity01,719
+tag01, method2, SearchMatch2,SearchCat03,Action03,  , ,SearchCamp9,Site15,  ,Activity01,692
+tag01, method1, SearchMatch2,SearchCat03,Action03,  , ,SearchCamp9,Site15,  ,Activity01,106
+tag02, method2, SearchMatch2,SearchCat03,Action03,  , ,SearchCamp9,Site15,  ,Activity01,365
+tag02, method1, SearchMatch2,SearchCat03,Action03,  , ,SearchCamp9,Site15,  ,Activity01,572
+tag01, method1, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp10,Site15,  ,Activity01,612
+tag01, method2, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp10,Site15,  ,Activity01,507
+tag01, method1, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp11,Site15,  ,Activity01,18
+tag02, method1, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp11,Site15,  ,Activity01,361
+tag01, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp12,Site15,  ,Activity01,908
+tag01, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp12,Site15,  ,Activity01,174
+tag02, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp12,Site15,  ,Activity01,785
+tag02, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp12,Site15,  ,Activity01,536
+tag03, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp12,Site15,  ,Activity01,102
+tag03, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp12,Site15,  ,Activity01,906
+tag01, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp12,Site15,  ,Activity01,501
+tag01, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp12,Site15,  ,Activity01,704
+tag02, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp12,Site15,  ,Activity01,364
+tag02, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp12,Site15,  ,Activity01,720
+tag03, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp12,Site15,  ,Activity01,489
+tag03, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp12,Site15,  ,Activity01,533
+tag01, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp13,Site15,  ,Activity01,436
+tag01, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp13,Site15,  ,Activity01,395
+tag02, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp13,Site15,  ,Activity01,305
+tag02, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp13,Site15,  ,Activity01,358
+tag03, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp13,Site15,  ,Activity01,67
+tag03, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp13,Site15,  ,Activity01,697
+tag01, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp13,Site15,  ,Activity01,995
+tag01, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp13,Site15,  ,Activity01,365
+tag02, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp13,Site15,  ,Activity01,809
+tag02, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp13,Site15,  ,Activity01,646
+tag03, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp13,Site15,  ,Activity01,257
+tag03, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp13,Site15,  ,Activity01,472
+tag01, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp14,Site15,  ,Activity01,236
+tag01, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp14,Site15,  ,Activity01,348
+tag01, method1, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp14,Site15,  ,Activity01,23
+tag01, method2, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp14,Site15,  ,Activity01,812
+tag01, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp15,Site15,  ,Activity01,516
+tag01, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp15,Site15,  ,Activity01,541
+tag02, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp15,Site15,  ,Activity01,286
+tag02, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp15,Site15,  ,Activity01,1.000
+tag03, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp15,Site15,  ,Activity01,965
+tag03, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp15,Site15,  ,Activity01,618
+tag01, method2, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp15,Site15,  ,Activity01,433
+tag01, method1, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp15,Site15,  ,Activity01,639
+tag02, method1, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp15,Site15,  ,Activity01,590
+tag01, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp16,Site15,  ,Activity01,634
+tag01, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp16,Site15,  ,Activity01,436
+tag02, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp16,Site15,  ,Activity01,156
+tag02, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp16,Site15,  ,Activity01,680
+tag03, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp16,Site15,  ,Activity01,105
+tag03, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp16,Site15,  ,Activity01,338
+tag01, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp16,Site15,  ,Activity01,397
+tag01, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp16,Site15,  ,Activity01,544
+tag02, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp16,Site15,  ,Activity01,784
+tag02, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp16,Site15,  ,Activity01,577
+tag03, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp16,Site15,  ,Activity01,529
+tag03, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp16,Site15,  ,Activity01,650
+tag01, method2, SearchMatch3, SearchCat02,Action03,  , ,SearchCamp16,Site15,  ,Activity01,802
+tag01, method1, SearchMatch3, SearchCat02,Action03,  , ,SearchCamp16,Site15,  ,Activity01,421
+tag02, method2, SearchMatch3, SearchCat02,Action03,  , ,SearchCamp16,Site15,  ,Activity01,969
+tag02, method1, SearchMatch3, SearchCat02,Action03,  , ,SearchCamp16,Site15,  ,Activity01,949
+tag03, method2, SearchMatch3, SearchCat02,Action03,  , ,SearchCamp16,Site15,  ,Activity01,469
+tag03, method1, SearchMatch3, SearchCat02,Action03,  , ,SearchCamp16,Site15,  ,Activity01,538
+tag01, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp17,Site15,  ,Activity01,548
+tag01, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp17,Site15,  ,Activity01,999
+tag01, method2, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp17,Site15,  ,Activity01,489
+tag01, method1, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp17,Site15,  ,Activity01,533
+tag01, method1, SearchMatch1, SearchCat01,Action03,  , ,SearchCamp18,Site15,  ,Activity01,917
+tag01, method2, SearchMatch1, SearchCat01,Action03,  , ,SearchCamp18,Site15,  ,Activity01,565
+tag02, method2, SearchMatch1, SearchCat01,Action03,  , ,SearchCamp18,Site15,  ,Activity01,823
+tag02, method1, SearchMatch1, SearchCat01,Action03,  , ,SearchCamp18,Site15,  ,Activity01,533
+tag03, method1, SearchMatch1, SearchCat01,Action03,  , ,SearchCamp18,Site15,  ,Activity01,946
+tag03, method2, SearchMatch1, SearchCat01,Action03,  , ,SearchCamp18,Site15,  ,Activity01,275
+tag01, method1, SearchMatch2, SearchCat01,Action03,  , ,SearchCamp18,Site15,  ,Activity01,386
+tag01, method2, SearchMatch2, SearchCat01,Action03,  , ,SearchCamp18,Site15,  ,Activity01,36
+tag02, method2, SearchMatch2, SearchCat01,Action03,  , ,SearchCamp18,Site15,  ,Activity01,810
+tag02, method1, SearchMatch2, SearchCat01,Action03,  , ,SearchCamp18,Site15,  ,Activity01,984
+tag03, method2, SearchMatch2, SearchCat01,Action03,  , ,SearchCamp18,Site15,  ,Activity01,602
+tag03, method1, SearchMatch2, SearchCat01,Action03,  , ,SearchCamp18,Site15,  ,Activity01,766
+tag01, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp19,Site15,  ,Activity01,761
+tag01, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp19,Site15,  ,Activity01,745
+tag02, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp19,Site15,  ,Activity01,901
+tag02, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp19,Site15,  ,Activity01,357
+tag03, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp19,Site15,  ,Activity01,191
+tag03, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp19,Site15,  ,Activity01,488
+tag01, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp19,Site15,  ,Activity01,850
+tag01, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp19,Site15,  ,Activity01,650
+tag02, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp19,Site15,  ,Activity01,940
+tag02, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp19,Site15,  ,Activity01,952
+tag03, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp19,Site15,  ,Activity01,78
+tag03, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp19,Site15,  ,Activity01,925
+tag01, method2, SearchMatch1, SearchCat01,Action03,  , ,SearchCamp20,Site15,  ,Activity01,121
+tag01, method1, SearchMatch1, SearchCat01,Action03,  , ,SearchCamp20,Site15,  ,Activity01,753
+tag01, method1, SearchMatch2, SearchCat01,Action03,  , ,SearchCamp20,Site15,  ,Activity01,283
+tag01, method2, SearchMatch2, SearchCat01,Action03,  , ,SearchCamp20,Site15,  ,Activity01,168
+tag02, method2, SearchMatch2, SearchCat01,Action03,  , ,SearchCamp20,Site15,  ,Activity01,227
+tag02, method1, SearchMatch2, SearchCat01,Action03,  , ,SearchCamp20,Site15,  ,Activity01,394
+tag03, method1, SearchMatch2, SearchCat01,Action03,  , ,SearchCamp20,Site15,  ,Activity01,150
+tag03, method2, SearchMatch2, SearchCat01,Action03,  , ,SearchCamp20,Site15,  ,Activity01,841
+tag01, method1, SearchMatch1, SearchCat01,Action03,  , ,SearchCamp21,Site15,  ,Activity01,866
+tag01, method2, SearchMatch1, SearchCat01,Action03,  , ,SearchCamp21,Site15,  ,Activity01,748
+tag02, method2, SearchMatch1, SearchCat01,Action03,  , ,SearchCamp21,Site15,  ,Activity01,163
+tag02, method1, SearchMatch1, SearchCat01,Action03,  , ,SearchCamp21,Site15,  ,Activity01,881
+tag04, method1, SearchMatch1, SearchCat01,Action03,  , ,SearchCamp21,Site15,  ,Activity01,82
+tag04, method2, SearchMatch1, SearchCat01,Action03,  , ,SearchCamp21,Site15,  ,Activity01,865
+tag01, method2, SearchMatch2, SearchCat01,Action03,  , ,SearchCamp21,Site15,  ,Activity01,951
+tag01, method1, SearchMatch2, SearchCat01,Action03,  , ,SearchCamp21,Site15,  ,Activity01,415
+tag01, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp22,Site15,  ,Activity01,937
+tag01, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp22,Site15,  ,Activity01,325
+tag02, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp22,Site15,  ,Activity01,668
+tag03, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp22,Site15,  ,Activity01,227
+tag01, method1, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp22,Site15,  ,Activity01,714
+tag01, method2, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp22,Site15,  ,Activity01,869
+tag02, method2, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp22,Site15,  ,Activity01,997
+tag02, method1, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp22,Site15,  ,Activity01,278
+tag01, method1, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp22,Site15,  ,Activity01,544
+tag01, method2, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp22,Site15,  ,Activity01,914
+tag02, method2, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp22,Site15,  ,Activity01,330
+tag02, method1, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp22,Site15,  ,Activity01,466
+tag01, method2, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp22,Site15,  ,Activity01,366
+tag01, method1, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp22,Site15,  ,Activity01,422
+tag02, method2, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp22,Site15,  ,Activity01,633
+tag02, method1, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp22,Site15,  ,Activity01,24
+tag03, method1, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp22,Site15,  ,Activity01,919
+tag03, method2, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp22,Site15,  ,Activity01,574
+tag01, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp23,Site15,  ,Activity01,190
+tag01, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp23,Site15,  ,Activity01,396
+tag02, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp23,Site15,  ,Activity01,5
+tag02, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp23,Site15,  ,Activity01,773
+tag03, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp23,Site15,  ,Activity01,93
+tag03, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp23,Site15,  ,Activity01,58
+tag01, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp23,Site15,  ,Activity01,520
+tag01, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp23,Site15,  ,Activity01,1
+tag02, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp23,Site15,  ,Activity01,97
+tag02, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp23,Site15,  ,Activity01,560
+tag03, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp23,Site15,  ,Activity01,615
+tag03, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp23,Site15,  ,Activity01,42
+tag01, method1, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp24,Site15,  ,Activity01,147
+tag01, method2, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp24,Site15,  ,Activity01,552
+tag02, method1, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp24,Site15,  ,Activity01,74
+tag02, method2, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp24,Site15,  ,Activity01,369
+tag03, method1, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp24,Site15,  ,Activity01,211
+tag03, method2, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp24,Site15,  ,Activity01,981
+tag01, method2, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp24,Site15,  ,Activity01,548
+tag01, method1, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp24,Site15,  ,Activity01,487
+tag02, method1, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp24,Site15,  ,Activity01,281
+tag02, method2, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp24,Site15,  ,Activity01,222
+tag03, method1, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp24,Site15,  ,Activity01,931
+tag03, method2, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp24,Site15,  ,Activity01,662
+tag04, method2, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp24,Site15,  ,Activity01,181
+tag04, method1, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp24,Site15,  ,Activity01,679
+tag01, method2, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp25,Site15,  ,Activity01,399
+tag01, method1, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp25,Site15,  ,Activity01,764
+tag02, method1, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp25,Site15,  ,Activity01,726
+tag02, method2, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp25,Site15,  ,Activity01,353
+tag03, method1, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp25,Site15,  ,Activity01,38
+tag03, method2, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp25,Site15,  ,Activity01,747
+tag01, method2, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp25,Site15,  ,Activity01,489
+tag01, method1, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp25,Site15,  ,Activity01,681
+tag02, method2, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp25,Site15,  ,Activity01,574
+tag02, method1, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp25,Site15,  ,Activity01,925
+tag03, method2, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp25,Site15,  ,Activity01,921
+tag03, method1, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp25,Site15,  ,Activity01,182
+tag01, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp26,Site15,  ,Activity01,96
+tag01, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp26,Site15,  ,Activity01,423
+tag02, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp26,Site15,  ,Activity01,560
+tag02, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp26,Site15,  ,Activity01,287
+tag03, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp26,Site15,  ,Activity01,595
+tag03, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp26,Site15,  ,Activity01,971
+tag01, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp26,Site15,  ,Activity01,536
+tag01, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp26,Site15,  ,Activity01,575
+tag02, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp26,Site15,  ,Activity01,411
+tag02, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp26,Site15,  ,Activity01,240
+tag03, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp26,Site15,  ,Activity01,917
+tag03, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp26,Site15,  ,Activity01,899
+tag01, method1, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp27,Site15,  ,Activity01,12
+tag01, method2, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp27,Site15,  ,Activity01,766
+tag02, method1, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp27,Site15,  ,Activity01,154
+tag02, method2, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp27,Site15,  ,Activity01,12
+tag03, method1, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp27,Site15,  ,Activity01,972
+tag01, method2, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp27,Site15,  ,Activity01,548
+tag01, method1, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp27,Site15,  ,Activity01,905
+tag02, method2, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp27,Site15,  ,Activity01,686
+tag02, method1, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp27,Site15,  ,Activity01,850
+tag03, method1, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp27,Site15,  ,Activity01,949
+tag03, method2, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp27,Site15,  ,Activity01,226
+tag01, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp28,Site15,  ,Activity01,678
+tag01, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp28,Site15,  ,Activity01,469
+tag02, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp28,Site15,  ,Activity01,132
+tag01, method1, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp28,Site15,  ,Activity01,971
+tag01, method2, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp28,Site15,  ,Activity01,441
+tag02, method1, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp28,Site15,  ,Activity01,780
+tag02, method2, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp28,Site15,  ,Activity01,434
+tag03, method2, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp28,Site15,  ,Activity01,815
+tag03, method1, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp28,Site15,  ,Activity01,909
+tag01, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp29,Site15,  ,Activity01,10
+tag01, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp29,Site15,  ,Activity01,452
+tag01, method2, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp29,Site15,  ,Activity01,515
+tag01, method1, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp29,Site15,  ,Activity01,259
+tag01, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp30,Site15,  ,Activity01,462
+tag01, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp30,Site15,  ,Activity01,776
+tag02, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp30,Site15,  ,Activity01,924
+tag02, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp30,Site15,  ,Activity01,884
+tag03, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp30,Site15,  ,Activity01,826
+tag03, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp30,Site15,  ,Activity01,949
+tag01, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp30,Site15,  ,Activity01,674
+tag01, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp30,Site15,  ,Activity01,759
+tag02, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp30,Site15,  ,Activity01,80
+tag02, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp30,Site15,  ,Activity01,845
+tag03, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp30,Site15,  ,Activity01,801
+tag03, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp30,Site15,  ,Activity01,167
+tag01, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp31,Site15,  ,Activity01,9
+tag01, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp31,Site15,  ,Activity01,10
+tag02, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp31,Site15,  ,Activity01,46
+tag02, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp31,Site15,  ,Activity01,575
+tag01, method1, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp31,Site15,  ,Activity01,432
+tag01, method2, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp31,Site15,  ,Activity01,357
+tag01, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp32,Site15,  ,Activity01,497
+tag01, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp32,Site15,  ,Activity01,779
+tag01, method2, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp32,Site15,  ,Activity01,748
+tag01, method1, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp32,Site15,  ,Activity01,359
+tag01, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp33,Site15,  ,Activity01,337
+tag01, method1, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp33,Site15,  ,Activity01,834
+tag01, method2, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp33,Site15,  ,Activity01,615
+tag01, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp34,Site15,  ,Activity01,716
+tag01, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp34,Site15,  ,Activity01,309
+tag02, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp34,Site15,  ,Activity01,954
+tag02, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp34,Site15,  ,Activity01,385
+tag03, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp34,Site15,  ,Activity01,943
+tag03, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp34,Site15,  ,Activity01,167
+tag01, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp34,Site15,  ,Activity01,363
+tag01, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp34,Site15,  ,Activity01,357
+tag02, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp34,Site15,  ,Activity01,731
+tag02, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp34,Site15,  ,Activity01,645
+tag03, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp34,Site15,  ,Activity01,492
+tag03, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp34,Site15,  ,Activity01,958
+tag01, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp35,Site15,  ,Activity01,676
+tag01, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp35,Site15,  ,Activity01,422
+tag03, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp35,Site15,  ,Activity01,786
+tag03, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp35,Site15,  ,Activity01,436
+tag01, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp35,Site15,  ,Activity01,215
+tag01, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp35,Site15,  ,Activity01,606
+tag02, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp35,Site15,  ,Activity01,762
+tag02, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp35,Site15,  ,Activity01,418
+tag03, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp35,Site15,  ,Activity01,456
+tag03, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp35,Site15,  ,Activity01,124
+tag01, method2, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp35,Site15,  ,Activity01,505
+tag01, method1, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp35,Site15,  ,Activity01,215
+tag02, method1, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp35,Site15,  ,Activity01,718
+tag02, method2, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp35,Site15,  ,Activity01,991
+tag03, method1, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp35,Site15,  ,Activity01,945
+tag03, method2, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp35,Site15,  ,Activity01,106
+tag01, method1, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp35,Site15,  ,Activity01,3
+tag01, method2, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp35,Site15,  ,Activity01,981
+tag02, method1, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp35,Site15,  ,Activity01,957
+tag02, method2, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp35,Site15,  ,Activity01,728
+tag03, method1, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp35,Site15,  ,Activity01,163
+tag03, method2, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp35,Site15,  ,Activity01,747
+tag01, method1, SearchMatch1, SearchCat06,Action03,  , ,SearchCamp36,Site15,  ,Activity01,681
+tag01, method2, SearchMatch1, SearchCat06,Action03,  , ,SearchCamp36,Site15,  ,Activity01,213
+tag02, method1, SearchMatch1, SearchCat06,Action03,  , ,SearchCamp36,Site15,  ,Activity01,642
+tag02, method2, SearchMatch1, SearchCat06,Action03,  , ,SearchCamp36,Site15,  ,Activity01,565
+tag03, method1, SearchMatch1, SearchCat06,Action03,  , ,SearchCamp36,Site15,  ,Activity01,718
+tag03, method2, SearchMatch1, SearchCat06,Action03,  , ,SearchCamp36,Site15,  ,Activity01,93
+tag01, method2, SearchMatch2, SearchCat06,Action03,  , ,SearchCamp36,Site15,  ,Activity01,95
+tag01, method1, SearchMatch2, SearchCat06,Action03,  , ,SearchCamp36,Site15,  ,Activity01,592
+tag02, method2, SearchMatch2, SearchCat06,Action03,  , ,SearchCamp36,Site15,  ,Activity01,139
+tag02, method1, SearchMatch2, SearchCat06,Action03,  , ,SearchCamp36,Site15,  ,Activity01,134
+tag01, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp37,Site15,  ,Activity01,208
+tag01, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp37,Site15,  ,Activity01,267
+tag02, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp37,Site15,  ,Activity01,895
+tag02, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp37,Site15,  ,Activity01,795
+tag03, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp37,Site15,  ,Activity01,936
+tag03, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp37,Site15,  ,Activity01,757
+tag01, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp37,Site15,  ,Activity01,691
+tag01, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp37,Site15,  ,Activity01,209
+tag02, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp37,Site15,  ,Activity01,475
+tag02, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp37,Site15,  ,Activity01,178
+tag03, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp37,Site15,  ,Activity01,904
+tag03, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp37,Site15,  ,Activity01,516
+tag04, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp37,Site15,  ,Activity01,469
+tag04, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp37,Site15,  ,Activity01,22
+tag01, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp38,Site15,  ,Activity01,2
+tag01, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp38,Site15,  ,Activity01,647
+tag03, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp38,Site15,  ,Activity01,327
+tag03, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp38,Site15,  ,Activity01,180
+tag01, method2, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp38,Site15,  ,Activity01,565
+tag01, method1, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp38,Site15,  ,Activity01,458
+tag01, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp39,Site15,  ,Activity01,468
+tag01, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp39,Site15,  ,Activity01,487
+tag02, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp39,Site15,  ,Activity01,642
+tag02, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp39,Site15,  ,Activity01,752
+tag02, method1, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp39,Site15,  ,Activity01,302
+tag02, method2, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp39,Site15,  ,Activity01,716
+tag01, method2, SearchMatch1, SearchCat01,Action03,  , ,SearchCamp40,Site15,  ,Activity01,102
+tag01, method1, SearchMatch1, SearchCat01,Action03,  , ,SearchCamp40,Site15,  ,Activity01,390
+tag02, method2, SearchMatch1, SearchCat01,Action03,  , ,SearchCamp40,Site15,  ,Activity01,273
+tag02, method1, SearchMatch1, SearchCat01,Action03,  , ,SearchCamp40,Site15,  ,Activity01,636
+tag03, method2, SearchMatch1, SearchCat01,Action03,  , ,SearchCamp40,Site15,  ,Activity01,357
+tag03, method1, SearchMatch1, SearchCat01,Action03,  , ,SearchCamp40,Site15,  ,Activity01,874
+tag01, method1, SearchMatch2, SearchCat01,Action03,  , ,SearchCamp40,Site15,  ,Activity01,202
+tag01, method2, SearchMatch2, SearchCat01,Action03,  , ,SearchCamp40,Site15,  ,Activity01,247
+tag02, method2, SearchMatch2, SearchCat01,Action03,  , ,SearchCamp40,Site15,  ,Activity01,747
+tag02, method1, SearchMatch2, SearchCat01,Action03,  , ,SearchCamp40,Site15,  ,Activity01,457
+tag03, method1, SearchMatch2, SearchCat01,Action03,  , ,SearchCamp40,Site15,  ,Activity01,347
+tag03, method2, SearchMatch2, SearchCat01,Action03,  , ,SearchCamp40,Site15,  ,Activity01,991
+tag01, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp41,Site15,  ,Activity01,123
+tag01, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp41,Site15,  ,Activity01,498
+tag01, method1, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp41,Site15,  ,Activity01,999
+tag01, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp42,Site15,  ,Activity01,407
+tag01, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp42,Site15,  ,Activity01,358
+tag02, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp42,Site15,  ,Activity01,131
+tag02, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp42,Site15,  ,Activity01,301
+tag03, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp42,Site15,  ,Activity01,229
+tag03, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp42,Site15,  ,Activity01,788
+tag04, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp42,Site15,  ,Activity01,771
+tag04, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp42,Site15,  ,Activity01,398
+tag01, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp42,Site15,  ,Activity01,428
+tag01, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp42,Site15,  ,Activity01,341
+tag02, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp42,Site15,  ,Activity01,240
+tag02, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp42,Site15,  ,Activity01,304
+tag03, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp42,Site15,  ,Activity01,599
+tag03, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp42,Site15,  ,Activity01,148
+tag01, method2, SearchMatch1, SearchCat01,Action03,  , ,SearchCamp43,Site15,  ,Activity01,783
+tag01, method1, SearchMatch1, SearchCat01,Action03,  , ,SearchCamp43,Site15,  ,Activity01,764
+tag02, method1, SearchMatch1, SearchCat01,Action03,  , ,SearchCamp43,Site15,  ,Activity01,426
+tag02, method2, SearchMatch1, SearchCat01,Action03,  , ,SearchCamp43,Site15,  ,Activity01,640
+tag03, method1, SearchMatch1, SearchCat01,Action03,  , ,SearchCamp43,Site15,  ,Activity01,580
+tag03, method2, SearchMatch1, SearchCat01,Action03,  , ,SearchCamp43,Site15,  ,Activity01,639
+tag01, method1, SearchMatch2, SearchCat01,Action03,  , ,SearchCamp43,Site15,  ,Activity01,753
+tag01, method2, SearchMatch2, SearchCat01,Action03,  , ,SearchCamp43,Site15,  ,Activity01,39
+tag02, method1, SearchMatch2, SearchCat01,Action03,  , ,SearchCamp43,Site15,  ,Activity01,929
+tag02, method2, SearchMatch2, SearchCat01,Action03,  , ,SearchCamp43,Site15,  ,Activity01,426
+tag03, method1, SearchMatch2, SearchCat01,Action03,  , ,SearchCamp43,Site15,  ,Activity01,565
+tag03, method2, SearchMatch2, SearchCat01,Action03,  , ,SearchCamp43,Site15,  ,Activity01,713
+tag01, method1, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp43,Site15,  ,Activity01,423
+tag01, method2, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp43,Site15,  ,Activity01,293
+tag02, method2, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp43,Site15,  ,Activity01,892
+tag02, method1, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp43,Site15,  ,Activity01,649
+tag03, method1, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp43,Site15,  ,Activity01,191
+tag03, method2, SearchMatch1, SearchCat05,Action03,  , ,SearchCamp43,Site15,  ,Activity01,625
+tag01, method2, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp43,Site15,  ,Activity01,592
+tag01, method1, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp43,Site15,  ,Activity01,304
+tag02, method1, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp43,Site15,  ,Activity01,589
+tag02, method2, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp43,Site15,  ,Activity01,285
+tag03, method1, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp43,Site15,  ,Activity01,969
+tag03, method2, SearchMatch2, SearchCat05,Action03,  , ,SearchCamp43,Site15,  ,Activity01,767
+tag01, method1, SearchMatch3, SearchCat05,Action03,  , ,SearchCamp43,Site15,  ,Activity01,482
+tag01, method2, SearchMatch3, SearchCat05,Action03,  , ,SearchCamp43,Site15,  ,Activity01,76
+tag02, method2, SearchMatch3, SearchCat05,Action03,  , ,SearchCamp43,Site15,  ,Activity01,208
+tag02, method1, SearchMatch3, SearchCat05,Action03,  , ,SearchCamp43,Site15,  ,Activity01,802
+tag03, method2, SearchMatch3, SearchCat05,Action03,  , ,SearchCamp43,Site15,  ,Activity01,744
+tag03, method1, SearchMatch3, SearchCat05,Action03,  , ,SearchCamp43,Site15,  ,Activity01,931
+tag01, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp44,Site15,  ,Activity01,792
+tag01, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp44,Site15,  ,Activity01,117
+tag02, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp44,Site15,  ,Activity01,164
+tag02, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp44,Site15,  ,Activity01,289
+tag03, method2, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp44,Site15,  ,Activity01,949
+tag03, method1, SearchMatch1, SearchCat02,Action03,  , ,SearchCamp44,Site15,  ,Activity01,977
+tag01, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp44,Site15,  ,Activity01,339
+tag01, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp44,Site15,  ,Activity01,104
+tag02, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp44,Site15,  ,Activity01,967
+tag02, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp44,Site15,  ,Activity01,124
+tag03, method1, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp44,Site15,  ,Activity01,509
+tag03, method2, SearchMatch2, SearchCat02,Action03,  , ,SearchCamp44,Site15,  ,Activity01,69
+tag01, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp45,Site15,  ,Activity01,404
+tag01, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp45,Site15,  ,Activity01,686
+tag02, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp45,Site15,  ,Activity01,453
+tag02, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp45,Site15,  ,Activity01,183
+tag01, method2, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp45,Site15,  ,Activity01,445
+tag01, method1, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp45,Site15,  ,Activity01,290
+tag02, method1, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp45,Site15,  ,Activity01,872
+tag01, method2, SearchMatch1,SearchCat03,Action03,  , ,SearchCamp46,Site15,  ,Activity01,737
+tag01, method1, SearchMatch1,SearchCat03,Action03,  , ,SearchCamp46,Site15,  ,Activity01,35
+tag02, method2, SearchMatch1,SearchCat03,Action03,  , ,SearchCamp46,Site15,  ,Activity01,467
+tag02, method1, SearchMatch1,SearchCat03,Action03,  , ,SearchCamp46,Site15,  ,Activity01,387
+tag01, method1, SearchMatch2,SearchCat03,Action03,  , ,SearchCamp46,Site15,  ,Activity01,984
+tag01, method2, SearchMatch2,SearchCat03,Action03,  , ,SearchCamp46,Site15,  ,Activity01,998
+tag02, method1, SearchMatch2,SearchCat03,Action03,  , ,SearchCamp46,Site15,  ,Activity01,655
+tag02, method2, SearchMatch2,SearchCat03,Action03,  , ,SearchCamp46,Site15,  ,Activity01,23
+tag01, method2, SearchMatch1,SearchCat03,Action03,  , ,SearchCamp47,Site15,  ,Activity01,133
+tag01, method1, SearchMatch1,SearchCat03,Action03,  , ,SearchCamp47,Site15,  ,Activity01,643
+tag02, method2, SearchMatch1,SearchCat03,Action03,  , ,SearchCamp47,Site15,  ,Activity01,91
+tag02, method1, SearchMatch1,SearchCat03,Action03,  , ,SearchCamp47,Site15,  ,Activity01,44
+tag01, method2, SearchMatch2,SearchCat03,Action03,  , ,SearchCamp47,Site15,  ,Activity01,388
+tag01, method1, SearchMatch2,SearchCat03,Action03,  , ,SearchCamp47,Site15,  ,Activity01,716
+tag02, method2, SearchMatch2,SearchCat03,Action03,  , ,SearchCamp47,Site15,  ,Activity01,459
+tag02, method1, SearchMatch2,SearchCat03,Action03,  , ,SearchCamp47,Site15,  ,Activity01,54
+tag03, method1, SearchMatch2,SearchCat03,Action03,  , ,SearchCamp47,Site15,  ,Activity01,993
+tag01, method1, SearchMatch2,SearchCat03,Action03,  , ,SearchCamp48,Site15,  ,Activity01,832
+tag01, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp49,Site15,  ,Activity01,688
+tag01, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp49,Site15,  ,Activity01,362
+tag01, method1, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp49,Site15,  ,Activity01,217
+tag01, method2, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp49,Site15,  ,Activity01,146
+tag01, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp51,Site15,  ,Activity01,720
+tag01, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp51,Site15,  ,Activity01,285
+tag02, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp51,Site15,  ,Activity01,394
+tag03, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp51,Site15,  ,Activity01,533
+tag01, method2, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp51,Site15,  ,Activity01,741
+tag01, method1, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp51,Site15,  ,Activity01,461
+tag01, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp52,Site15,  ,Activity01,179
+tag01, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp52,Site15,  ,Activity01,565
+tag02, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp52,Site15,  ,Activity01,61
+tag02, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp52,Site15,  ,Activity01,218
+tag03, method2, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp52,Site15,  ,Activity01,235
+tag03, method1, SearchMatch1, SearchCat04,Action03,  , ,SearchCamp52,Site15,  ,Activity01,813
+tag01, method2, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp52,Site15,  ,Activity01,523
+tag01, method1, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp52,Site15,  ,Activity01,573
+tag02, method1, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp52,Site15,  ,Activity01,52
+tag02, method2, SearchMatch2, SearchCat04,Action03,  , ,SearchCamp52,Site15,  ,Activity01,363
+tag01, method1, UNKNOWN, UNKNOWN,Action03,  , ,SearchCamp50,Site16,  ,Activity01,895
+tag01, method2, UNKNOWN, UNKNOWN,Action03,  , ,SearchCamp50,Site16,  ,Activity01,104
+tag02, method2, UNKNOWN, UNKNOWN,Action03,  , ,SearchCamp50,Site16,  ,Activity01,346
+tag02, method1, UNKNOWN, UNKNOWN,Action03,  , ,SearchCamp50,Site16,  ,Activity01,855
+tag03, method2, UNKNOWN, UNKNOWN,Action03,  , ,SearchCamp50,Site16,  ,Activity01,488
+tag03, method1, UNKNOWN, UNKNOWN,Action03,  , ,SearchCamp50,Site16,  ,Activity01,5
+tag01, method1,  ,  ,Action02,Campaign20, ,  ,Site17, UNKNOWN,Activity01,221
+tag01, method2,  ,  ,Action02,Campaign20, ,  ,Site17, UNKNOWN,Activity01,605
+tag01, method1,  ,  ,Action01,Campaign04, ,  ,Site18, Retail,Activity01,754
+tag01, method2,  ,  ,Action01,Campaign04, ,  ,Site18, Retail,Activity01,405
+tag02, method1,  ,  ,Action01,Campaign04, ,  ,Site18, Retail,Activity01,911
+tag01, method2,  ,  ,Action02,Campaign04, ,  ,Site18, Retail,Activity01,549
+tag01, method1,  ,  ,Action02,Campaign04, ,  ,Site18, Retail,Activity01,132
+tag02, method2,  ,  ,Action02,Campaign04, ,  ,Site18, Retail,Activity01,830
+tag02, method1,  ,  ,Action02,Campaign04, ,  ,Site18, Retail,Activity01,347
+tag03, method1,  ,  ,Action02,Campaign04, ,  ,Site18, Retail,Activity01,224
+tag01, method2,  ,  ,Action01,Campaign05, ,  ,Site18, Retail,Activity01,75
+tag01, method1,  ,  ,Action01,Campaign05, ,  ,Site18, Retail,Activity01,54
+tag01, method2,  ,  ,Action02,Campaign05, ,  ,Site18, Retail,Activity01,458
+tag01, method1,  ,  ,Action02,Campaign05, ,  ,Site18, Retail,Activity01,470
+tag02, method1,  ,  ,Action02,Campaign05, ,  ,Site18, Retail,Activity01,2
+tag01, method2,  ,  ,Action01,Campaign06, ,  ,Site18, Retail,Activity01,108
+tag01, method1,  ,  ,Action01,Campaign06, ,  ,Site18, Retail,Activity01,534
+tag01, method2,  ,  ,Action02,Campaign06, ,  ,Site18, Retail,Activity01,638
+tag01, method1,  ,  ,Action02,Campaign06, ,  ,Site18, Retail,Activity01,385
+tag01, method2,  ,  ,Action01,Campaign20, ,  ,Site18, UNKNOWN,Activity01,358
+tag01, method1,  ,  ,Action01,Campaign20, ,  ,Site18, UNKNOWN,Activity01,716
+tag01, method2,  ,  ,Action02,Campaign20, ,  ,Site18, UNKNOWN,Activity01,834
+tag01, method1,  ,  ,Action02,Campaign20, ,  ,Site18, UNKNOWN,Activity01,954
+tag01, method2,  ,  ,Action01,Campaign18, ,  ,Site19,Brand,Activity01,638
+tag01, method1,  ,  ,Action01,Campaign18, ,  ,Site19,Brand,Activity01,45
+tag02, method2,  ,  ,Action01,Campaign18, ,  ,Site19,Brand,Activity01,559
+tag02, method1,  ,  ,Action01,Campaign18, ,  ,Site19,Brand,Activity01,888
+tag03, method2,  ,  ,Action01,Campaign18, ,  ,Site19,Brand,Activity01,206
+tag03, method1,  ,  ,Action01,Campaign18, ,  ,Site19,Brand,Activity01,853
+tag01, method2,  ,  ,Action02,Campaign07, ,  ,Site20,Brand,Activity01,749
+tag01, method1,  ,  ,Action02,Campaign07, ,  ,Site20,Brand,Activity01,336
+tag02, method1,  ,  ,Action02,Campaign07, ,  ,Site20,Brand,Activity01,197
+tag01, method2,  ,  ,Action01,Campaign09, ,  ,Site21,Brand,Activity01,412
+tag01, method1,  ,  ,Action01,Campaign09, ,  ,Site21,Brand,Activity01,672
+tag01, method1,  ,  ,Action01,Campaign18, ,  ,Site21,Brand,Activity01,538
+tag01, method2,  ,  ,Action01,Campaign18, ,  ,Site21,Brand,Activity01,12
+tag02, method2,  ,  ,Action01,Campaign18, ,  ,Site21,Brand,Activity01,832
+tag02, method1,  ,  ,Action01,Campaign18, ,  ,Site21,Brand,Activity01,185
+tag01, method1,  ,  ,Action02,Campaign18, ,  ,Site21,Brand,Activity01,238
+tag01, method2,  ,  ,Action02,Campaign18, ,  ,Site21,Brand,Activity01,341
+tag02, method2,  ,  ,Action02,Campaign18, ,  ,Site21,Brand,Activity01,634
+tag02, method1,  ,  ,Action02,Campaign18, ,  ,Site21,Brand,Activity01,911
+tag03, method2,  ,  ,Action02,Campaign18, ,  ,Site21,Brand,Activity01,936
+tag03, method1,  ,  ,Action02,Campaign18, ,  ,Site21,Brand,Activity01,767
+tag01, method1,  ,  ,Action01,Campaign06, ,  ,Site22, Retail,Activity01,158
+tag01, method2,  ,  ,Action01,Campaign06, ,  ,Site22, Retail,Activity01,598
+tag01, method2,  ,  ,Action02,Campaign06, ,  ,Site22, Retail,Activity01,247
+tag01, method1,  ,  ,Action02,Campaign06, ,  ,Site22, Retail,Activity01,983
+tag02, method1,  ,  ,Action02,Campaign06, ,  ,Site22, Retail,Activity01,162
+tag03, method1,  ,  ,Action02,Campaign06, ,  ,Site22, Retail,Activity01,434
+tag03, method2,  ,  ,Action02,Campaign06, ,  ,Site22, Retail,Activity01,869
+tag01, method1,  ,  ,Action01,Campaign08, ,  ,Site22,Brand,Activity01,486
+tag01, method2,  ,  ,Action01,Campaign08, ,  ,Site22,Brand,Activity01,605
+tag02, method2,  ,  ,Action01,Campaign08, ,  ,Site22,Brand,Activity01,987
+tag02, method1,  ,  ,Action01,Campaign08, ,  ,Site22,Brand,Activity01,412
+tag01, method1,  ,  ,Action02,Campaign08, ,  ,Site22,Brand,Activity01,64
+tag01, method2,  ,  ,Action02,Campaign08, ,  ,Site22,Brand,Activity01,169
+tag02, method2,  ,  ,Action02,Campaign08, ,  ,Site22,Brand,Activity01,600
+tag02, method1,  ,  ,Action02,Campaign08, ,  ,Site22,Brand,Activity01,340
+tag03, method1,  ,  ,Action02,Campaign08, ,  ,Site22,Brand,Activity01,788
+tag01, method2,  ,  ,Action01,Campaign18, ,  ,Site22,Brand,Activity01,990
+tag01, method1,  ,  ,Action01,Campaign18, ,  ,Site22,Brand,Activity01,693
+tag01, method1,  ,  ,Action02,Campaign18, ,  ,Site22,Brand,Activity01,58
+tag01, method2,  ,  ,Action02,Campaign18, ,  ,Site22,Brand,Activity01,489
+tag02, method1,  ,  ,Action02,Campaign18, ,  ,Site22,Brand,Activity01,56
+tag03, method1,  ,  ,Action02,Campaign18, ,  ,Site22,Brand,Activity01,127
+tag01, method2,  ,  ,Action01,Campaign08, ,  ,Site23,Brand,Activity01,79
+tag01, method1,  ,  ,Action01,Campaign08, ,  ,Site23,Brand,Activity01,202
+tag02, method2,  ,  ,Action01,Campaign08, ,  ,Site23,Brand,Activity01,481
+tag02, method1,  ,  ,Action01,Campaign08, ,  ,Site23,Brand,Activity01,958
+tag03, method2,  ,  ,Action01,Campaign08, ,  ,Site23,Brand,Activity01,146
+tag03, method1,  ,  ,Action01,Campaign08, ,  ,Site23,Brand,Activity01,808
+tag01, method1,  ,  ,Action02,Campaign08, ,  ,Site23,Brand,Activity01,736
+tag01, method2,  ,  ,Action02,Campaign08, ,  ,Site23,Brand,Activity01,838
+tag02, method1,  ,  ,Action02,Campaign08, ,  ,Site23,Brand,Activity01,960
+tag02, method2,  ,  ,Action02,Campaign08, ,  ,Site23,Brand,Activity01,404
+tag03, method2,  ,  ,Action02,Campaign08, ,  ,Site23,Brand,Activity01,74
+tag03, method1,  ,  ,Action02,Campaign08, ,  ,Site23,Brand,Activity01,605
+tag01, method1,  ,  ,Action01,Campaign10, ,  ,Site23,Brand,Activity01,90
+tag01, method2,  ,  ,Action01,Campaign10, ,  ,Site23,Brand,Activity01,776
+tag01, method1,  ,  ,Action02,Campaign10, ,  ,Site23,Brand,Activity01,703
+tag01, method2,  ,  ,Action01,Campaign18, ,  ,Site23,Brand,Activity01,883
+tag01, method1,  ,  ,Action01,Campaign18, ,  ,Site23,Brand,Activity01,301
+tag02, method1,  ,  ,Action01,Campaign18, ,  ,Site23,Brand,Activity01,4
+tag02, method2,  ,  ,Action01,Campaign18, ,  ,Site23,Brand,Activity01,542
+tag03, method1,  ,  ,Action01,Campaign18, ,  ,Site23,Brand,Activity01,375
+tag03, method2,  ,  ,Action01,Campaign18, ,  ,Site23,Brand,Activity01,432
+tag01, method2,  ,  ,Action02,Campaign18, ,  ,Site23,Brand,Activity01,430
+tag01, method1,  ,  ,Action02,Campaign18, ,  ,Site23,Brand,Activity01,336
+tag02, method2,  ,  ,Action02,Campaign18, ,  ,Site23,Brand,Activity01,766
+tag02, method1,  ,  ,Action02,Campaign18, ,  ,Site23,Brand,Activity01,390
+tag03, method1,  ,  ,Action02,Campaign18, ,  ,Site23,Brand,Activity01,420
+tag03, method2,  ,  ,Action02,Campaign18, ,  ,Site23,Brand,Activity01,347
+tag01, method2,  ,  ,Action01,Campaign05, ,  ,Site24,Brand,Activity01,783
+tag01, method1,  ,  ,Action01,Campaign05, ,  ,Site24,Brand,Activity01,479
+tag01, method1,  ,  ,Action02,Campaign05, ,  ,Site24,Brand,Activity01,80
+tag01, method2,  ,  ,Action02,Campaign05, ,  ,Site24,Brand,Activity01,622
+tag02, method1,  ,  ,Action02,Campaign05, ,  ,Site24,Brand,Activity01,211
+tag02, method2,  ,  ,Action02,Campaign05, ,  ,Site24,Brand,Activity01,484
+tag03, method1,  ,  ,Action02,Campaign05, ,  ,Site24,Brand,Activity01,444
+tag01, method2,  ,  ,Action01,Campaign08, ,  ,Site25,Brand,Activity01,370
+tag01, method1,  ,  ,Action01,Campaign08, ,  ,Site25,Brand,Activity01,459
+tag02, method1,  ,  ,Action01,Campaign08, ,  ,Site25,Brand,Activity01,422
+tag02, method2,  ,  ,Action01,Campaign08, ,  ,Site25,Brand,Activity01,309
+tag01, method2,  ,  ,Action02,Campaign08, ,  ,Site25,Brand,Activity01,817
+tag01, method1,  ,  ,Action02,Campaign08, ,  ,Site25,Brand,Activity01,886
+tag02, method2,  ,  ,Action02,Campaign08, ,  ,Site25,Brand,Activity01,893
+tag02, method1,  ,  ,Action02,Campaign08, ,  ,Site25,Brand,Activity01,324
+tag03, method2,  ,  ,Action02,Campaign08, ,  ,Site25,Brand,Activity01,947
+tag03, method1,  ,  ,Action02,Campaign08, ,  ,Site25,Brand,Activity01,756
+tag01, method2,  ,  ,Action01,Campaign20, ,  ,Site25, UNKNOWN,Activity01,999
+tag01, method1,  ,  ,Action01,Campaign20, ,  ,Site25, UNKNOWN,Activity01,203
+tag01, method1,  ,  ,Action02,Campaign20, ,  ,Site25, UNKNOWN,Activity01,263
+tag01, method2,  ,  ,Action02,Campaign20, ,  ,Site25, UNKNOWN,Activity01,982
+tag01, method1,  ,  ,Action01,Campaign04, ,  ,Site26, Retail,Activity01,38
+tag01, method2,  ,  ,Action01,Campaign04, ,  ,Site26, Retail,Activity01,821
+tag03, method1,  ,  ,Action01,Campaign04, ,  ,Site26, Retail,Activity01,689
+tag01, method2,  ,  ,Action02,Campaign04, ,  ,Site26, Retail,Activity01,948
+tag01, method1,  ,  ,Action02,Campaign04, ,  ,Site26, Retail,Activity01,797
+tag02, method2,  ,  ,Action02,Campaign04, ,  ,Site26, Retail,Activity01,819
+tag02, method1,  ,  ,Action02,Campaign04, ,  ,Site26, Retail,Activity01,56
+tag03, method2,  ,  ,Action02,Campaign04, ,  ,Site26, Retail,Activity01,169
+tag03, method1,  ,  ,Action02,Campaign04, ,  ,Site26, Retail,Activity01,164
+tag01, method1,  ,  ,Action01,Campaign05, ,  ,Site26, Retail,Activity01,978
+tag01, method2,  ,  ,Action01,Campaign05, ,  ,Site26, Retail,Activity01,314
+tag02, method2,  ,  ,Action01,Campaign05, ,  ,Site26, Retail,Activity01,309
+tag02, method1,  ,  ,Action01,Campaign05, ,  ,Site26, Retail,Activity01,190
+tag03, method1,  ,  ,Action01,Campaign05, ,  ,Site26, Retail,Activity01,361
+tag01, method1,  ,  ,Action02,Campaign05, ,  ,Site26, Retail,Activity01,824
+tag01, method2,  ,  ,Action02,Campaign05, ,  ,Site26, Retail,Activity01,528
+tag02, method2,  ,  ,Action02,Campaign05, ,  ,Site26, Retail,Activity01,585
+tag02, method1,  ,  ,Action02,Campaign05, ,  ,Site26, Retail,Activity01,905
+tag03, method2,  ,  ,Action02,Campaign05, ,  ,Site26, Retail,Activity01,148
+tag03, method1,  ,  ,Action02,Campaign05, ,  ,Site26, Retail,Activity01,936
+tag01, method1,  ,  ,Action01,Campaign06, ,  ,Site26, Retail,Activity01,345
+tag01, method2,  ,  ,Action01,Campaign06, ,  ,Site26, Retail,Activity01,365
+tag03, method1,  ,  ,Action01,Campaign06, ,  ,Site26, Retail,Activity01,853
+tag03, method2,  ,  ,Action01,Campaign06, ,  ,Site26, Retail,Activity01,184
+tag01, method1,  ,  ,Action02,Campaign06, ,  ,Site26, Retail,Activity01,664
+tag01, method2,  ,  ,Action02,Campaign06, ,  ,Site26, Retail,Activity01,610
+tag02, method1,  ,  ,Action02,Campaign06, ,  ,Site26, Retail,Activity01,870
+tag02, method2,  ,  ,Action02,Campaign06, ,  ,Site26, Retail,Activity01,516
+tag03, method1,  ,  ,Action02,Campaign06, ,  ,Site26, Retail,Activity01,160
+tag01, method1,  ,  ,Action02,Campaign09, ,  ,Site26,Brand,Activity01,508
+tag02, method1,  ,  ,Action02,Campaign09, ,  ,Site26,Brand,Activity01,970
+tag01, method1,  ,  ,Action01,Campaign14, ,  ,Site26, Retail,Activity01,63
+tag01, method2,  ,  ,Action01,Campaign14, ,  ,Site26, Retail,Activity01,553
+tag03, method2,  ,  ,Action01,Campaign14, ,  ,Site26, Retail,Activity01,446
+tag03, method1,  ,  ,Action01,Campaign14, ,  ,Site26, Retail,Activity01,450
+tag01, method1,  ,  ,Action02,Campaign14, ,  ,Site26, Retail,Activity01,116
+tag01, method2,  ,  ,Action02,Campaign14, ,  ,Site26, Retail,Activity01,446
+tag02, method2,  ,  ,Action02,Campaign14, ,  ,Site26, Retail,Activity01,247
+tag02, method1,  ,  ,Action02,Campaign14, ,  ,Site26, Retail,Activity01,34
+tag03, method1,  ,  ,Action02,Campaign14, ,  ,Site26, Retail,Activity01,186
+tag01, method1,  ,  ,Action01,Campaign18, ,  ,Site26,Brand,Activity01,401
+tag01, method2,  ,  ,Action01,Campaign18, ,  ,Site26,Brand,Activity01,161
+tag02, method1,  ,  ,Action01,Campaign18, ,  ,Site26,Brand,Activity01,992
+tag03, method2,  ,  ,Action01,Campaign18, ,  ,Site26,Brand,Activity01,959
+tag03, method1,  ,  ,Action01,Campaign18, ,  ,Site26,Brand,Activity01,331
+tag01, method2,  ,  ,Action02,Campaign18, ,  ,Site26,Brand,Activity01,407
+tag01, method1,  ,  ,Action02,Campaign18, ,  ,Site26,Brand,Activity01,611
+tag02, method2,  ,  ,Action02,Campaign18, ,  ,Site26,Brand,Activity01,989
+tag02, method1,  ,  ,Action02,Campaign18, ,  ,Site26,Brand,Activity01,927
+tag03, method1,  ,  ,Action02,Campaign18, ,  ,Site26,Brand,Activity01,30
+tag01, method2,  ,  ,Action01,Campaign01, ,  ,Site27, Retail,Activity01,626
+tag01, method1,  ,  ,Action01,Campaign01, ,  ,Site27, Retail,Activity01,851
+tag02, method1,  ,  ,Action01,Campaign01, ,  ,Site27, Retail,Activity01,184
+tag03, method1,  ,  ,Action01,Campaign01, ,  ,Site27, Retail,Activity01,92
+tag01, method1,  ,  ,Action01,Campaign03, ,  ,Site27,Brand,Activity01,194
+tag01, method2,  ,  ,Action01,Campaign03, ,  ,Site27,Brand,Activity01,934
+tag01, method1,  ,  ,Action01,Campaign04, ,  ,Site27, Retail,Activity01,684
+tag01, method2,  ,  ,Action01,Campaign04, ,  ,Site27, Retail,Activity01,724
+tag02, method2,  ,  ,Action01,Campaign04, ,  ,Site27, Retail,Activity01,689
+tag02, method1,  ,  ,Action01,Campaign04, ,  ,Site27, Retail,Activity01,497
+tag03, method2,  ,  ,Action01,Campaign04, ,  ,Site27, Retail,Activity01,116
+tag03, method1,  ,  ,Action01,Campaign04, ,  ,Site27, Retail,Activity01,45
+tag01, method2,  ,  ,Action01,Campaign05, ,  ,Site27, Retail,Activity01,107
+tag01, method1,  ,  ,Action01,Campaign05, ,  ,Site27, Retail,Activity01,169
+tag01, method1,  ,  ,Action01,Campaign06, ,  ,Site27, Retail,Activity01,355
+tag01, method2,  ,  ,Action01,Campaign06, ,  ,Site27, Retail,Activity01,680
+tag02, method2,  ,  ,Action01,Campaign06, ,  ,Site27, Retail,Activity01,160
+tag02, method1,  ,  ,Action01,Campaign06, ,  ,Site27, Retail,Activity01,238
+tag03, method2,  ,  ,Action01,Campaign06, ,  ,Site27, Retail,Activity01,373
+tag03, method1,  ,  ,Action01,Campaign06, ,  ,Site27, Retail,Activity01,331
+tag01, method2,  ,  ,Action01,Campaign11, ,  ,Site27, Retail,Activity01,165
+tag01, method1,  ,  ,Action01,Campaign11, ,  ,Site27, Retail,Activity01,87
+tag02, method2,  ,  ,Action01,Campaign11, ,  ,Site27, Retail,Activity01,238
+tag02, method1,  ,  ,Action01,Campaign11, ,  ,Site27, Retail,Activity01,866
+tag03, method1,  ,  ,Action01,Campaign11, ,  ,Site27, Retail,Activity01,698
+tag03, method2,  ,  ,Action01,Campaign11, ,  ,Site27, Retail,Activity01,974
+tag01, method2,  ,  ,Action01,Campaign13, ,  ,Site27, Retail,Activity01,348
+tag01, method1,  ,  ,Action01,Campaign13, ,  ,Site27, Retail,Activity01,739
+tag02, method2,  ,  ,Action01,Campaign13, ,  ,Site27, Retail,Activity01,572
+tag02, method1,  ,  ,Action01,Campaign13, ,  ,Site27, Retail,Activity01,248
+tag03, method2,  ,  ,Action01,Campaign13, ,  ,Site27, Retail,Activity01,742
+tag03, method1,  ,  ,Action01,Campaign13, ,  ,Site27, Retail,Activity01,697
+tag01, method2,  ,  ,Action01,Campaign14, ,  ,Site27, Retail,Activity01,77
+tag01, method1,  ,  ,Action01,Campaign14, ,  ,Site27, Retail,Activity01,635
+tag02, method2,  ,  ,Action01,Campaign14, ,  ,Site27, Retail,Activity01,611
+tag02, method1,  ,  ,Action01,Campaign14, ,  ,Site27, Retail,Activity01,669
+tag03, method1,  ,  ,Action01,Campaign14, ,  ,Site27, Retail,Activity01,568
+tag03, method2,  ,  ,Action01,Campaign14, ,  ,Site27, Retail,Activity01,123
+tag01, method2,  ,  ,Action01,Campaign15, ,  ,Site27, Retail,Activity01,600
+tag01, method1,  ,  ,Action01,Campaign15, ,  ,Site27, Retail,Activity01,828
+tag02, method1,  ,  ,Action01,Campaign15, ,  ,Site27, Retail,Activity01,387
+tag02, method2,  ,  ,Action01,Campaign15, ,  ,Site27, Retail,Activity01,418
+tag03, method1,  ,  ,Action01,Campaign15, ,  ,Site27, Retail,Activity01,110
+tag03, method2,  ,  ,Action01,Campaign15, ,  ,Site27, Retail,Activity01,759
+tag01, method2,  ,  ,Action01,Campaign16, ,  ,Site27, Retail,Activity01,678
+tag01, method1,  ,  ,Action01,Campaign16, ,  ,Site27, Retail,Activity01,810
+tag02, method2,  ,  ,Action01,Campaign16, ,  ,Site27, Retail,Activity01,564
+tag02, method1,  ,  ,Action01,Campaign16, ,  ,Site27, Retail,Activity01,330
+tag03, method1,  ,  ,Action01,Campaign16, ,  ,Site27, Retail,Activity01,137
+tag03, method2,  ,  ,Action01,Campaign16, ,  ,Site27, Retail,Activity01,505
+tag01, method1,  ,  ,Action01,Campaign18, ,  ,Site27,Brand,Activity01,564
+tag01, method2,  ,  ,Action01,Campaign18, ,  ,Site27,Brand,Activity01,297
+tag02, method2,  ,  ,Action01,Campaign18, ,  ,Site27,Brand,Activity01,870
+tag02, method1,  ,  ,Action01,Campaign18, ,  ,Site27,Brand,Activity01,221
+tag03, method2,  ,  ,Action01,Campaign18, ,  ,Site27,Brand,Activity01,29
+tag03, method1,  ,  ,Action01,Campaign18, ,  ,Site27,Brand,Activity01,87
+tag01, method2,  ,  ,Action02,Campaign20, ,  ,Site28, UNKNOWN,Activity01,184
+tag01, method1,  ,  ,Action02,Campaign20, ,  ,Site28, UNKNOWN,Activity01,587
+tag01, method2,  ,  ,Action01,Campaign08, ,  ,Site29,Brand,Activity01,298
+tag01, method1,  ,  ,Action01,Campaign08, ,  ,Site29,Brand,Activity01,451
+tag02, method2,  ,  ,Action01,Campaign08, ,  ,Site29,Brand,Activity01,624
+tag02, method1,  ,  ,Action01,Campaign08, ,  ,Site29,Brand,Activity01,660
+tag03, method2,  ,  ,Action01,Campaign08, ,  ,Site29,Brand,Activity01,137
+tag03, method1,  ,  ,Action01,Campaign08, ,  ,Site29,Brand,Activity01,107
+tag01, method1,  ,  ,Action02,Campaign08, ,  ,Site29,Brand,Activity01,217
+tag01, method2,  ,  ,Action02,Campaign08, ,  ,Site29,Brand,Activity01,246
+tag02, method2,  ,  ,Action02,Campaign08, ,  ,Site29,Brand,Activity01,237
+tag02, method1,  ,  ,Action02,Campaign08, ,  ,Site29,Brand,Activity01,925
+tag03, method2,  ,  ,Action02,Campaign08, ,  ,Site29,Brand,Activity01,318
+tag03, method1,  ,  ,Action02,Campaign08, ,  ,Site29,Brand,Activity01,664
+tag01, method2,  ,  ,Action01,Campaign20, ,  ,Site29, UNKNOWN,Activity01,630
+tag01, method1,  ,  ,Action01,Campaign20, ,  ,Site29, UNKNOWN,Activity01,303
+tag02, method2,  ,  ,Action01,Campaign20, ,  ,Site29, UNKNOWN,Activity01,236
+tag02, method1,  ,  ,Action01,Campaign20, ,  ,Site29, UNKNOWN,Activity01,870
+tag01, method1,  ,  ,Action02,Campaign20, ,  ,Site29, UNKNOWN,Activity01,438
+tag01, method2,  ,  ,Action02,Campaign20, ,  ,Site29, UNKNOWN,Activity01,249
+tag02, method2,  ,  ,Action02,Campaign20, ,  ,Site29, UNKNOWN,Activity01,678
+tag02, method1,  ,  ,Action02,Campaign20, ,  ,Site29, UNKNOWN,Activity01,364
+tag01, method1,  ,  ,Action01,Campaign06, ,  ,Site30, Retail,Activity01,44
+tag01, method2,  ,  ,Action01,Campaign06, ,  ,Site30, Retail,Activity01,559
+tag01, method1,  ,  ,Action02,Campaign06, ,  ,Site30, Retail,Activity01,519
+tag01, method2,  ,  ,Action02,Campaign06, ,  ,Site30, Retail,Activity01,296
+tag02, method2,  ,  ,Action02,Campaign06, ,  ,Site30, Retail,Activity01,43
+tag02, method1,  ,  ,Action02,Campaign06, ,  ,Site30, Retail,Activity01,2
+tag03, method2,  ,  ,Action02,Campaign06, ,  ,Site30, Retail,Activity01,116
+tag03, method1,  ,  ,Action02,Campaign06, ,  ,Site30, Retail,Activity01,437
+tag01, method2,  ,  ,Action01,Campaign20, ,  ,Site30, UNKNOWN,Activity01,678
+tag01, method1,  ,  ,Action01,Campaign20, ,  ,Site30, UNKNOWN,Activity01,120
+tag01, method1,  ,  ,Action02,Campaign20, ,  ,Site30, UNKNOWN,Activity01,28
+tag01, method2,  ,  ,Action02,Campaign20, ,  ,Site30, UNKNOWN,Activity01,494
+tag01, method2,  ,  ,Action01,Campaign06, ,  ,Site31, Retail,Activity01,988
+tag01, method1,  ,  ,Action01,Campaign06, ,  ,Site31, Retail,Activity01,374
+tag02, method2,  ,  ,Action01,Campaign06, ,  ,Site31, Retail,Activity01,143
+tag02, method1,  ,  ,Action01,Campaign06, ,  ,Site31, Retail,Activity01,314
+tag01, method1,  ,  ,Action02,Campaign06, ,  ,Site31, Retail,Activity01,155
+tag01, method2,  ,  ,Action02,Campaign06, ,  ,Site31, Retail,Activity01,85
+tag02, method2,  ,  ,Action02,Campaign06, ,  ,Site31, Retail,Activity01,945
+tag02, method1,  ,  ,Action02,Campaign06, ,  ,Site31, Retail,Activity01,888
+tag03, method1,  ,  ,Action02,Campaign06, ,  ,Site31, Retail,Activity01,364
+tag03, method2,  ,  ,Action02,Campaign06, ,  ,Site31, Retail,Activity01,50
+tag01, method2,  ,  ,Action01,Campaign08, ,  ,Site31,Brand,Activity01,483
+tag01, method1,  ,  ,Action01,Campaign08, ,  ,Site31,Brand,Activity01,483
+tag02, method1,  ,  ,Action01,Campaign08, ,  ,Site31,Brand,Activity01,911
+tag02, method2,  ,  ,Action01,Campaign08, ,  ,Site31,Brand,Activity01,706
+tag03, method1,  ,  ,Action01,Campaign08, ,  ,Site31,Brand,Activity01,161
+tag03, method2,  ,  ,Action01,Campaign08, ,  ,Site31,Brand,Activity01,748
+tag01, method2,  ,  ,Action02,Campaign08, ,  ,Site31,Brand,Activity01,567
+tag01, method1,  ,  ,Action02,Campaign08, ,  ,Site31,Brand,Activity01,784
+tag02, method1,  ,  ,Action02,Campaign08, ,  ,Site31,Brand,Activity01,441
+tag02, method2,  ,  ,Action02,Campaign08, ,  ,Site31,Brand,Activity01,725
+tag03, method1,  ,  ,Action02,Campaign08, ,  ,Site31,Brand,Activity01,807
+tag03, method2,  ,  ,Action02,Campaign08, ,  ,Site31,Brand,Activity01,931
+tag01, method1,  ,  ,Action02,Campaign09, ,  ,Site31,Brand,Activity01,13
+tag01, method2,  ,  ,Action01,Campaign11, ,  ,Site31, Retail,Activity01,13
+tag01, method1,  ,  ,Action01,Campaign11, ,  ,Site31, Retail,Activity01,307
+tag01, method2,  ,  ,Action02,Campaign11, ,  ,Site31, Retail,Activity01,900
+tag01, method1,  ,  ,Action02,Campaign11, ,  ,Site31, Retail,Activity01,26
+tag02, method2,  ,  ,Action02,Campaign11, ,  ,Site31, Retail,Activity01,235
+tag02, method1,  ,  ,Action02,Campaign11, ,  ,Site31, Retail,Activity01,82
+tag03, method2,  ,  ,Action02,Campaign11, ,  ,Site31, Retail,Activity01,669
+tag03, method1,  ,  ,Action02,Campaign11, ,  ,Site31, Retail,Activity01,798
+tag01, method2,  ,  ,Action01,Campaign13, ,  ,Site31, Retail,Activity01,373
+tag01, method1,  ,  ,Action01,Campaign13, ,  ,Site31, Retail,Activity01,381
+tag03, method2,  ,  ,Action01,Campaign13, ,  ,Site31, Retail,Activity01,807
+tag03, method1,  ,  ,Action01,Campaign13, ,  ,Site31, Retail,Activity01,428
+tag01, method1,  ,  ,Action02,Campaign13, ,  ,Site31, Retail,Activity01,96
+tag01, method2,  ,  ,Action02,Campaign13, ,  ,Site31, Retail,Activity01,796
+tag02, method1,  ,  ,Action02,Campaign13, ,  ,Site31, Retail,Activity01,826
+tag02, method2,  ,  ,Action02,Campaign13, ,  ,Site31, Retail,Activity01,343
+tag03, method1,  ,  ,Action02,Campaign13, ,  ,Site31, Retail,Activity01,635
+tag03, method2,  ,  ,Action02,Campaign13, ,  ,Site31, Retail,Activity01,282
+tag01, method2,  ,  ,Action01,Campaign14, ,  ,Site31, Retail,Activity01,990
+tag01, method1,  ,  ,Action01,Campaign14, ,  ,Site31, Retail,Activity01,165
+tag02, method1,  ,  ,Action01,Campaign14, ,  ,Site31, Retail,Activity01,906
+tag02, method2,  ,  ,Action01,Campaign14, ,  ,Site31, Retail,Activity01,349
+tag03, method1,  ,  ,Action01,Campaign14, ,  ,Site31, Retail,Activity01,649
+tag01, method2,  ,  ,Action02,Campaign14, ,  ,Site31, Retail,Activity01,90
+tag01, method1,  ,  ,Action02,Campaign14, ,  ,Site31, Retail,Activity01,54
+tag02, method2,  ,  ,Action02,Campaign14, ,  ,Site31, Retail,Activity01,909
+tag02, method1,  ,  ,Action02,Campaign14, ,  ,Site31, Retail,Activity01,493
+tag03, method2,  ,  ,Action02,Campaign14, ,  ,Site31, Retail,Activity01,990
+tag03, method1,  ,  ,Action02,Campaign14, ,  ,Site31, Retail,Activity01,222
+tag01, method2,  ,  ,Action01,Campaign15, ,  ,Site31, Retail,Activity01,750
+tag01, method1,  ,  ,Action01,Campaign15, ,  ,Site31, Retail,Activity01,599
+tag02, method1,  ,  ,Action01,Campaign15, ,  ,Site31, Retail,Activity01,451
+tag02, method2,  ,  ,Action01,Campaign15, ,  ,Site31, Retail,Activity01,751
+tag03, method1,  ,  ,Action01,Campaign15, ,  ,Site31, Retail,Activity01,133
+tag01, method2,  ,  ,Action02,Campaign15, ,  ,Site31, Retail,Activity01,761
+tag01, method1,  ,  ,Action02,Campaign15, ,  ,Site31, Retail,Activity01,73
+tag02, method2,  ,  ,Action02,Campaign15, ,  ,Site31, Retail,Activity01,365
+tag02, method1,  ,  ,Action02,Campaign15, ,  ,Site31, Retail,Activity01,419
+tag03, method1,  ,  ,Action02,Campaign15, ,  ,Site31, Retail,Activity01,507
+tag03, method2,  ,  ,Action02,Campaign15, ,  ,Site31, Retail,Activity01,241
+tag04, method1,  ,  ,Action02,Campaign15, ,  ,Site31, Retail,Activity01,453
+tag01, method2,  ,  ,Action01,Campaign16, ,  ,Site31, Retail,Activity01,296
+tag01, method1,  ,  ,Action01,Campaign16, ,  ,Site31, Retail,Activity01,411
+tag02, method1,  ,  ,Action01,Campaign16, ,  ,Site31, Retail,Activity01,610
+tag02, method2,  ,  ,Action01,Campaign16, ,  ,Site31, Retail,Activity01,457
+tag03, method1,  ,  ,Action01,Campaign16, ,  ,Site31, Retail,Activity01,722
+tag03, method2,  ,  ,Action01,Campaign16, ,  ,Site31, Retail,Activity01,327
+tag01, method2,  ,  ,Action02,Campaign16, ,  ,Site31, Retail,Activity01,227
+tag01, method1,  ,  ,Action02,Campaign16, ,  ,Site31, Retail,Activity01,529
+tag02, method2,  ,  ,Action02,Campaign16, ,  ,Site31, Retail,Activity01,456
+tag02, method1,  ,  ,Action02,Campaign16, ,  ,Site31, Retail,Activity01,198
+tag03, method1,  ,  ,Action02,Campaign16, ,  ,Site31, Retail,Activity01,472
+tag03, method2,  ,  ,Action02,Campaign16, ,  ,Site31, Retail,Activity01,540
+tag01, method1,  ,  ,Action01,Campaign18, ,  ,Site31,Brand,Activity01,796
+tag01, method2,  ,  ,Action01,Campaign18, ,  ,Site31,Brand,Activity01,991
+tag02, method1,  ,  ,Action01,Campaign18, ,  ,Site31,Brand,Activity01,573
+tag02, method2,  ,  ,Action01,Campaign18, ,  ,Site31,Brand,Activity01,68
+tag03, method1,  ,  ,Action01,Campaign18, ,  ,Site31,Brand,Activity01,481
+tag03, method2,  ,  ,Action01,Campaign18, ,  ,Site31,Brand,Activity01,790
+tag01, method2,  ,  ,Action02,Campaign18, ,  ,Site31,Brand,Activity01,838
+tag01, method1,  ,  ,Action02,Campaign18, ,  ,Site31,Brand,Activity01,880
+tag02, method2,  ,  ,Action02,Campaign18, ,  ,Site31,Brand,Activity01,686
+tag02, method1,  ,  ,Action02,Campaign18, ,  ,Site31,Brand,Activity01,151
+tag03, method2,  ,  ,Action02,Campaign18, ,  ,Site31,Brand,Activity01,669
+tag03, method1,  ,  ,Action02,Campaign18, ,  ,Site31,Brand,Activity01,428
+tag01, method2,  ,  ,Action01,Campaign20, ,  ,Site31, UNKNOWN,Activity01,171
+tag01, method1,  ,  ,Action01,Campaign20, ,  ,Site31, UNKNOWN,Activity01,317
+tag01, method2,  ,  ,Action02,Campaign20, ,  ,Site31, UNKNOWN,Activity01,466
+tag01, method1,  ,  ,Action02,Campaign20, ,  ,Site31, UNKNOWN,Activity01,425
+tag02, method2,  ,  ,Action02,Campaign20, ,  ,Site31, UNKNOWN,Activity01,369
+tag02, method1,  ,  ,Action02,Campaign20, ,  ,Site31, UNKNOWN,Activity01,396
+tag03, method1,  ,  ,Action02,Campaign20, ,  ,Site31, UNKNOWN,Activity01,854
+tag03, method2,  ,  ,Action02,Campaign20, ,  ,Site31, UNKNOWN,Activity01,439
+tag04, method1,  ,  ,Action02,Campaign20, ,  ,Site31, UNKNOWN,Activity01,883
+tag01, method2,  ,  ,Action01,Campaign14, ,  ,Site32, Retail,Activity01,308
+tag01, method1,  ,  ,Action01,Campaign14, ,  ,Site32, Retail,Activity01,551
+tag02, method2,  ,  ,Action01,Campaign14, ,  ,Site32, Retail,Activity01,296
+tag02, method1,  ,  ,Action01,Campaign14, ,  ,Site32, Retail,Activity01,340
+tag01, method1,  ,  ,Action02,Campaign14, ,  ,Site32, Retail,Activity01,371
+tag01, method2,  ,  ,Action02,Campaign14, ,  ,Site32, Retail,Activity01,735
+tag02, method2,  ,  ,Action02,Campaign14, ,  ,Site32, Retail,Activity01,483
+tag02, method1,  ,  ,Action02,Campaign14, ,  ,Site32, Retail,Activity01,99
+tag03, method1,  ,  ,Action02,Campaign14, ,  ,Site32, Retail,Activity01,559
+tag03, method2,  ,  ,Action02,Campaign14, ,  ,Site32, Retail,Activity01,756
+tag01, method1,  ,  ,Action01,Campaign06, ,  ,Site33, Retail,Activity01,709
+tag01, method2,  ,  ,Action01,Campaign06, ,  ,Site33, Retail,Activity01,220
+tag01, method2,  ,  ,Action02,Campaign06, ,  ,Site33, Retail,Activity01,468
+tag01, method1,  ,  ,Action02,Campaign06, ,  ,Site33, Retail,Activity01,331
+tag02, method1,  ,  ,Action02,Campaign06, ,  ,Site33, Retail,Activity01,745
+tag01, method1,  ,  ,Action01,Campaign08, ,  ,Site33,Brand,Activity01,604
+tag01, method2,  ,  ,Action01,Campaign08, ,  ,Site33,Brand,Activity01,288
+tag02, method1,  ,  ,Action01,Campaign08, ,  ,Site33,Brand,Activity01,581
+tag02, method2,  ,  ,Action01,Campaign08, ,  ,Site33,Brand,Activity01,244
+tag01, method2,  ,  ,Action02,Campaign08, ,  ,Site33,Brand,Activity01,137
+tag01, method1,  ,  ,Action02,Campaign08, ,  ,Site33,Brand,Activity01,347
+tag02, method2,  ,  ,Action02,Campaign08, ,  ,Site33,Brand,Activity01,961
+tag02, method1,  ,  ,Action02,Campaign08, ,  ,Site33,Brand,Activity01,65
+tag03, method2,  ,  ,Action02,Campaign08, ,  ,Site33,Brand,Activity01,466
+tag03, method1,  ,  ,Action02,Campaign08, ,  ,Site33,Brand,Activity01,658
+tag01, method1,  ,  ,Action01,Campaign13, ,  ,Site33, Retail,Activity01,713
+tag01, method2,  ,  ,Action01,Campaign13, ,  ,Site33, Retail,Activity01,840
+tag03, method1,  ,  ,Action01,Campaign13, ,  ,Site33, Retail,Activity01,464
+tag03, method2,  ,  ,Action01,Campaign13, ,  ,Site33, Retail,Activity01,20
+tag01, method2,  ,  ,Action02,Campaign13, ,  ,Site33, Retail,Activity01,703
+tag01, method1,  ,  ,Action02,Campaign13, ,  ,Site33, Retail,Activity01,616
+tag02, method1,  ,  ,Action02,Campaign13, ,  ,Site33, Retail,Activity01,330
+tag02, method2,  ,  ,Action02,Campaign13, ,  ,Site33, Retail,Activity01,620
+tag03, method1,  ,  ,Action02,Campaign13, ,  ,Site33, Retail,Activity01,983
+tag01, method2,  ,  ,Action01,Campaign14, ,  ,Site33, Retail,Activity01,295
+tag01, method1,  ,  ,Action01,Campaign14, ,  ,Site33, Retail,Activity01,86
+tag02, method1,  ,  ,Action01,Campaign14, ,  ,Site33, Retail,Activity01,51
+tag02, method2,  ,  ,Action01,Campaign14, ,  ,Site33, Retail,Activity01,904
+tag03, method2,  ,  ,Action01,Campaign14, ,  ,Site33, Retail,Activity01,202
+tag03, method1,  ,  ,Action01,Campaign14, ,  ,Site33, Retail,Activity01,373
+tag01, method2,  ,  ,Action02,Campaign14, ,  ,Site33, Retail,Activity01,215
+tag01, method1,  ,  ,Action02,Campaign14, ,  ,Site33, Retail,Activity01,758
+tag02, method1,  ,  ,Action02,Campaign14, ,  ,Site33, Retail,Activity01,269
+tag02, method2,  ,  ,Action02,Campaign14, ,  ,Site33, Retail,Activity01,437
+tag03, method1,  ,  ,Action02,Campaign14, ,  ,Site33, Retail,Activity01,548
+tag03, method2,  ,  ,Action02,Campaign14, ,  ,Site33, Retail,Activity01,540
+tag01, method2,  ,  ,Action01,Campaign15, ,  ,Site33, Retail,Activity01,964
+tag01, method1,  ,  ,Action01,Campaign15, ,  ,Site33, Retail,Activity01,395
+tag02, method2,  ,  ,Action01,Campaign15, ,  ,Site33, Retail,Activity01,740
+tag02, method1,  ,  ,Action01,Campaign15, ,  ,Site33, Retail,Activity01,987
+tag01, method1,  ,  ,Action02,Campaign15, ,  ,Site33, Retail,Activity01,842
+tag01, method2,  ,  ,Action02,Campaign15, ,  ,Site33, Retail,Activity01,986
+tag02, method1,  ,  ,Action02,Campaign15, ,  ,Site33, Retail,Activity01,147
+tag03, method2,  ,  ,Action02,Campaign15, ,  ,Site33, Retail,Activity01,107
+tag03, method1,  ,  ,Action02,Campaign15, ,  ,Site33, Retail,Activity01,248
+tag01, method2,  ,  ,Action01,Campaign20, ,  ,Site33, UNKNOWN,Activity01,963
+tag01, method1,  ,  ,Action01,Campaign20, ,  ,Site33, UNKNOWN,Activity01,251
+tag01, method1,  ,  ,Action02,Campaign20, ,  ,Site33, UNKNOWN,Activity01,775
+tag01, method2,  ,  ,Action02,Campaign20, ,  ,Site33, UNKNOWN,Activity01,436
+tag01, method1,  ,  ,Action01,Campaign12, ,  ,Site34,Brand,Activity01,401
+tag01, method1,  ,  ,Action02,Campaign12, ,  ,Site34,Brand,Activity01,705
+tag01, method2,  ,  ,Action02,Campaign12, ,  ,Site34,Brand,Activity01,357
+tag01, method1,  ,  ,Action01,Campaign08, ,  ,Site35,Brand,Activity01,712
+tag01, method2,  ,  ,Action01,Campaign16, ,  ,Site35, Retail,Activity01,921
+tag01, method1,  ,  ,Action01,Campaign16, ,  ,Site35, Retail,Activity01,465
+tag02, method2,  ,  ,Action01,Campaign16, ,  ,Site35, Retail,Activity01,913
+tag02, method1,  ,  ,Action01,Campaign16, ,  ,Site35, Retail,Activity01,738
+tag03, method2,  ,  ,Action01,Campaign16, ,  ,Site35, Retail,Activity01,922
+tag03, method1,  ,  ,Action01,Campaign16, ,  ,Site35, Retail,Activity01,309
+tag01, method1,  ,  ,Action01,Campaign18, ,  ,Site35,Brand,Activity01,264
+tag01, method2,  ,  ,Action01,Campaign18, ,  ,Site35,Brand,Activity01,423
+tag02, method2,  ,  ,Action01,Campaign18, ,  ,Site35,Brand,Activity01,611
+tag02, method1,  ,  ,Action01,Campaign18, ,  ,Site35,Brand,Activity01,259
+tag03, method2,  ,  ,Action01,Campaign18, ,  ,Site35,Brand,Activity01,114
+tag03, method1,  ,  ,Action01,Campaign18, ,  ,Site35,Brand,Activity01,114
+tag01, method2,  ,  ,Action02,Campaign18, ,  ,Site35,Brand,Activity01,700
+tag01, method1,  ,  ,Action02,Campaign18, ,  ,Site35,Brand,Activity01,595
+tag02, method1,  ,  ,Action02,Campaign18, ,  ,Site35,Brand,Activity01,189
+tag02, method2,  ,  ,Action02,Campaign18, ,  ,Site35,Brand,Activity01,596
+tag03, method1,  ,  ,Action02,Campaign18, ,  ,Site35,Brand,Activity01,331
+tag03, method2,  ,  ,Action02,Campaign18, ,  ,Site35,Brand,Activity01,670
+tag01, method1,  ,  ,Action01,Campaign08, ,  ,Site36,Brand,Activity01,209
+tag01, method2,  ,  ,Action01,Campaign08, ,  ,Site36,Brand,Activity01,919
+tag02, method1,  ,  ,Action01,Campaign08, ,  ,Site36,Brand,Activity01,361
+tag02, method2,  ,  ,Action01,Campaign08, ,  ,Site36,Brand,Activity01,99
+tag03, method2,  ,  ,Action01,Campaign08, ,  ,Site36,Brand,Activity01,805
+tag03, method1,  ,  ,Action01,Campaign08, ,  ,Site36,Brand,Activity01,533
+tag01, method2,  ,  ,Action02,Campaign08, ,  ,Site36,Brand,Activity01,919
+tag01, method1,  ,  ,Action02,Campaign08, ,  ,Site36,Brand,Activity01,883
+tag02, method2,  ,  ,Action02,Campaign08, ,  ,Site36,Brand,Activity01,869
+tag02, method1,  ,  ,Action02,Campaign08, ,  ,Site36,Brand,Activity01,672
+tag03, method1,  ,  ,Action02,Campaign08, ,  ,Site36,Brand,Activity01,612
+tag01, method2,  ,  ,Action02,Campaign08, ,  ,Site37,Brand,Activity01,742
+tag01, method1,  ,  ,Action02,Campaign08, ,  ,Site37,Brand,Activity01,335
+tag01, method1,  ,  ,Action01,Campaign04, ,  ,Site38, Retail,Activity01,748
+tag01, method2,  ,  ,Action01,Campaign04, ,  ,Site38, Retail,Activity01,342
+tag01, method2,  ,  ,Action02,Campaign04, ,  ,Site38, Retail,Activity01,170
+tag01, method1,  ,  ,Action02,Campaign04, ,  ,Site38, Retail,Activity01,383
+tag02, method2,  ,  ,Action02,Campaign04, ,  ,Site38, Retail,Activity01,984
+tag02, method1,  ,  ,Action02,Campaign04, ,  ,Site38, Retail,Activity01,256
+tag03, method1,  ,  ,Action02,Campaign04, ,  ,Site38, Retail,Activity01,202
+tag01, method2,  ,  ,Action01,Campaign05, ,  ,Site38, Retail,Activity01,350
+tag01, method1,  ,  ,Action01,Campaign05, ,  ,Site38, Retail,Activity01,875
+tag03, method1,  ,  ,Action01,Campaign05, ,  ,Site38, Retail,Activity01,368
+tag01, method1,  ,  ,Action02,Campaign05, ,  ,Site38, Retail,Activity01,127
+tag01, method2,  ,  ,Action02,Campaign05, ,  ,Site38, Retail,Activity01,972
+tag02, method1,  ,  ,Action02,Campaign05, ,  ,Site38, Retail,Activity01,226
+tag02, method2,  ,  ,Action02,Campaign05, ,  ,Site38, Retail,Activity01,986
+tag03, method1,  ,  ,Action02,Campaign05, ,  ,Site38, Retail,Activity01,859
+tag03, method2,  ,  ,Action02,Campaign05, ,  ,Site38, Retail,Activity01,124
+tag02, method2,  ,  ,Action01,Campaign02, ,  ,Site39,Brand,Activity01,987
+tag02, method1,  ,  ,Action01,Campaign02, ,  ,Site39,Brand,Activity01,75
+tag01, method2,  ,  ,Action01,Campaign08, ,  ,Site39,Brand,Activity01,201
+tag01, method1,  ,  ,Action01,Campaign08, ,  ,Site39,Brand,Activity01,962
+tag02, method2,  ,  ,Action01,Campaign08, ,  ,Site39,Brand,Activity01,204
+tag02, method1,  ,  ,Action01,Campaign08, ,  ,Site39,Brand,Activity01,272
+tag03, method2,  ,  ,Action01,Campaign08, ,  ,Site39,Brand,Activity01,98
+tag03, method1,  ,  ,Action01,Campaign08, ,  ,Site39,Brand,Activity01,633
+tag01, method2,  ,  ,Action01,Campaign18, ,  ,Site39,Brand,Activity01,598
+tag01, method1,  ,  ,Action01,Campaign18, ,  ,Site39,Brand,Activity01,20
+tag02, method2,  ,  ,Action01,Campaign18, ,  ,Site39,Brand,Activity01,422
+tag02, method1,  ,  ,Action01,Campaign18, ,  ,Site39,Brand,Activity01,572
+tag01, method2,  ,  ,Action02,Campaign09, ,  ,Site40,Brand,Activity01,666
+tag01, method1,  ,  ,Action02,Campaign09, ,  ,Site40,Brand,Activity01,765
+tag01, method2,  ,  ,Action02,Campaign12, ,  ,Site40, Retail,Activity01,466
+tag01, method1,  ,  ,Action02,Campaign12, ,  ,Site40, Retail,Activity01,287
+tag01, method1,  ,  ,Action01,Campaign13, ,  ,Site40, Retail,Activity01,303
+tag01, method2,  ,  ,Action01,Campaign13, ,  ,Site40, Retail,Activity01,163
+tag02, method1,  ,  ,Action01,Campaign13, ,  ,Site40, Retail,Activity01,315
+tag02, method2,  ,  ,Action01,Campaign13, ,  ,Site40, Retail,Activity01,666
+tag03, method1,  ,  ,Action01,Campaign13, ,  ,Site40, Retail,Activity01,299
+tag03, method2,  ,  ,Action01,Campaign13, ,  ,Site40, Retail,Activity01,384
+tag01, method2,  ,  ,Action02,Campaign13, ,  ,Site40, Retail,Activity01,355
+tag01, method1,  ,  ,Action02,Campaign13, ,  ,Site40, Retail,Activity01,384
+tag02, method2,  ,  ,Action02,Campaign13, ,  ,Site40, Retail,Activity01,472
+tag02, method1,  ,  ,Action02,Campaign13, ,  ,Site40, Retail,Activity01,143
+tag03, method2,  ,  ,Action02,Campaign13, ,  ,Site40, Retail,Activity01,154
+tag03, method1,  ,  ,Action02,Campaign13, ,  ,Site40, Retail,Activity01,532
+tag04, method1,  ,  ,Action02,Campaign13, ,  ,Site40, Retail,Activity01,175
+tag01, method2,  ,  ,Action02,Campaign20, ,  ,Site40, UNKNOWN,Activity01,6
+tag01, method1,  ,  ,Action02,Campaign20, ,  ,Site40, UNKNOWN,Activity01,843
+tag01, method1,  ,  ,Action01,Campaign08, ,  ,Site41,Brand,Activity01,704
+tag01, method2,  ,  ,Action01,Campaign08, ,  ,Site41,Brand,Activity01,69
+tag03, method1,  ,  ,Action01,Campaign08, ,  ,Site41,Brand,Activity01,809
+tag03, method2,  ,  ,Action01,Campaign08, ,  ,Site41,Brand,Activity01,152
+tag01, method2,  ,  ,Action02,Campaign08, ,  ,Site41,Brand,Activity01,101
+tag01, method1,  ,  ,Action02,Campaign08, ,  ,Site41,Brand,Activity01,541
+tag02, method1,  ,  ,Action02,Campaign08, ,  ,Site41,Brand,Activity01,19
+tag02, method2,  ,  ,Action02,Campaign08, ,  ,Site41,Brand,Activity01,140
+tag03, method2,  ,  ,Action02,Campaign08, ,  ,Site41,Brand,Activity01,580
+tag03, method1,  ,  ,Action02,Campaign08, ,  ,Site41,Brand,Activity01,686
+tag01, method2,  ,  ,Action01,Campaign15, ,  ,Site41, Retail,Activity01,695
+tag01, method1,  ,  ,Action01,Campaign15, ,  ,Site41, Retail,Activity01,698
+tag02, method1,  ,  ,Action01,Campaign15, ,  ,Site41, Retail,Activity01,920
+tag02, method2,  ,  ,Action01,Campaign15, ,  ,Site41, Retail,Activity01,126
+tag01, method1,  ,  ,Action02,Campaign15, ,  ,Site41, Retail,Activity01,538
+tag01, method2,  ,  ,Action02,Campaign15, ,  ,Site41, Retail,Activity01,183
+tag02, method1,  ,  ,Action02,Campaign15, ,  ,Site41, Retail,Activity01,427
+tag02, method2,  ,  ,Action02,Campaign15, ,  ,Site41, Retail,Activity01,770
+tag03, method2,  ,  ,Action02,Campaign15, ,  ,Site41, Retail,Activity01,969
+tag03, method1,  ,  ,Action02,Campaign15, ,  ,Site41, Retail,Activity01,258
+tag01, method1,  ,  ,Action01,Campaign08, ,  ,Site42,Brand,Activity01,295
+tag01, method2,  ,  ,Action01,Campaign08, ,  ,Site42,Brand,Activity01,188
+tag01, method2,  ,  ,Action01,Campaign18, ,  ,Site42,Brand,Activity01,329
+tag01, method1,  ,  ,Action01,Campaign18, ,  ,Site42,Brand,Activity01,475
+tag02, method1,  ,  ,Action01,Campaign18, ,  ,Site42,Brand,Activity01,342
+tag02, method2,  ,  ,Action01,Campaign18, ,  ,Site42,Brand,Activity01,859
+tag03, method1,  ,  ,Action01,Campaign18, ,  ,Site42,Brand,Activity01,982
+tag03, method2,  ,  ,Action01,Campaign18, ,  ,Site42,Brand,Activity01,871
+tag01, method2,  ,  ,Action02,Campaign18, ,  ,Site42,Brand,Activity01,221
+tag01, method1,  ,  ,Action02,Campaign18, ,  ,Site42,Brand,Activity01,16
+tag02, method2,  ,  ,Action02,Campaign18, ,  ,Site42,Brand,Activity01,109
+tag02, method1,  ,  ,Action02,Campaign18, ,  ,Site42,Brand,Activity01,976
+tag03, method1,  ,  ,Action02,Campaign18, ,  ,Site42,Brand,Activity01,34
+tag03, method2,  ,  ,Action02,Campaign18, ,  ,Site42,Brand,Activity01,559
+tag01, method2,  ,  ,Action01,Campaign08, ,  ,Site43,Brand,Activity01,461
+tag01, method1,  ,  ,Action01,Campaign08, ,  ,Site43,Brand,Activity01,175
+tag02, method1,  ,  ,Action01,Campaign08, ,  ,Site43,Brand,Activity01,322
+tag02, method2,  ,  ,Action01,Campaign08, ,  ,Site43,Brand,Activity01,388
+tag01, method2,  ,  ,Action02,Campaign08, ,  ,Site43,Brand,Activity01,198
+tag01, method1,  ,  ,Action02,Campaign08, ,  ,Site43,Brand,Activity01,224
+tag02, method1,  ,  ,Action02,Campaign08, ,  ,Site43,Brand,Activity01,701
+tag02, method2,  ,  ,Action02,Campaign08, ,  ,Site43,Brand,Activity01,387
+tag03, method1,  ,  ,Action02,Campaign08, ,  ,Site43,Brand,Activity01,435
+tag03, method2,  ,  ,Action02,Campaign08, ,  ,Site43,Brand,Activity01,334
+tag01, method2,  ,  ,Action01,Campaign13, ,  ,Site43, Retail,Activity01,829
+tag01, method1,  ,  ,Action01,Campaign13, ,  ,Site43, Retail,Activity01,107
+tag02, method2,  ,  ,Action01,Campaign13, ,  ,Site43, Retail,Activity01,961
+tag02, method1,  ,  ,Action01,Campaign13, ,  ,Site43, Retail,Activity01,765
+tag03, method2,  ,  ,Action01,Campaign13, ,  ,Site43, Retail,Activity01,384
+tag03, method1,  ,  ,Action01,Campaign13, ,  ,Site43, Retail,Activity01,214
+tag01, method1,  ,  ,Action02,Campaign13, ,  ,Site43, Retail,Activity01,736
+tag01, method2,  ,  ,Action02,Campaign13, ,  ,Site43, Retail,Activity01,260
+tag02, method1,  ,  ,Action02,Campaign13, ,  ,Site43, Retail,Activity01,428
+tag03, method1,  ,  ,Action02,Campaign13, ,  ,Site43, Retail,Activity01,586
+tag01, method1,  ,  ,Action01,Campaign18, ,  ,Site43,Brand,Activity01,477
+tag01, method2,  ,  ,Action01,Campaign18, ,  ,Site43,Brand,Activity01,13
+tag02, method2,  ,  ,Action01,Campaign18, ,  ,Site43,Brand,Activity01,139
+tag02, method1,  ,  ,Action01,Campaign18, ,  ,Site43,Brand,Activity01,796
+tag03, method1,  ,  ,Action01,Campaign18, ,  ,Site43,Brand,Activity01,625
+tag03, method2,  ,  ,Action01,Campaign18, ,  ,Site43,Brand,Activity01,849
+tag01, method1,  ,  ,Action02,Campaign18, ,  ,Site43,Brand,Activity01,565
+tag01, method2,  ,  ,Action02,Campaign18, ,  ,Site43,Brand,Activity01,649
+tag02, method1,  ,  ,Action02,Campaign18, ,  ,Site43,Brand,Activity01,288
+tag02, method2,  ,  ,Action02,Campaign18, ,  ,Site43,Brand,Activity01,909
+tag03, method2,  ,  ,Action02,Campaign18, ,  ,Site43,Brand,Activity01,243
+tag03, method1,  ,  ,Action02,Campaign18, ,  ,Site43,Brand,Activity01,257
+tag01, method1,  ,  ,Action01,Campaign19, ,  ,Site44,Brand,Activity01,896
+tag01, method2,  ,  ,Action01,Campaign20, ,  ,Site45, UNKNOWN,Activity01,646
+tag01, method1,  ,  ,Action01,Campaign20, ,  ,Site45, UNKNOWN,Activity01,50
+tag01, method2,  ,  ,Action02,Campaign20, ,  ,Site45, UNKNOWN,Activity01,106
+tag01, method1,  ,  ,Action02,Campaign20, ,  ,Site45, UNKNOWN,Activity01,509
+tag02, method1,  ,  ,Action02,Campaign20, ,  ,Site45, UNKNOWN,Activity01,751
+tag01, method1,  ,  ,Action01,Campaign18, ,  ,Site46,Brand,Activity01,851
+tag01, method2,  ,  ,Action01,Campaign18, ,  ,Site46,Brand,Activity01,297
+tag02, method2,  ,  ,Action01,Campaign18, ,  ,Site46,Brand,Activity01,521
+tag02, method1,  ,  ,Action01,Campaign18, ,  ,Site46,Brand,Activity01,872
+tag01, method1,  ,  ,Action02,Campaign18, ,  ,Site46,Brand,Activity01,482
+tag01, method2,  ,  ,Action02,Campaign18, ,  ,Site46,Brand,Activity01,40
+tag02, method1,  ,  ,Action02,Campaign18, ,  ,Site46,Brand,Activity01,420
+tag01, method2,  ,  ,Action01,Campaign20, ,  ,Site46, UNKNOWN,Activity01,102
+tag01, method1,  ,  ,Action01,Campaign20, ,  ,Site46, UNKNOWN,Activity01,55
+tag01, method2,  ,  ,Action02,Campaign20, ,  ,Site46, UNKNOWN,Activity01,708
+tag01, method1,  ,  ,Action02,Campaign20, ,  ,Site46, UNKNOWN,Activity01,768
+tag01, method2,  ,  ,Action01,Campaign20, ,  ,Site47, UNKNOWN,Activity01,981
+tag01, method1,  ,  ,Action01,Campaign20, ,  ,Site47, UNKNOWN,Activity01,809
+tag01, method1,  ,  ,Action02,Campaign20, ,  ,Site47, UNKNOWN,Activity01,954
+tag01, method2,  ,  ,Action02,Campaign20, ,  ,Site47, UNKNOWN,Activity01,469
+tag02, method1,  ,  ,Action02,Campaign20, ,  ,Site47, UNKNOWN,Activity01,519
+tag02, method2,  ,  ,Action02,Campaign20, ,  ,Site47, UNKNOWN,Activity01,819
+tag01, method2,  ,  ,Action01,Campaign08, ,  ,Site48,Brand,Activity01,459
+tag01, method1,  ,  ,Action01,Campaign08, ,  ,Site48,Brand,Activity01,539
+tag02, method2,  ,  ,Action01,Campaign08, ,  ,Site48,Brand,Activity01,239
+tag02, method1,  ,  ,Action01,Campaign08, ,  ,Site48,Brand,Activity01,683
+tag03, method1,  ,  ,Action01,Campaign08, ,  ,Site48,Brand,Activity01,826
+tag03, method2,  ,  ,Action01,Campaign08, ,  ,Site48,Brand,Activity01,806
+tag01, method1,  ,  ,Action02,Campaign08, ,  ,Site48,Brand,Activity01,589
+tag01, method2,  ,  ,Action02,Campaign08, ,  ,Site48,Brand,Activity01,611
+tag02, method2,  ,  ,Action02,Campaign08, ,  ,Site48,Brand,Activity01,789
+tag02, method1,  ,  ,Action02,Campaign08, ,  ,Site48,Brand,Activity01,779
+tag03, method2,  ,  ,Action02,Campaign08, ,  ,Site48,Brand,Activity01,470
+tag03, method1,  ,  ,Action02,Campaign08, ,  ,Site48,Brand,Activity01,274
+tag01, method1,  ,  ,Action01,Campaign13, ,  ,Site48, Retail,Activity01,927
+tag01, method2,  ,  ,Action01,Campaign13, ,  ,Site48, Retail,Activity01,584
+tag02, method2,  ,  ,Action01,Campaign13, ,  ,Site48, Retail,Activity01,984
+tag02, method1,  ,  ,Action01,Campaign13, ,  ,Site48, Retail,Activity01,667
+tag03, method2,  ,  ,Action01,Campaign13, ,  ,Site48, Retail,Activity01,230
+tag03, method1,  ,  ,Action01,Campaign13, ,  ,Site48, Retail,Activity01,183
+tag01, method1,  ,  ,Action02,Campaign13, ,  ,Site48, Retail,Activity01,999
+tag01, method2,  ,  ,Action02,Campaign13, ,  ,Site48, Retail,Activity01,807
+tag02, method1,  ,  ,Action02,Campaign13, ,  ,Site48, Retail,Activity01,865
+tag02, method2,  ,  ,Action02,Campaign13, ,  ,Site48, Retail,Activity01,23
+tag03, method2,  ,  ,Action02,Campaign13, ,  ,Site48, Retail,Activity01,497
+tag03, method1,  ,  ,Action02,Campaign13, ,  ,Site48, Retail,Activity01,577
+tag01, method1,  ,  ,Action01,Campaign14, ,  ,Site48, Retail,Activity01,238
+tag01, method2,  ,  ,Action01,Campaign14, ,  ,Site48, Retail,Activity01,171
+tag02, method1,  ,  ,Action01,Campaign14, ,  ,Site48, Retail,Activity01,370
+tag03, method2,  ,  ,Action01,Campaign14, ,  ,Site48, Retail,Activity01,455
+tag03, method1,  ,  ,Action01,Campaign14, ,  ,Site48, Retail,Activity01,163
+tag01, method2,  ,  ,Action02,Campaign14, ,  ,Site48, Retail,Activity01,928
+tag01, method1,  ,  ,Action02,Campaign14, ,  ,Site48, Retail,Activity01,954
+tag02, method2,  ,  ,Action02,Campaign14, ,  ,Site48, Retail,Activity01,886
+tag02, method1,  ,  ,Action02,Campaign14, ,  ,Site48, Retail,Activity01,965
+tag03, method2,  ,  ,Action02,Campaign14, ,  ,Site48, Retail,Activity01,295
+tag03, method1,  ,  ,Action02,Campaign14, ,  ,Site48, Retail,Activity01,130
+tag01, method2,  ,  ,Action01,Campaign15, ,  ,Site48, Retail,Activity01,915
+tag01, method1,  ,  ,Action01,Campaign15, ,  ,Site48, Retail,Activity01,981
+tag02, method2,  ,  ,Action01,Campaign15, ,  ,Site48, Retail,Activity01,365
+tag02, method1,  ,  ,Action01,Campaign15, ,  ,Site48, Retail,Activity01,841
+tag01, method1,  ,  ,Action02,Campaign15, ,  ,Site48, Retail,Activity01,940
+tag01, method2,  ,  ,Action02,Campaign15, ,  ,Site48, Retail,Activity01,317
+tag02, method2,  ,  ,Action02,Campaign15, ,  ,Site48, Retail,Activity01,221
+tag02, method1,  ,  ,Action02,Campaign15, ,  ,Site48, Retail,Activity01,287
+tag03, method1,  ,  ,Action02,Campaign15, ,  ,Site48, Retail,Activity01,40
+tag03, method2,  ,  ,Action02,Campaign15, ,  ,Site48, Retail,Activity01,400
+tag01, method1,  ,  ,Action01,Campaign16, ,  ,Site48, Retail,Activity01,541
+tag01, method2,  ,  ,Action01,Campaign16, ,  ,Site48, Retail,Activity01,660
+tag02, method2,  ,  ,Action01,Campaign16, ,  ,Site48, Retail,Activity01,54
+tag02, method1,  ,  ,Action01,Campaign16, ,  ,Site48, Retail,Activity01,115
+tag03, method1,  ,  ,Action01,Campaign16, ,  ,Site48, Retail,Activity01,892
+tag01, method1,  ,  ,Action02,Campaign16, ,  ,Site48, Retail,Activity01,509
+tag01, method2,  ,  ,Action02,Campaign16, ,  ,Site48, Retail,Activity01,12
+tag02, method2,  ,  ,Action02,Campaign16, ,  ,Site48, Retail,Activity01,153
+tag02, method1,  ,  ,Action02,Campaign16, ,  ,Site48, Retail,Activity01,821
+tag03, method1,  ,  ,Action02,Campaign16, ,  ,Site48, Retail,Activity01,764
+tag03, method2,  ,  ,Action02,Campaign16, ,  ,Site48, Retail,Activity01,550
+tag01, method1,  ,  ,Action01,Campaign18, ,  ,Site48,Brand,Activity01,408
+tag01, method2,  ,  ,Action01,Campaign18, ,  ,Site48,Brand,Activity01,114
+tag02, method1,  ,  ,Action01,Campaign18, ,  ,Site48,Brand,Activity01,433
+tag02, method2,  ,  ,Action01,Campaign18, ,  ,Site48,Brand,Activity01,144
+tag03, method1,  ,  ,Action01,Campaign18, ,  ,Site48,Brand,Activity01,353
+tag03, method2,  ,  ,Action01,Campaign18, ,  ,Site48,Brand,Activity01,884
+tag01, method2,  ,  ,Action02,Campaign18, ,  ,Site48,Brand,Activity01,616
+tag01, method1,  ,  ,Action02,Campaign18, ,  ,Site48,Brand,Activity01,860
+tag02, method1,  ,  ,Action02,Campaign18, ,  ,Site48,Brand,Activity01,976
+tag02, method2,  ,  ,Action02,Campaign18, ,  ,Site48,Brand,Activity01,870
+tag03, method2,  ,  ,Action02,Campaign18, ,  ,Site48,Brand,Activity01,286
+tag03, method1,  ,  ,Action02,Campaign18, ,  ,Site48,Brand,Activity01,97
+tag01, method1,  ,  ,Action01,Campaign18, ,  ,Site49,Brand,Activity01,364
+tag01, method2,  ,  ,Action01,Campaign18, ,  ,Site49,Brand,Activity01,749
+tag02, method1,  ,  ,Action01,Campaign18, ,  ,Site49,Brand,Activity01,514
+tag02, method2,  ,  ,Action01,Campaign18, ,  ,Site49,Brand,Activity01,61
+tag03, method1,  ,  ,Action01,Campaign18, ,  ,Site49,Brand,Activity01,830
+tag01, method2,  ,  ,Action02,Campaign18, ,  ,Site49,Brand,Activity01,370
+tag01, method1,  ,  ,Action02,Campaign18, ,  ,Site49,Brand,Activity01,654
+tag02, method2,  ,  ,Action02,Campaign18, ,  ,Site49,Brand,Activity01,489
+tag02, method1,  ,  ,Action02,Campaign18, ,  ,Site49,Brand,Activity01,754
+tag03, method2,  ,  ,Action02,Campaign18, ,  ,Site49,Brand,Activity01,852
+tag03, method1,  ,  ,Action02,Campaign18, ,  ,Site49,Brand,Activity01,781

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Douglas Fletcher: 2016.06.08 -->
+
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<title>tree map</title>
+
+		<link rel="stylesheet" type="text/css"
+			href="https://fonts.googleapis.com/css?family=Open+Sans:400,600">
+
+		<!-- specific formatting -->
+		<link rel="stylesheet" type="text/css" href="css/treeformats.css"/>
+
+		<!-- Bootstrap -->
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+
+	</head>
+
+	<body>
+		<!-- Title: TODO: add multscreen -->
+		<!--<div class="container-fluid" class="col-xs-2" id="topContainer">
+			<h1>Credit Allocation: Attributed vs. Last Event</h1>
+		</div>-->
+
+		<!-- Form controls: TODO: Add positioning horizontal, multiscreen -->
+		<div class="bottom-buffer container-fluid" id="formContainer">
+
+			<!--<form class="locator form-inline inline-block">-->
+			<form>
+
+				<!-- Record Type -->
+				<div class="form-group col-xs-4 col-md-3">
+					<label class="labelSize" for="RecordType">Success Type</label>
+					<select class="form-control" id="RecordType">
+						<option value="tag01" selected>tag01</option>
+						<option value="tag02">tag02</option>
+						<option value="tag03">tag03</option>
+						<option value="tag04">tag04</option>
+					</select>
+				</div>
+
+				<!-- Grouping Level -->
+				<div class="form-group col-xs-4 col-md-3.1">
+					<label class="labelSize" for="grouplevel">Meta Level</label>
+					<select class="form-control" id="grouplevel" name="grouplevel">
+						<option value="Group1">Site-Match</option>
+						<option value="Group2" selected>Campaign</option>
+						<option value="Group3">Type-Category</option>
+					</select>
+				</div>
+
+				<!-- attribution type -->
+				<div class="form-group col-xs-4 col-md-3.1">
+					<label class="labelSize" for="attribmethod">Method</label>
+					<select class="form-control" id="attribmethod">
+						<option value="method1">method1</option>
+						<option value="method2" selected>method2</option>
+					</select>
+				</div>
+
+			</form>
+
+		</div>
+
+		<!-- Graphic d3 -->
+		<div class="row-fluid" id="graphContainer" class="col-xs-2">
+			<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+			<!-- bootstrap -->
+			<script src="js/bootstrap.min.js"></script>
+			<!-- d3 plugins -->
+			<script src="http://d3js.org/d3.v3.min.js"></script>
+			<!-- tip library -->
+			<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+			<!-- graph functions: THIS IS WHERE GRAPH COMES FROM -->
+			<script type="text/javascript" src="js/mapdata.js"></script>
+		</div>
+
+	</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
